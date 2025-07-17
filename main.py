@@ -1,6 +1,7 @@
 import sys
 import time
 import pytz
+import os
 from datetime import datetime
 
 from utils import get_daily_papers_by_keyword_with_retries, generate_table, back_up_files,\
@@ -45,7 +46,16 @@ f_is.write("---\n")
 f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
 f_is.write("labels: documentation\n")
 f_is.write("---\n")
-f_is.write("**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**\n\n")
+# Get repository name from environment variable to create a dynamic link
+repo_name = os.environ.get("GITHUB_REPOSITORY")
+# If the script is running in a GitHub Action, repo_name will be set.
+# Otherwise, it will be None (for local testing).
+if repo_name:
+    repo_url = f"https://github.com/{repo_name}"
+    f_is.write(f"**Please check the [Github]({repo_url}) page for a better reading experience and more papers.**\n\n")
+else:
+    # Fallback message for local execution
+    f_is.write("**This is a local run. The link to the GitHub repository will be generated automatically in the workflow.**\n\n")
 
 for keyword in keywords:
     f_rm.write("## {0}\n".format(keyword))
