@@ -1,11 +1,9 @@
 name: Update
 
 on:
-  label:
-    types:
-      - created # for test
   schedule:
-      - cron: '30 16 * * *' # 00:30 Beijing time every Monday to Sunday
+      - cron: '30 16 * * *' # 00:30 Beijing time every day
+  workflow_dispatch: # Allows you to manually run the workflow from the Actions tab
 
 permissions:
   contents: write
@@ -17,6 +15,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # Fetches all history for all branches and tags
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -35,8 +35,12 @@ jobs:
         git config --global user.name 'bguanmath'
         git config --global user.email 'guan__bin@163.com'
         git add -A
-        git diff-index --quiet HEAD || git commit -m "✏️ Update papers automatically."
-        git push --force
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+        else
+          git commit -m "✏️ Update papers automatically."
+          git push --force origin HEAD:refs/heads/master
+        fi
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
