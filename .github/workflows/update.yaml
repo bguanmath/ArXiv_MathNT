@@ -38,8 +38,9 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: bguanmath
-        email: guan__bin@163.com
+        name: bguanmath # 这里应该是你自己的名字
+        email: guan__bin@163.com # 这里应该是你自己的邮箱
+        force-push: 'true' # 如果你fork了这个项目并且有本地操作，建议删掉此行
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
