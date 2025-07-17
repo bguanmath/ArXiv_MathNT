@@ -31,16 +31,12 @@ jobs:
         python main.py
 
     - name: Commit and push changes
-      uses: github-actions-x/commit@v2.9
-      with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'master'
-        commit-message: '✏️ Update papers automatically.'
-        force-add: 'true'
-        files: README.md .github/ISSUE_TEMPLATE.md
-        name: bguanmath # 这里应该是你自己的名字
-        email: guan__bin@163.com # 这里应该是你自己的邮箱
-        force-push: 'true' # 如果你fork了这个项目并且有本地操作，建议删掉此行
+      run: |
+        git config --global user.name 'bguanmath'
+        git config --global user.email 'guan__bin@163.com'
+        git add -A
+        git diff-index --quiet HEAD || git commit -m "✏️ Update papers automatically."
+        git push --force
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
