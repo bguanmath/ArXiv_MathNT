@@ -151,6 +151,7 @@ venv.bak/
 .ropeproject
 
 # mkdocs documentation
+new_issue_template.md
 /site
 
 # mypy
