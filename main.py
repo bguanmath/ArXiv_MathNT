@@ -45,7 +45,7 @@ try:
             repo_name = os.environ.get("GITHUB_REPOSITORY")
             if repo_name:
                 repo_url = f"https://github.com/{repo_name}"
-                f_is.write(f"**Please check the [Github]({repo_url}) page for a better reading experience and more papers.**\n\n")
+                f_is.write(f"**Please check the [Github]({repo_url}) page for more information and more papers.**\n\n")
 
             # --- MAIN LOGIC ---
             if keywords:
@@ -63,7 +63,7 @@ try:
 
                     rm_table = generate_table(papers)
                     is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
-                    f_rm.write(rm_table + "\n\n")
+                    f_rm.write("\n\n---\n\n" + rm_table + "\n\n")
                     f_is.write(is_table + "\n\n")
                     time.sleep(5)
             elif default_categories:
@@ -79,7 +79,7 @@ try:
                 
                 rm_table = generate_table(papers)
                 is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
-                f_rm.write(rm_table + "\n\n")
+                f_rm.write("\n\n---\n\n" + rm_table + "\n\n")
                 f_is.write(is_table + "\n\n")
             else:
                 print("Both KEYWORDS and CATEGORIES are empty. Nothing to do.")
