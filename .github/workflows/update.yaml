@@ -3,7 +3,7 @@ name: Update
 on:
   schedule:
       - cron: '30 16 * * *' # 00:30 Beijing time every day
-  workflow_dispatch: # Allows you to manually run the workflow from the Actions tab
+  workflow_dispatch: # Allows manual run
 
 permissions:
   contents: write
@@ -12,11 +12,23 @@ permissions:
 jobs:
   update_daily_papers:
     runs-on: ubuntu-latest
+    
+    # --- DEFINE YOUR VARIABLES HERE ---
+    env:
+      # If KEYWORDS is not empty, the script will search by keywords.
+      # Example: KEYWORDS: 'Graph Neural Networks, Large Language Models'
+      KEYWORDS: '' 
+      
+      # If KEYWORDS is empty, the script will search by categories.
+      # Use comma to separate multiple categories.
+      # Example: CATEGORIES: 'math.NT, math.RT' for Number/Representation Theory
+      CATEGORIES: 'math.NT, math.RT'
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0 # Fetches all history for all branches and tags
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -27,22 +39,23 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Update papers
-      run: |
-        python main.py
+      run: python main.py
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'bguanmath'
         git config --global user.email 'guan__bin@163.com'
-        git add -A
+        git add README.md
         if git diff --staged --quiet; then
           echo "No changes to commit."
         else
           git commit -m "✏️ Update papers automatically."
           git push --force origin HEAD:refs/heads/master
         fi
-
+    
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
+      with:
+        filename: new_issue_template.md
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
