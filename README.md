@@ -5,6 +5,10 @@ Last update: 2025-07-18
 
 Displaying the latest papers from categories: math.NT, math.RT
 
+
+
+---
+
 ### \[<a href='http://arxiv.org/abs/2406.18798v3'>2406.18798</a>\]&nbsp; **On an entropic analogue of additive energy**
 
 
