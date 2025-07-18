@@ -92,47 +92,58 @@ def get_daily_papers(column_names: List[str], max_result: int, keyword: str = No
     papers = [{column_name: paper[column_name] for column_name in column_names} for paper in papers]
     return papers
 
+
 def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) -> str:
     if not papers:
         return "No new papers found today."
-        
-    formatted_papers = []
-    keys = papers[0].keys()
-    for paper in papers:
-        formatted_paper = EasyDict()
-        formatted_paper.Title = "**" + "[{0}]({1})".format(paper["Title"], paper["Link"]) + "**"
-        formatted_paper.Date = paper["Date"].split("T")[0]
-        
-        for key in keys:
-            if key in ["Title", "Link", "Date"] or key in ignore_keys:
-                continue
-            elif key == "Abstract":
-                formatted_paper[key] = "<details><summary>Show</summary><p>{0}</p></details>".format(paper[key])
-            elif key == "Authors":
-                formatted_paper[key] = paper[key][0] + " et al." if len(paper[key]) > 1 else paper[key][0]
-            elif key == "Tags":
-                tags = ", ".join(paper[key])
-                if len(tags) > 10:
-                    formatted_paper[key] = "<details><summary>{0}...</summary><p>{1}</p></details>".format(tags[:5], tags)
-                else:
-                    formatted_paper[key] = tags
-            elif key == "Comment":
-                if paper[key] == "":
-                    formatted_paper[key] = ""
-                elif len(paper[key]) > 20:
-                    formatted_paper[key] = "<details><summary>{0}...</summary><p>{1}</p></details>".format(paper[key][:5], paper[key])
-                else:
-                    formatted_paper[key] = paper[key]
-        formatted_papers.append(formatted_paper)
 
-    columns = formatted_papers[0].keys()
-    header = "| " + " | ".join(["**" + column + "**" for column in columns]) + " |"
-    header += "\n| " + " | ".join(["---"] * len(columns)) + " |"
-    
+    # Get the ordered list of keys to display from the first paper's keys.
+    # This order is determined by `column_names` in main.py.
+    # We also filter out any keys that should be ignored (like 'Abstract' for issues)
+    # and the 'Link' key because we merge it into the 'Title'.
+    display_keys = [key for key in papers[0].keys() if key not in ignore_keys and key != 'Link']
+
+    # Generate the table header based on the display keys
+    header_cols = [f"**{key}**" for key in display_keys]
+    header = "| " + " | ".join(header_cols) + " |"
+    header += "\n| " + " | ".join(["---"] * len(display_keys)) + " |"
+
+    # Generate the body row by row
     body = ""
-    for paper in formatted_papers:
-        body += "\n| " + " | ".join(paper.values()) + " |"
+    for paper in papers:
+        row_values = []
+        for key in display_keys:
+            value = paper.get(key, "")
+            formatted_value = ""
+            
+            # Apply special formatting based on the key name
+            if key == "Title":
+                link = paper.get("Link", "#") # Get the link URL
+                formatted_value = f"**[{paper.get('Title', '')}]({link})**"
+            elif key == "Date":
+                formatted_value = value.split("T")[0]
+            elif key == "Abstract":
+                formatted_value = f"<details><summary>Show</summary><p>{value}</p></details>" if value else ""
+            elif key == "Authors":
+                authors_list = paper.get("Authors", [])
+                if authors_list:
+                    formatted_value = authors_list[0] + " et al." if len(authors_list) > 1 else authors_list[0]
+                else:
+                    formatted_value = ""
+            elif key == "Comment":
+                if value and len(value) > 20:
+                    formatted_value = f"<details><summary>{value[:5]}...</summary><p>{value}</p></details>"
+                else:
+                    formatted_value = value
+            else:
+                # For any other columns, just use the value as is
+                formatted_value = value
+                
+            row_values.append(formatted_value)
+        body += "\n| " + " | ".join(row_values) + " |"
+        
     return header + body
+
 
 def back_up_files():
     if os.path.exists("README.md"):
