@@ -4,79 +4,88 @@ import pytz
 import os
 from datetime import datetime
 
-from utils import get_daily_papers_by_keyword_with_retries, generate_table, back_up_files,\
-    restore_files, remove_backups, get_daily_date
-
+from utils import get_daily_papers, generate_table, back_up_files, restore_files, remove_backups, get_daily_date
 
 beijing_timezone = pytz.timezone('Asia/Shanghai')
-
-# NOTE: arXiv API seems to sometimes return an unexpected empty list.
-
-# get current beijing time date in the format of "2021-08-01"
 current_date = datetime.now(beijing_timezone).strftime("%Y-%m-%d")
-# get last update date from README.md
-with open("README.md", "r") as f:
-    while True:
-        line = f.readline()
-        if "Last update:" in line: break
-    last_update_date = line.split(": ")[1].strip()
-    # if last_update_date == current_date:
-        # sys.exit("Already updated today!")
 
-keywords = [] # TODO add more keywords
+# --- DYNAMIC CONFIGURATION FROM GITHUB ACTIONS VARIABLES ---
+# Read environment variables set in the YAML file
+keywords_str = os.environ.get('KEYWORDS', '')
+categories_str = os.environ.get('CATEGORIES', 'math.NT,math.RT') # Default if not set
 
-max_result = 100 # maximum query results from arXiv API for each keyword
-issues_result = 15 # maximum papers to be included in the issue
+# Parse comma-separated strings into lists, removing any empty strings or whitespace
+keywords = [k.strip() for k in keywords_str.split(',') if k.strip()]
+default_categories = [c.strip() for c in categories_str.split(',') if c.strip()]
 
-# all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
-# fixed_columns = ["Title", "Link", "Date"]
+# --- STATIC CONFIGURATION ---
+max_result = 100
+issues_result = 15
+column_names = ["Title", "Link", "Abstract", "Date", "Comment"]
 
-column_names = ["Date", "Title", "Link", "Authors", "Abstract", "Comment"]
+# --- SETUP ---
+back_up_files()
 
-back_up_files() # back up README.md and ISSUE_TEMPLATE.md
+try:
+    # --- WRITE README HEADER ---
+    with open("README.md", "w") as f_rm:
+        f_rm.write("# Daily Papers\n")
+        f_rm.write("The project automatically fetches the latest papers from arXiv.\n\n")
+        f_rm.write(f"Last update: {current_date}\n\n")
 
-# write to README.md
-f_rm = open("README.md", "w") # file for README.md
-f_rm.write("# Daily Papers\n")
-f_rm.write("The project automatically fetches the latest papers from arXiv based on keywords.\n\nThe subheadings in the README file represent the search keywords.\n\nOnly the most recent articles for each keyword are retained, up to a maximum of 100 papers.\n\nYou can click the 'Watch' button to receive daily email notifications.\n\nLast update: {0}\n\n".format(current_date))
+        # --- PREPARE NEW ISSUE FILE ---
+        with open("new_issue_template.md", "w") as f_is:
+            f_is.write("---\n")
+            f_is.write(f"title: Latest Papers - {get_daily_date()}\n")
+            f_is.write("labels: documentation\n")
+            f_is.write("---\n")
+            
+            repo_name = os.environ.get("GITHUB_REPOSITORY")
+            if repo_name:
+                repo_url = f"https://github.com/{repo_name}"
+                f_is.write(f"**Please check the [Github]({repo_url}) page for a better reading experience and more papers.**\n\n")
 
-# write to ISSUE_TEMPLATE.md
-f_is = open(".github/ISSUE_TEMPLATE.md", "w") # file for ISSUE_TEMPLATE.md
-f_is.write("---\n")
-f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
-f_is.write("labels: documentation\n")
-f_is.write("---\n")
-# Get repository name from environment variable to create a dynamic link
-repo_name = os.environ.get("GITHUB_REPOSITORY")
-# If the script is running in a GitHub Action, repo_name will be set.
-# Otherwise, it will be None (for local testing).
-if repo_name:
-    repo_url = f"https://github.com/{repo_name}"
-    f_is.write(f"**Please check the [Github]({repo_url}) page for a better reading experience and more papers.**\n\n")
-else:
-    # Fallback message for local execution
-    f_is.write("**This is a local run. The link to the GitHub repository will be generated automatically in the workflow.**\n\n")
+            # --- MAIN LOGIC ---
+            if keywords:
+                # --- A: Search by Keywords ---
+                print(f"Searching by keywords: {keywords}")
+                f_rm.write("The subheadings in the README file represent the search keywords.\n\n")
+                for keyword in keywords:
+                    f_rm.write(f"## {keyword}\n")
+                    f_is.write(f"## {keyword}\n")
+                    
+                    papers = get_daily_papers(column_names, max_result, keyword=keyword)
+                    if papers is None:
+                        print(f"Failed to get papers for keyword: {keyword}!")
+                        continue
 
-for keyword in keywords:
-    f_rm.write("## {0}\n".format(keyword))
-    f_is.write("## {0}\n".format(keyword))
-    if len(keyword.split()) == 1: link = "AND" # for keyword with only one word, We search for papers containing this keyword in both the title and abstract.
-    else: link = "OR"
-    papers = get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result, link)
-    if papers is None: # failed to get papers
-        print("Failed to get papers!")
-        f_rm.close()
-        f_is.close()
-        restore_files()
-        sys.exit("Failed to get papers!")
-    rm_table = generate_table(papers)
-    is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
-    f_rm.write(rm_table)
-    f_rm.write("\n\n")
-    f_is.write(is_table)
-    f_is.write("\n\n")
-    time.sleep(5) # avoid being blocked by arXiv API
+                    rm_table = generate_table(papers)
+                    is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
+                    f_rm.write(rm_table + "\n\n")
+                    f_is.write(is_table + "\n\n")
+                    time.sleep(5)
+            elif default_categories:
+                # --- B: Search by Categories ---
+                print(f"Keywords list is empty. Searching by categories: {default_categories}")
+                f_rm.write(f"Displaying the latest papers from categories: {', '.join(default_categories)}\n\n")
+                f_is.write(f"## Latest papers from {', '.join(default_categories)}\n")
+                
+                papers = get_daily_papers(column_names, max_result, categories=default_categories)
+                if papers is None:
+                    print("Failed to get papers by category!")
+                    sys.exit("Failed to get papers by category!")
+                
+                rm_table = generate_table(papers)
+                is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
+                f_rm.write(rm_table + "\n\n")
+                f_is.write(is_table + "\n\n")
+            else:
+                print("Both KEYWORDS and CATEGORIES are empty. Nothing to do.")
 
-f_rm.close()
-f_is.close()
-remove_backups()
+
+except Exception as e:
+    print(f"An error occurred: {e}")
+    restore_files() # Restore original files on error
+    sys.exit(1)
+finally:
+    remove_backups() # Clean up backup files
