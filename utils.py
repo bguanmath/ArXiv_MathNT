@@ -85,25 +85,26 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
     if not papers:
         return "No new papers found today."
 
-    # 1. 定义表格中要显示的列（第一行）
-    display_keys = ["Date", "Title", "Authors", "Category", "ArXiv ID"]
-    num_columns = len(display_keys)
+    # 1. 定义表格中要显示的列
+    table_keys = ["Date", "Title", "Authors", "Category", "ArXiv ID"]
     
-    # 2. 生成表格的标题栏
-    header = "| " + " | ".join([f"**{key}**" for key in display_keys]) + " |"
-    header_separator = "| " + " | ".join(["---"] * num_columns) + " |"
+    # 2. 生成且只生成一次表格的标题栏
+    header = "| " + " | ".join([f"**{key}**" for key in table_keys]) + " |"
+    header_separator = "| " + " | ".join(["---"] * len(table_keys)) + " |"
     
-    # 3. 遍历每篇论文，为每篇生成两行
-    table_rows = []
+    # 3. 遍历每篇论文，生成各自的内容块
+    paper_blocks = []
     for paper in papers:
-        # --- 生成第一行：主要信息 ---
-        first_row_values = []
-        for key in display_keys:
+        # --- 为这篇论文生成一个单列表格 ---
+        row_values = []
+        for key in table_keys:
             value = paper.get(key, "")
-            value_str = str(value).replace('|', r'\|') # 转义 '|'
+            # 转义 Markdown 表格中的特殊字符 '|'
+            value_str = str(value).replace('|', r'\|').replace('\n', ' ') # 同时替换换行符
             
             if key == "Title":
                 link = paper.get("Link", "#")
+                # 使用 HTML a 标签确保链接正确渲染
                 formatted_value = f"**<a href='{link}'>{value_str}</a>**"
             elif key == "Date":
                 formatted_value = value_str.split("T")[0]
@@ -115,36 +116,31 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
             else:
                 formatted_value = value_str
             
-            first_row_values.append(formatted_value)
+            row_values.append(formatted_value)
         
-        table_rows.append("| " + " | ".join(first_row_values) + " |")
-
-        # --- 生成第二行：评论和摘要 ---
-        details_parts = []
+        paper_table = "| " + " | ".join(row_values) + " |"
+        
+        # --- 在表格下方生成评论和摘要 ---
+        paper_details = []
         
         # 先处理 Comment
         if 'Comment' not in ignore_keys and paper.get('Comment'):
-            # 使用 blockquote 样式，并处理换行
-            comment_text = f"<blockquote>{paper.get('Comment', '')}</blockquote>"
-            details_parts.append(comment_text)
+            comment_text = f"\n> {paper.get('Comment', '')}"
+            paper_details.append(comment_text)
             
         # 再处理 Abstract
         if 'Abstract' not in ignore_keys and paper.get('Abstract'):
             abstract_text = paper.get('Abstract', '')
             processed_abstract = re.sub(r'\\\[(.*?)\\\]', r'$$\1$$', abstract_text, flags=re.DOTALL)
-            abstract_html = f"<details><summary>Abstract</summary><p>{processed_abstract}</p></details>"
-            details_parts.append(abstract_html)
+            abstract_html = f"\n<details><summary>Abstract</summary><p>{processed_abstract}</p></details>"
+            paper_details.append(abstract_html)
         
-        # 如果有评论或摘要，则创建第二行
-        if details_parts:
-            # 将评论和摘要合并到一个单元格中，用 <br> 分隔
-            combined_details = "<br>".join(details_parts)
-            # 其他单元格留空，实现“跨列”的视觉效果
-            second_row_values = [combined_details] + [""] * (num_columns - 1)
-            table_rows.append("| " + " | ".join(second_row_values) + " |")
+        # 将这篇论文的表格和附加信息组合在一起
+        paper_blocks.append(paper_table + "".join(paper_details))
 
-    # 4. 将标题栏和所有论文行组合成一个完整的表格字符串
-    return header + "\n" + header_separator + "\n" + "\n".join(table_rows)
+    # 4. 将唯一的标题栏和所有论文块组合成最终的字符串
+    #    在每个独立的论文块之间用分割线隔开
+    return header + "\n" + header_separator + "\n" + "\n\n---\n\n".join(paper_blocks)
 
 
 def back_up_files():
