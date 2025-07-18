@@ -21,7 +21,9 @@ default_categories = [c.strip() for c in categories_str.split(',') if c.strip()]
 # --- STATIC CONFIGURATION ---
 max_result = 100
 issues_result = 15
-column_names = ["Title", "Link", "Abstract", "Date", "Comment"]
+# Define the new column order: Date first, and add Authors.
+# 'Link' is needed for generating the title's hyperlink.
+column_names = ["Date", "Title", "Authors", "Link", "Abstract", "Comment"]
 
 # --- SETUP ---
 back_up_files()
