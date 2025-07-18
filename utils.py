@@ -124,7 +124,10 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
         paper_details = []
         
         if 'Comment' not in ignore_keys and paper.get('Comment'):
-            comment_text = f"\n> {paper.get('Comment', '')}"
+            comment_lines = paper.get('Comment', '').splitlines()
+            # 在每行前加 > 保持 blockquote 样式
+            quoted_comment = "\n".join(["> " + line for line in comment_lines])
+            comment_text = f"\n\n{quoted_comment}"
             paper_details.append(comment_text)
             
         if 'Abstract' not in ignore_keys and paper.get('Abstract'):
