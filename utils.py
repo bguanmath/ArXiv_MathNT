@@ -80,21 +80,27 @@ def get_daily_papers(column_names: List[str], max_result: int, keyword: str = No
         
     return papers_processed
 
+
 def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) -> str:
     if not papers:
         return "No new papers found today."
 
+    # 1. 定义表格中要显示的列
     table_keys = ["Date", "Title", "Authors", "Category", "ArXiv ID"]
+    
+    # 2. 生成且只生成一次表格的标题栏
     header = "| " + " | ".join([f"**{key}**" for key in table_keys]) + " |"
     header += "\n| " + " | ".join(["---"] * len(table_keys)) + " |"
     
+    # 3. 遍历每篇论文，生成各自的内容块
     paper_blocks = []
     for paper in papers:
+        # --- 为这篇论文生成一个单列表格 ---
         row_values = []
         for key in table_keys:
             value = paper.get(key, "")
             # 转义 Markdown 表格中的特殊字符 '|'
-            value_str = str(value).replace('|', '\|')
+            value_str = str(value).replace('|', r'\|')
             
             if key == "Title":
                 link = paper.get("Link", "#")
@@ -103,9 +109,8 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
             elif key == "Date":
                 formatted_value = value_str.split("T")[0]
             elif key == "Authors":
-                # Authors 已经是 list of strings, 需要转换
                 if isinstance(value, list):
-                    formatted_value = ", ".join(value).replace('|', '\|')
+                    formatted_value = ", ".join(value).replace('|', r'\|')
                 else:
                     formatted_value = value_str
             else:
@@ -115,18 +120,29 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
         
         paper_table = "| " + " | ".join(row_values) + " |"
         
+        # --- 在表格下方生成评论和摘要 ---
         paper_details = []
-        if 'Abstract' not in ignore_keys and paper.get('Abstract'):
-            abstract_html = f"\n<details><summary>Abstract</summary><p>{paper.get('Abstract', '')}</p></details>"
-            paper_details.append(abstract_html)
-            
+        
         if 'Comment' not in ignore_keys and paper.get('Comment'):
             comment_text = f"\n> {paper.get('Comment', '')}"
             paper_details.append(comment_text)
+            
+        if 'Abstract' not in ignore_keys and paper.get('Abstract'):
+            abstract_text = paper.get('Abstract', '')
+            
+            # **替换摘要中的公式分隔符**
+            # 使用 re.sub() 将 \[...\] 替换为 $$...$$
+            processed_abstract = re.sub(r'\\\[(.*?)\\\]', r'$$\1$$', abstract_text, flags=re.DOTALL)
+            
+            abstract_html = f"\n<details><summary>Abstract</summary><p>{processed_abstract}</p></details>"
+            paper_details.append(abstract_html)
         
+        # 将这篇论文的表格和附加信息组合在一起
         paper_blocks.append(paper_table + "".join(paper_details))
 
-    return header + "\n" + "\n\n---\n\n".join(paper_blocks)
+    # 将唯一的标题栏和所有论文块组合成一个大表格
+    return header + "\n" + "\n".join(paper_blocks)
+
 
 def back_up_files():
     if os.path.exists("README.md"):
