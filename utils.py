@@ -97,52 +97,61 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
     if not papers:
         return "No new papers found today."
 
-    # Get the ordered list of keys to display from the first paper's keys.
-    # This order is determined by `column_names` in main.py.
-    # We also filter out any keys that should be ignored (like 'Abstract' for issues)
-    # and the 'Link' key because we merge it into the 'Title'.
-    display_keys = [key for key in papers[0].keys() if key not in ignore_keys and key != 'Link']
-
-    # Generate the table header based on the display keys
-    header_cols = [f"**{key}**" for key in display_keys]
-    header = "| " + " | ".join(header_cols) + " |"
-    header += "\n| " + " | ".join(["---"] * len(display_keys)) + " |"
-
-    # Generate the body row by row
-    body = ""
+    # 1. 定义表格中要显示的列
+    table_keys = ["Date", "Title", "Authors", "Category", "ArXiv ID"]
+    
+    # 过滤掉 papers[0] 中可能不存在的键，以防万一
+    header_keys = [key for key in table_keys if key in papers[0]]
+    
+    # 2. 生成且只生成一次表格的标题栏
+    header = "| " + " | ".join([f"**{key}**" for key in header_keys]) + " |"
+    header += "\n| " + " | ".join(["---"] * len(header_keys)) + " |"
+    
+    # 3. 遍历每篇论文，生成各自的内容块
+    paper_blocks = []
     for paper in papers:
+        # --- 为这篇论文生成一个单列表格 ---
         row_values = []
-        for key in display_keys:
+        for key in header_keys:
             value = paper.get(key, "")
             formatted_value = ""
-            
-            # Apply special formatting based on the key name
+
+            # 对特定列进行格式化
             if key == "Title":
-                link = paper.get("Link", "#") # Get the link URL
-                formatted_value = f"**[{paper.get('Title', '')}]({link})**"
+                link = paper.get("Link", "#")
+                title_text = paper.get('Title', '').replace('|', '\|') # 转义标题中的'|'
+                formatted_value = f"**<a href='{link}'>{title_text}</a>**"
             elif key == "Date":
                 formatted_value = value.split("T")[0]
-            elif key == "Abstract":
-                formatted_value = f"<details><summary>Show</summary><p>{value}</p></details>" if value else ""
             elif key == "Authors":
                 authors_list = paper.get("Authors", [])
-                if authors_list:
-                    formatted_value = authors_list[0] + " et al." if len(authors_list) > 1 else authors_list[0]
-                else:
-                    formatted_value = ""
-            elif key == "Comment":
-                if value and len(value) > 20:
-                    formatted_value = f"<details><summary>{value[:5]}...</summary><p>{value}</p></details>"
-                else:
-                    formatted_value = value
+                authors_str = ", ".join(authors_list).replace('|', '\|') # 转义作者名中的'|'
+                formatted_value = authors_str
             else:
-                # For any other columns, just use the value as is
-                formatted_value = value
-                
+                formatted_value = str(value).replace('|', '\|') # 其他列直接转义
+            
             row_values.append(formatted_value)
-        body += "\n| " + " | ".join(row_values) + " |"
         
-    return header + body
+        paper_table = "| " + " | ".join(row_values) + " |"
+        
+        # --- 在表格下方生成摘要和评论 ---
+        paper_details = []
+        # 如果需要，添加可折叠的摘要
+        if 'Abstract' not in ignore_keys and paper.get('Abstract'):
+            abstract_html = f"\n<details><summary>Abstract</summary><p>{paper.get('Abstract', '')}</p></details>"
+            paper_details.append(abstract_html)
+            
+        # 如果需要，添加评论
+        if 'Comment' not in ignore_keys and paper.get('Comment'):
+            comment_text = f"\n> {paper.get('Comment', '')}" # 使用 Markdown 引用块来显示评论
+            paper_details.append(comment_text)
+        
+        # 将这篇论文的表格和附加信息组合在一起
+        paper_blocks.append(paper_table + "".join(paper_details))
+
+    # 4. 将唯一的标题栏和所有论文块组合成最终的字符串
+    return header + "\n" + "\n\n---\n\n".join(paper_blocks) # 每篇论文之间用分割线隔开
+
 
 
 def back_up_files():
