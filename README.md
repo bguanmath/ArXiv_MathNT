@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2025-07-20
+Last update: 2025-07-21
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -399,6 +399,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
+### \[<a href='http://arxiv.org/abs/2008.01228v4'>2008.01228</a>\]&nbsp; **The Absolute Grothendieck Conjecture is false for Fargues-Fontaine Curves**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Kirti Joshi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 9 pages; Typos fixed. Previous version : added Remarks 2.6, 2.7, Question 2.10 and some edits to the Introduction; reference to my Arithmetic Teichmuller Theory added
+
+<details><summary>Abstract</summary><p>I prove that the absolute Grothendieck Conjecture is false for Fargues-Fontaine curves.</p></details>
+
+---
+
 ### \[<a href='http://arxiv.org/abs/2307.07000v3'>2307.07000</a>\]&nbsp; **On quasi-arithmeticity of hyperbolic gluings**
 
 
@@ -582,6 +594,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
+### \[<a href='http://arxiv.org/abs/2108.03584v3'>2108.03584</a>\]&nbsp; **The supersingular locus of the Shimura variety of $\mathrm{GU}(2,n-2)$**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Maria Fox, Naoki Imai &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 33 pages
+
+<details><summary>Abstract</summary><p>We study the supersingular locus of a reduction at an inert prime of the Shimura variety attached to $\mathrm{GU}(2,n-2)$. More concretely, we realize irreducible components of the supersingular locus as closed subschemes of flag schemes over Deligne--Lusztig varieties defined by explicit conditions after taking perfections. Moreover we study the intersections of the irreducible components. Stratifications of Deligne--Lusztig varieties defined using powers of Frobenius action appear in the description of the intersections.</p></details>
+
+---
+
 ### \[<a href='http://arxiv.org/abs/2402.00748v2'>2402.00748</a>\]&nbsp; **Small gaps between almost-twin primes**
 
 
@@ -663,6 +687,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** Comments are welcome
 
 <details><summary>Abstract</summary><p>Let $(F_r M)_{r\in\mathbb{Z}}$ be a finite filtration on an object $M$ of a neutral Tannakian category $\mathbf{T}$ in characteristic zero. Let $u(M)=u^F(M)$ be the Lie algebra of the subgroup of the Tannakian fundamental group of $M$ that acts trivially on the associated graded $Gr^FM$. The filtration $F_\bullet M$ induces a filtration on the internal Hom $\underline{Hom}(M,M)$, which in turn induces a filtration $F_\bullet u(M)$ on $u(M)$. This filtration on $u(M)$ is concentrated in negative degrees. In this paper, we give a description of the graded piece $Gr^F_{-1}u( M)$ in terms of the extensions $F_{r+1}M/F_{r-1}M\in Ext^1(Gr^F_{r+1}M, Gr^F_{r}M)$. In particular, these extensions determine $Gr^F_{-1}u(M)$. Note that here we neither assume the filtration is functorial, nor we assume that $Gr^FM$ is semisimple. The problem of studying $u(M)$ in this generality is motivated by the desire to understand Tannakian groups associated to a mixed motive and its realizations, including realizations for which semisimplicity of realizations of pure motives is not known and realizations that lack an interesting functorial weight filtration. We also give two related applications. The first is an equivalent condition in the generality described above for when $u(M)$ coincides with its trivial upper bound $F_{-1}\underline{Hom}(M,M)$. This result generalizes earlier criteria for maximality of $u(M)$ obtained by various authors in special contexts or under limiting conditions. In the second application, we apply the results to the setting of a neutral Tannakian category with a functorial weight filtration $W_\bullet$. Combining the constructions of [arXiv:2307.15487] with our general maximality criterion we prove a result about the structure of the set of isomorphism classes of objects $M$ for which $Gr^WM$ is isomorphic to a given graded object $A$ and $u^W(M)=W_{-1}\underline{Hom}(M,M)$.</p></details>
+
+---
+
+### \[<a href='http://arxiv.org/abs/2107.07845v2'>2107.07845</a>\]&nbsp; **Foams, iterated wreath products, field extensions and Sylvester sums**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Mee Seong Im, Mikhail Khovanov &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.QA &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 86 pages, many figures
+
+<details><summary>Abstract</summary><p>Certain foams and relations on them are introduced to interpret functors and natural transformations in categories of representations of iterated wreath products of cyclic groups of order two. We also explain how patched surfaces with defect circles and foams relate to separable field extensions and Galois theory and explore a relation between overlapping foams and Sylvester double sums. In the appendix, joint with Lev Rozansky, we compare traces in two-dimensional TQFTs coming from matrix factorizations with those in field extensions.</p></details>
 
 ---
 
@@ -1125,37 +1161,4 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** 29 pages; comments very welcome!
 
 <details><summary>Abstract</summary><p>In this work, we relate recent work of Yuan--Zhang and Song on adelic line bundles over quasi-projective arithmetic varieties to recent advances in pluripotential theory on global Berkovich spaces from Pille-Schneider. In particular, we establish an equivalence between subcategories of adelic line bundles on quasi-projective varieties and line bundles on their Berkovich analytifications equipped with a continuous plurisubharmonic metric. We also provide several applications of this equivalence. For example, we generalize a construction of Pille-Schneider concerning families of Monge--Amp\`ere measures on analytifications of projective arithmetic varieties to the quasi-projective setting. With this construction, we offer a new description of non-degenerate subvarieties which involves Monge--Amp\`ere measures over trivially valued fields. Finally, we define a Monge--Amp\`ere measure on the analytification of a quasi-projective arithmetic variety.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2505.10683v2'>2505.10683</a>\]&nbsp; **$2$-representation infinite algebras from non-abelian subgroups of $\operatorname{SL}_3$. Part I: Extensions of abelian groups**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Darius Dramburg, Oleksandra Gasanova &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** Corrected typos and proof of 4.10(v1). Added several examples. 27 pages. Comments welcome!
-
-<details><summary>Abstract</summary><p>Let $G \leq \operatorname{SL}_3(\mathbb{C})$ be a non-trivial finite group, acting on $R = \mathbb{C}[x_1, x_2, x_3]$. The resulting skew-group algebra $R \ast G$ is $3$-Calabi-Yau, and can sometimes be endowed with the structure of a $3$-preprojective algebra. However, not every such $R \ast G$ admits such a structure. The finite subgroups of $\operatorname{SL}_3(\mathbb{C})$ are classified into types (A) to (L). We consider the groups $G$ of types (C) and (D) and determine for each such group whether the algebra $R \ast G$ admits a $3$-preprojective structure. We show that the algebra $R \ast G$ admits a $3$-preprojective structure if and only if $9 \mid |G|$. Our proof is constructive and yields a description of the involved $2$-representation infinite algebras. This is based on the semi-direct decomposition $G \simeq N \rtimes K$ for an abelian group $N$, and we show that the existence of a $3$-preprojective structure on $R \ast G$ is essentially determined by the existence of one on $R \ast N$. This provides new classes of $2$-representation infinite algebras, and we discuss some $2$-Auslander-Platzeck-Reiten tilts. Along the way, we give a detailed description of the involved groups and their McKay quivers by iteratively applying skew-group constructions.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2403.19564v2'>2403.19564</a>\]&nbsp; **Closedness of the singular locus and generation for derived categories**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Souvik Dey, Pat Lank &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** Current: Pre-final version, accepted to J. of Algebra Previous: v1, Comments welcome!
-
-<details><summary>Abstract</summary><p>This work is concerned with a relationship regarding the closedness of the singular locus of a Noetherian scheme and existence of classical generators in its category of coherent sheaves, associated bounded derived category, and singularity category. Particularly, we extend an observation initially made by Iyengar and Takahashi in the affine context to the global setting. Furthermore, we furnish an example a Noetherian scheme whose bounded derived category admits a classical generator, yet not every finite scheme over it exhibits the same property.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2507.10387v1'>2507.10387</a>\]&nbsp; **Effective equidistribution of norm one elements in CM-fields**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Shabnam Akhtari, Jeffrey D. Vaaler, Martin Widmer &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>For a number field $K$ let $\mathcal{S}_K$ be the maximal subgroup of the multiplicative group $K^\times$ that embeds into the unit circle under each embedding of $K$ into the complex numbers. The group $\mathcal{S}_K$ can be seen as an archimedean counterpart to the group of units $\mathcal{O}_K^\times$ of the ring of integers $\mathcal{O}_K$. If $K=\mathbb{Q}(\mathcal{S}_K)$ is a CM-field then $\mathcal{S}_K/{\mathop{\rm Tor}\nolimits}(K^\times)$ is a free abelian group of infinite rank. If $K=\mathbb{Q}(\mathcal{S}_K)$ is not a CM-field then $\mathcal{S}_K=\{\pm 1\}$. In the former case $\mathcal{S}_K$ is the kernel of the relative norm map from $K^\times$ to the multiplicative subgroup $k^\times$ of the maximal totally real subfield $k$ of $K$.</p></details>
 
