@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2025-07-27
+Last update: 2025-07-28
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -45,6 +45,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
+### \[<a href='http://arxiv.org/abs/2006.13723v3'>2006.13723</a>\]&nbsp; **Small Primes And The Tau Function**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-24 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** N. A. Carella &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** Twenty Nine Pages. Keywords: Tau Function; Modular Function; Lehmer Conjecture
+
+<details><summary>Abstract</summary><p>This note shows that the prime values of the Ramanujan tau function $\tau(n)=\pm p$ misses every prime $p\leq 8.0\times 10^{25}$.</p></details>
+
+---
+
 ### \[<a href='http://arxiv.org/abs/2407.01152v2'>2407.01152</a>\]&nbsp; **Invariants of Finite Orthogonal Groups of Plus Type in Odd Characteristic**
 
 
@@ -78,6 +90,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** 23 pages
 
 <details><summary>Abstract</summary><p>Cases of Shimura varieties where the special fibre of a Rapoport-Zink space is simply the union of classical Deligne-Lusztig varieties are known as fully Hodge-Newton decomposable ones, and have been studied with great interest in the past. In recent times, the focus has shifted to identify tractable cases beyond the fully Hodge-Newton decomposable ones, and several instances have been identified where only products of classical Deligne-Lusztig varities with simpler spaces occur. In our paper, we provide a uniform framework to capture these phenomena. By studying liftings from the affine flag variety to the loop group and combining them with the Deligne-Lusztig reduction method, our main result is a powerful criterion to show that an affine Deligne-Lusztig variety is the product of a classical Deligne-Lusztig variety with affine spaces and pointed affine spaces. We introduce the class of elements that we call having geometric Coxeter type, strictly including previously studied notions such as positive Coxeter type or finite Coxeter type. These elements of geometric Coxeter type satisfy the conditions for our main result and also a condition on the Newton stratification introduced by Mili\'cevi\'c-Viehmann.</p></details>
+
+---
+
+### \[<a href='http://arxiv.org/abs/2002.09912v3'>2002.09912</a>\]&nbsp; **Newton-Okounkov polytopes of Schubert varieties arising from cluster structures**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-24 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Naoki Fujita, Hironori Oya &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** v1 55 pages; v2 57 pages. Section 7 in v1 was removed, and the corresponding results are explained in Sections 5 and 6 in v2, since the statement of Theorem 7.5 in v1 is now known to be true in the symmetrizable case. Section 7 in v2 was added; v3 60 pages. Remark 8.5, Proposition 8.6 and several examples were added. Minor typos were corrected. Final version
+
+<details><summary>Abstract</summary><p>The theory of Newton-Okounkov bodies is a generalization of that of Newton polytopes for toric varieties, and it gives a systematic method of constructing toric degenerations of projective varieties. In this paper, we study Newton-Okounkov bodies of Schubert varieties from the theory of cluster algebras. We construct Newton-Okounkov bodies using specific valuations which generalize extended g-vectors in cluster theory, and discuss how these bodies are related to string polytopes and Nakashima-Zelevinsky polytopes.</p></details>
 
 ---
 
@@ -1110,28 +1134,4 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** 46 pages, fixed a gap in the proof of Proposition 3.6, using Propositions 2.10 and 2.11
 
 <details><summary>Abstract</summary><p>The descent method is one of the approaches to study the Brauer--Manin obstruction to the local--global principle and to weak approximation on varieties over number fields, by reducing the problem to ``descent varieties''. In recent lecture notes by Wittenberg, he formulated a ``descent conjecture'' for torsors under linear algebraic groups. The present article gives a proof of this conjecture in the case of connected groups, generalizing the toric case from the previous work of Harpaz--Wittenberg. As an application, we deduce directly from Sansuc's work the theorem of Borovoi for homogeneous spaces of connected linear algebraic groups with connected stabilizers. We are also able to reduce the general case to the case of finite (\'etale) torsors. When the set of rational points is replaced by the Chow group of zero-cycles, an analogue of the above conjecture for arbitrary linear algebraic groups is proved.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2411.13767v3'>2411.13767</a>\]&nbsp; **Improved Upper Bounds on Key Invariants of Erdős-Rényi Numerical Semigroups**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-21 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Tristram Bogart, Santiago Morales &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AC &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 15 pages, 4 figures. The major change is that the main theorem (Theorem 1.6) is now stated as a purely asymptotic result without explicit constants. This allows significant simplification of the proofs as well as the statements of several lemmas in Sections 3 and 4. There are various minor changes, including to the bibliography and acknowledgements
-
-<details><summary>Abstract</summary><p>De Loera, O'Neill and Wilburne introduced a general model for random numerical semigroups in which each positive integer is chosen independently with some probability p to be a generator, and proved upper and lower bounds on the expected Frobenius number and expected embedding dimensions. We use a range of probabilistic methods to improve the upper bounds to within a polylogarithmic factor of the lower bounds in each case. As one of the tools to do this, we prove that for any prime q, if A is a random subset of the cyclic group Z_q whose size is of order log(q) and k is also of order log(q), then with high probability the k-fold sumset kA is all of Z_q.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2501.00171v2'>2501.00171</a>\]&nbsp; **On the Minimal Denominator Problem in Function Fields**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-21 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Noy Soffer Aranov &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** Minor errors corrected
-
-<details><summary>Abstract</summary><p>We study the minimal denominator problem in function fields. In particular, we compute the probability distribution function of the the random variable which returns the degree of the smallest denominator $Q$, for which the ball of a fixed radius around a point contains a rational function of the form $\frac{P}{Q}$. Moreover, we discuss the distribution of the random variable which returns the denominator of minimal degree, as well as higher dimensional and $P$-adic generalizations. This can be viewed as a function field generalization of a paper by Chen and Haynes.</p></details>
 
