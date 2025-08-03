@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2025-08-03
+Last update: 2025-08-04
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -993,6 +993,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
+### \[<a href='http://arxiv.org/abs/math/0405083v6'>math/0405083</a>\]&nbsp; **Some properties of Ramanujan's tau function**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-29 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Barry Brent &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** Mild revisions. Added the conjectures. Deleted the partition theoretic discussion
+
+<details><summary>Abstract</summary><p>We give an expression for tau(n+1) as a determinant built from values of the sum-of-divisors function, and we conjecturally describe the characteristic function of the underlying matrix. We do the same things with tau and sigma swapped.</p></details>
+
+---
+
 ### \[<a href='http://arxiv.org/abs/2507.21400v1'>2507.21400</a>\]&nbsp; **Universal Characteristic-free Resolution of Singularities, I**
 
 
@@ -1074,6 +1086,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
+### \[<a href='http://arxiv.org/abs/1508.02580v2'>1508.02580</a>\]&nbsp; **A method for determining the mod-$p^k$ behaviour of recursive sequences**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-28 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Christian Krattenthaler, Thomas W. Müller &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** AmS-LaTeX, 36 pages. Several typos corrected. arXiv admin note: substantial text overlap with arXiv:1107.2015; text overlap with arXiv:1308.2856
+
+<details><summary>Abstract</summary><p>We present a method for obtaining congruences modulo powers of a prime number~$p$ for combinatorial sequences whose generating function satisfies an algebraic differential equation. This method generalises the one by Kauers and the authors [Electron. J. Combin. 8(2) (2012), Art. P37; arXiv:1107.2015] from $p=2$ to arbitrary primes. Our applications include congruences for numbers of non-crossing graphs and numbers of Kreweras walks modulo powers of~$3$, as well as congruences for Fu\ss-Catalan numbers and blossom tree numbers modulo powers of arbitrary primes.</p></details>
+
+---
+
 ### \[<a href='http://arxiv.org/abs/2507.20965v1'>2507.20965</a>\]&nbsp; **An identity relating Catalan numbers to tangent numbers with arithmetic applications**
 
 
@@ -1113,28 +1137,4 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** 18 pages
 
 <details><summary>Abstract</summary><p>We give an asymptotic formula for the number of rational points of bounded height on algebraic varieties defined by systems of multihomogeneous diagonal equations. The proof uses the Hardy-Littlewood circle method and the hyperbola method developed by Blomer and Br\"udern.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2507.20847v1'>2507.20847</a>\]&nbsp; **Marked multi-colorings and marked chromatic polynomials of hypergraphs and subspace arrangements**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-28 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Chaithra P, Shushma Rani, R. Venkatesh &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 24 pages
-
-<details><summary>Abstract</summary><p>We introduce the concepts of marked multi-colorings, marked chromatic polynomials, and marked (multivariate) independence series for hypergraphs. We show that the coefficients of the q-th power of the marked independence series of a hypergraph coincide with its marked chromatic polynomials in q, thereby generalizing a corresponding result for graphs established in Chaithra et al. 2025 (arXiv:2503.11230). These notions are then naturally extended to subspace arrangements. In particular, we prove that the number of marked multi q-colorings of a subspace arrangement is a polynomial in q. We also define the (marked) independence series for subspace arrangements and prove that the (-q)-th power of the independence series of a hyperplane arrangement has non-negative coefficients. We further conjecture that the (-q)-th power of the independence series of a hypergraph has non-negative coefficients if and only if all its edges have even cardinality.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2507.20807v1'>2507.20807</a>\]&nbsp; **Weil representations associated to isocrystals over function fields**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-07-28 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Maxim Mornev, Richard Pink &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 67 pages
-
-<details><summary>Abstract</summary><p>Every Anderson $A$-motive $M$ over a field determines a compatible system of Galois representations on its Tate modules at almost all primes of $A$. This adapts easily to $F$-isocrystals, which are rational analogues of $A$-motives for the global function field $F:=\mathrm{Quot}(A)$. We extend this compatible system by constructing a Weil group representation associated to $M$ for every place of $F$. To this end we generalize the Tate module construction to a tensor functor on $F_{\mathfrak{p}}$-isocrystals that are not necessarily pure. To prove that this yields a compatible system, we work out how that construction behaves under reduction of $M$. As an offshoot we obtain a new kind of $\wp$-adic Weil representations associated to Drinfeld modules of special characteristic $\wp$.</p></details>
 
