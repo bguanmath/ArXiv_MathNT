@@ -126,7 +126,7 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
             processed_abstract = re.sub(r'\\operatorname{(.*?)}', r'\\mathrm{\1}', abstract_text)            
             # 处理 $$ 公式
             processed_abstract = re.sub(r'\\\[(.*?)\\\]', r'$$\1$$', processed_abstract, flags=re.DOTALL)
-            processed_abstract = re.sub(r'\\$\\$(.*?)\\$\\$', r'\n$$\n\1\n$$\n', processed_abstract, flags=re.DOTALL)
+            processed_abstract = re.sub(r'\\$\\$(.*?)\\$\\$', r'<br>$$\n\1\n$$<br>', processed_abstract, flags=re.DOTALL)
             # Abstract 默认折叠
             abstract_html = f"\n<details><summary>Abstract</summary><p>{processed_abstract}</p></details>"
             details_parts.append(abstract_html)
