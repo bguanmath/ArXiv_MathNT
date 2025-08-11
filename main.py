@@ -20,7 +20,7 @@ default_categories = [c.strip() for c in categories_str.split(',') if c.strip()]
 
 # --- STATIC CONFIGURATION ---
 max_result = 100
-issues_result = 15
+issues_result = 20
 # Define the new column order: Date first, and add Authors, ArXiv ID, Category.
 # 'Link' is needed for generating the title's hyperlink.
 column_names = ["Date", "Title", "Authors", "ArXiv ID", "Category", "Link", "Abstract", "Comment"]
@@ -62,7 +62,7 @@ try:
                         continue
 
                     rm_table = generate_table(papers)
-                    is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
+                    is_table = generate_table(papers[:issues_result], ignore_keys=[])
                     f_rm.write("\n\n---\n\n" + rm_table + "\n\n")
                     f_is.write(is_table + "\n\n")
                     time.sleep(5)
@@ -78,7 +78,7 @@ try:
                     sys.exit("Failed to get papers by category!")
                 
                 rm_table = generate_table(papers)
-                is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
+                is_table = generate_table(papers[:issues_result], ignore_keys=[])
                 f_rm.write("\n\n---\n\n" + rm_table + "\n\n")
                 f_is.write(is_table + "\n\n")
             else:
