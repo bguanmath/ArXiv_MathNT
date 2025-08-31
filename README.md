@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2025-08-31
+Last update: 2025-09-01
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -288,6 +288,15 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
+### \[<a href='http://arxiv.org/abs/2006.06126v3'>2006.06126</a>\]&nbsp; **Tight frames over the quaternions and equiangular lines**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-08-28 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Shayne Waldron &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.FA &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>We show that much of the theory of finite tight frames can be generalised to vector spaces over the quaternions. This includes the variational characterisation, group frames, and the characterisations of projective and unitary equivalence. We are particularly interested in sets of equiangular lines (equi-isoclinic subspaces) and the groups associated with them, and how to move them between the spaces $\Rd$, $\Cd$ and $\Hd$. We discuss what the analogue of Zauner's conjecture for equiangular lines in $\Hd$ might be.</p></details>
+
+---
+
 ### \[<a href='http://arxiv.org/abs/2506.07727v2'>2506.07727</a>\]&nbsp; **Wreath Generalization of Littlewood Reciprocity**
 
 
@@ -318,6 +327,18 @@ Displaying the latest papers from categories: math.NT, math.RT
  &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-08-28 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Anju Yokoi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>The sum formula for $q$-multiple zeta values is a well-known relation. In this paper, we present its generalization for the $q$-multiple zeta function.</p></details>
+
+---
+
+### \[<a href='http://arxiv.org/abs/2206.05441v6'>2206.05441</a>\]&nbsp; **The Markoff and Lagrange spectra on the Hecke group H4**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-08-28 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Dong Han Kim, Deokwon Sim &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 24 pages, 6 figures
+
+<details><summary>Abstract</summary><p>We consider the Markoff spectrum and the Lagrange spectrum on the Hecke group $\mathbf H_4$. They are identical with the Markoff and Lagrange spectra of the unit circle. The Markoff spectrum on $\mathbf H_4$ is also known as the Markoff spectrum of index 2 sublattices by Vulakh and the Markoff spectrum of 2-minimal forms or $C$-minimal forms by Schmidt. They characterized the spectrum up to the first accumulation point, independently. We show that, after the first accumulation point, both spectra have positive Hausdorff dimension. Then we find gaps in the spectra and give a bound on Hall's ray.</p></details>
 
 ---
 
@@ -1101,28 +1122,4 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** Two distinct earlier preprints are relevant. The first covers half-iterates of $x(1+x)$, sin$(x)$ & exp$(x/e)$ and appears at arXiv:2506.07625v1. The second covers half-iterates of $x$exp$(x)$, $x+1/x$ & arcsinh$(x)$ and appears at arXiv:2506.07625v2. Reading these will help to motivate the study of $\delta$ in the current paper. 9 pages; 2 figures
 
 <details><summary>Abstract</summary><p>The vivid contrast between two competing algorithms for solving Abel's equation $g(\theta(x)) = g(x) + 1$, given $\theta(x)$, is easily sketched. EJ is faster and more efficient, but ML evaluates a limit characterizing the principal solution $g(x)$ directly. EJ finds $g(x)+\delta$, where $\delta$ is possibly nonzero but independent of $x$. If we were to know an exact expression for $\delta$, then the "intrinsicality" of ML would be subsumed by EJ. Filling this gap in our knowledge is the aim of this paper.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2508.18586v1'>2508.18586</a>\]&nbsp; **Sums of algebraic dilates**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-08-26 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** David Conlon, Jeck Lim &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 49 pages
-
-<details><summary>Abstract</summary><p>We show that if $\lambda_1,\ldots,\lambda_k$ are algebraic numbers, then $$|A+\lambda_1\cdot A+\dots+\lambda_k\cdot A|\geq H(\lambda_1,\ldots,\lambda_k)|A|-o(|A|)$$ for all finite subsets $A$ of $\mathbb{C}$, where $H(\lambda_1,\ldots,\lambda_k)$ is an explicit constant that is best possible. The proof combines several ingredients, including a lower bound estimate on the measure of sums of linear transformations of compact sets in $\mathbb{R}^d$, a variant of Freiman's theorem tuned specifically to sums of dilates and the analysis of what we call lattice density, which succinctly captures how a subset of $\mathbb{Z}^d$ is arranged relative to a given flag of lattices. As an application, we revisit the study of sums of linear transformations of finite sets, in particular proving an asymptotically best possible lower bound for sums of two linear transformations.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2410.07922v4'>2410.07922</a>\]&nbsp; **Solutions for $k$-generalized Fibonacci numbers using Fuss-Catalan numbers**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-08-26 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** S. R. Mane &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 19 pages, 2 figures
-
-<details><summary>Abstract</summary><p>We present new expressions for the $k$-generalized Fibonacci numbers, say $F_k(n)$. They satisfy the recurrence $F_k(n) = F_k(n-1) +\dots+F_k(n-k)$. Explicit expressions for the roots of the auxiliary (or characteristic) polynomial are presented, using Fuss-Catalan numbers. Properties of the roots are enumerated. We quantify the accuracy of asymptotic approximations for $F_k(n)$ for $n\gg1$. Our results subsume and extend some results published by previous authors. We also present a basis (or `fundamental solutions') to solve the above recurrence for arbitrary initial conditions. We comment on the use of generating functions and multinomial sums for the $k$-generalized Fibonacci numbers and related sequences. We note that the resulting multinomial sums are Dickson polynomials of the second kind in several variables. We also present what may be a new identity for companion matrices.</p></details>
 
