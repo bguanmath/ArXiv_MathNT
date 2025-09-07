@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2025-09-07
+Last update: 2025-09-08
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -51,6 +51,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** 25 pages. Typos corrected & some proofs streamlined
 
 <details><summary>Abstract</summary><p>For an invariant probability measure for the Gauss map, almost all numbers are Diophantine if the log of the partial quotient function is integrable. We show that with respect to a ``continued fraction mixing'' measure for the Gauss map with the log of the partial quotient function non-integrable, almost all numbers are Liouville. We also exhibit Gauss-invariant, ergodic measures with arbitrary irrationality exponent. The proofs are applications of our study of the ``extravagance'' of positive, stationary, stochastic processes. In addition, we prove a Khinchin-type dichotomy for Diophantine approximation with respect to ergodic``weak Renyi measures'' which are ``doubling at $0$''.</p></details>
+
+---
+
+### \[<a href='http://arxiv.org/abs/2303.00100v3'>2303.00100</a>\]&nbsp; **Furstenberg--Sárközy theorem and partition regularity of polynomial equations over finite fields**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-09-04 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Ethan Ackelsberg, Vitaly Bergelson &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 23 pages. The previous version of this arXiv submission has now been split into two articles (the present one dealing with finite fields and another dealing with more general rings, to appear soon)
+
+<details><summary>Abstract</summary><p>We prove new combinatorial results about polynomial configurations in large subsets of finite fields. Bergelson--Leibman--McCutcheon (2005) showed that for any polynomial $P(x) \in \mathbb{Z}[x]$ with $P(0) = 0$, if $A \subseteq \mathbb{F}_q$ is a subset of a $q$-element finite field and $A$ does not contains distinct $a, b$ such that $b - a = P(x)$ for some $x$, then $|A| = o(q)$. In fields of sufficiently large characterstic, the bound $o(q)$ can be improved to $O(q^{1/2})$ by the Weil bound. We match this bound in the low characteristic setting and give a complete algebraic characterization of the class of polynomials for which the Furstenberg--S\'{a}rk\"{o}zy theorem holds over finite fields of fixed characteristic. Our next main result deals with an enhancement of the Furstenberg--S\'{a}rk\"{o}zy theorem over finite fields. Another consequence of the Weil bound is that if $P(x) \in \mathbb{Z}[x]$, $A, B \subseteq \mathbb{F}_q$, and there do not exist elements $a \in A$ and $b \in B$ with $b - a = P(x)$ for some $x$, then $|A| |B| = O(q)$, provided that the characteristic of $\mathbb{F}_q$ is sufficiently large depending on $P$. We provide a complete description of the family of polynomials for which this asymmetric enhancement holds over fields of fixed characteristic, achieving the same quantitative bounds that are available in the high characteristic setting. The exponential sum estimates that we produce in dealing with the above problems also allow us to establish partition regularity of families of polynomial equations over finite fields. As an example, we prove: if $P(x) \in \mathbb{Z}[x]$ with $P(0) = 0$, then for any $r \in \mathbb{N}$, there exists $N = N(P,r)$ and $c = c(P,r) > 0$ such that if $q > N$ and $\mathbb{F}_q = \bigcup_{i=1}^r{C_i}$, then there are at least $cq^2$ monochromatic solutions to the equation $P(x) + P(y) = P(z)$.</p></details>
 
 ---
 
@@ -810,6 +822,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
+### \[<a href='http://arxiv.org/abs/2112.11997v3'>2112.11997</a>\]&nbsp; **Bohr sets in sumsets I: Compact abelian groups**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-09-02 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Anh N. Le, Thái Hoàng Lê &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 37 pages. Discrete Analysis 2025:11
+
+<details><summary>Abstract</summary><p>Let $G$ be a compact abelian group and $\phi_1, \phi_2, \phi_3$ be continuous endomorphisms on $G$. Under certain natural assumptions on the $\phi_i$'s, we prove the existence of Bohr sets in the sumset $\phi_1(A) + \phi_2(A) + \phi_3(A)$, where $A$ is either a set of positive Haar measure, or comes from a finite partition of $G$. The first result generalizes theorems of Bogolyubov and Bergelson-Ruzsa. As a variant of the second result, we show that for any partition $\mathbb{Z} = \bigcup_{i=1}^r A_i$, there exists an $i$ such that $A_i - A_i + sA_i$ contains a Bohr set for any $s \in \mathbb{Z} \setminus \{ 0 \}$. The latter is a step toward an open question of Katznelson and Ruzsa.</p></details>
+
+---
+
 ### \[<a href='http://arxiv.org/abs/2509.02501v1'>2509.02501</a>\]&nbsp; **Modular fusion categories with few twists**
 
 
@@ -1125,28 +1149,4 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** 27 pages; changes: extended abstract and introduction, corrected typos
 
 <details><summary>Abstract</summary><p>It is well known that there is a deep relationship between codes and lattices. Concepts from coding theory are related to concepts of lattice theory as, for example, weight enumerators to theta series, MacWilliams identity to Jacobi identity, and Gleason's theorem to Hecke's theorem. In this framework, higher-genus (or multiple) weight enumerators are related to Siegel theta series, which opens up the possibility of introducing concepts from the theory of higher-rank modular forms to coding theory. There has been important work in this direction, for example Runge introduced a coding theory analogue of Siegel's $\Phi$-operator and Nebe analogues of Hecke operators. In this paper, we show that the celebrated Doubling Method from the theory of higher-rank modular forms has a coding theory analogue. Given the impact that the Doubling Method has had in the study of higher-rank modular forms, one may expect that its analogue may prove useful to the study of higher-genus weight enumerators. In this paper we use it to solve an analogue of the "basis problem". That is, we express "cuspidal" polynomials which are invariant under a Clifford-Weil type group as an explicit linear combination of higher-genus weight enumerators of self-dual codes of that type.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2505.23340v2'>2505.23340</a>\]&nbsp; **Quantum cohomology, shift operators, and Coulomb branches**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-09-02 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Ki Fung Chan, Kwokwai Chan, Chin Hang Eddie Lam &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 55 pages. Version 2: improved exposition and rewrote various statements; the proof of Theorem 2 now does not rely on the auxilliary conical $\mathbb{C}^\times$-action
-
-<details><summary>Abstract</summary><p>Given a complex reductive group $G$ and a $G$-representation $\mathbf{N}$, there is an associated Coulomb branch algebra $\mathcal{A}_{G,\mathbf{N}}^\hbar$ defined by Braverman, Finkelberg and Nakajima. In this paper, we provide a new interpretation of $\mathcal{A}_{G,\mathbf{N}}^\hbar$ as the largest subcomodule of the equivariant Borel--Moore homology of the affine Grassmannian on which shift operators (and their deformations induced by flavour symmetries) admit non-equivariant limits. The proofs of the main theorems involve showing that the defining equations of the Coulomb branch algebras reflect the properness of moduli spaces required for defining shift operators. As a main application, we give a very general definition of shift operators, and show that if $X$ is a smooth semiprojective variety equipped with a $G$-action, and $f \colon X \to \mathbf{N}$ is a $G$-equivariant proper holomorphic map, then the equivariant big quantum cohomology $QH^\bullet_G(X)$ defines a family of closed Lagrangians in the Coulomb branch $\mathrm{Spec}\mathcal{A}_{G,\mathbf{N}}$, yielding a transformation of 3d branes in 3d mirror symmetry. We further apply our construction to recover Teleman's gluing formula for Coulomb branches and to derive new generalizations of the Peterson isomorphism.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2410.00248v3'>2410.00248</a>\]&nbsp; **Strength is bounded linearly by Birch rank**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-09-02 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Benjamin Baily, Amichai Lampert &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** Improved exposition
-
-<details><summary>Abstract</summary><p>Let $f$ be a homogeneous polynomial over a field. For many fields, including number fields and function fields, we prove that the strength of $f$ is bounded above by a constant multiple of the Birch rank of $f.$ The constant depends only on the degree of $f$ and the absolute transcendence degree of the field. This is the first linear bound obtained for forms of degree greater than three, partially resolving a conjecture of Adiprasito, Kazhdan and Ziegler. Our result has applications for the Hardy-Littlewood circle method. The circle method yields an asymptotic formula for counting integral zeros of (collections of) homogeneous polynomials, provided the Birch rank is sufficiently large -- a natural geometric condition. Our main theorem implies that these formulas hold even if we only assume a similar lower bound on the strength of the (collection of) homogeneous polynomials -- an arithmetic condition which is a priori weaker. This answers questions of Cook-Magyar and Skinner, and also yields a new proof of a seminal result of Schmidt as a consequence of Birch's earlier work. Over finite fields we obtain a quasi-linear bound for partition rank of tensors in terms of analytic rank, improving Moshkovitz-Zhu's state of the art bound.</p></details>
 
