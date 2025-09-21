@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2025-09-21
+Last update: 2025-09-22
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -63,6 +63,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** submitted to Acta Arithmetica
 
 <details><summary>Abstract</summary><p>Dirichlet's Lemma states that every primitive quadratic Dirichlet character $\chi$ can be written in the form $\chi(n) = (\frac{\Delta}n)$ for a suitable quadratic discriminant $\Delta$. In this article we define a group, the separant class group, that measures the extent to which Dirichlet's Lemma fails in general number fields $F$. As an application we will show that over fields with trivial separant class groups, genus theory of quadratic extensions can be made as explicit as over the rationals.</p></details>
+
+---
+
+### \[<a href='http://arxiv.org/abs/2012.14522v3'>2012.14522</a>\]&nbsp; **Nearby Cycle Sheaves for Stable Polar Representations**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-09-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Mikhail Grinberg, Kari Vilonen, Ting Xue &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 67 pages, 1 figure
+
+<details><summary>Abstract</summary><p>Let G|V, G connected, reductive over C, be a stable polar representation in the sense of [DK], satisfying some mild additional hypotheses. Given a G-equivariant rank one local system L on the general fiber of the quotient map f : V --> V/G, we compute the Fourier transform of the corresponding nearby cycle sheaf P on the zero-fiber of f. This provides a partial generalization of the results of [Gr1] and [GVX1]. Our main intended application is to the theory of character sheaves for graded Lie algebras over C.</p></details>
 
 ---
 
@@ -534,6 +546,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
+### \[<a href='http://arxiv.org/abs/1611.06918v4'>1611.06918</a>\]&nbsp; **Automorphy of $\mathrm{GL}_2\otimes \mathrm{GL}_n$ in the self-dual case**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-09-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Sara Arias-de-Reyna, Luis Dieulefait, Josu Pérez &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 72 pages. At the suggestion of the anonymous referee, we expanded Sections 3 and 4 of the paper, and improved the exposition at several points
+
+<details><summary>Abstract</summary><p>In this paper we establish a new case of Langlands functoriality. More precisely, we prove that the tensor product of the compatible system of Galois representations attached to a level-1 classical modular form and the compatible system attached to an n-dimensional RACP automorphic representation of GL_n of the adeles of Q is automorphic, for any positive integer n, under some natural hypotheses (namely regularity and irreducibility), and a mild restriction on the level of the n-dimensional representation.</p></details>
+
+---
+
 ### \[<a href='http://arxiv.org/abs/2509.09934v3'>2509.09934</a>\]&nbsp; **Almost all binary forms of degree $\geq 3$ fail to represent a fixed integer**
 
 
@@ -654,6 +678,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** 57 pages, final version
 
 <details><summary>Abstract</summary><p>We study isolated quotient singularities by finite and linearly reductive group schemes (lrq singularities for short) and show that they satisfy many, but not all, of the known properties of finite quotient singularities in characteristic zero: (1) From the lrq singularity we can recover the group scheme and the quotient presentation. (2) We establish canonical lifts to characteristic zero, which leads to a bijection between lrq singularities and certain characteristic zero counterparts. (3) We classify subgroup schemes of ${\mathbf{GL}}_d$ and ${\mathbf{SL}}_d$ that correspond to lrq singularities. For $d=2$, this generalises results of Klein, Brieskorn, and Hashimoto. Also, our classification is closely related to the spherical space form problem. (4) F-regular (resp. F-regular and Gorenstein) surface singularities are precisely the lrq singularities by finite and linearly reductive subgroup schemes of ${\mathbf{GL}}_2$ (resp. ${\mathbf{SL}}_2$). This generalises results of Klein and Du Val. (5) Lrq singularities in dimension $\geq 4$ are infinitesimally rigid. We classify lrq singularities in dimension $3$ that are not infinitesimally rigid and compute their deformation spaces. This generalises Schlessinger's rigidity theorem to positive and mixed characteristic. Finally, we study Riemenschneider's conjecture in this context, that is, whether lrq singularities deform to lrq singularities.</p></details>
+
+---
+
+### \[<a href='http://arxiv.org/abs/2110.01597v4'>2110.01597</a>\]&nbsp; **The étale cohomology ring of a punctured arithmetic curve**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-09-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Eric Ahlqvist, Magnus Carlson &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 25 pages
+
+<details><summary>Abstract</summary><p>We compute the cohomology ring $H^*(U,\mathbb{Z}/n\mathbb{Z})$ for $U=X\setminus S$ where $X$ is the spectrum of the ring of integers of a number field $K$ and $S$ is a finite set of finite primes. As a consequence, we obtain an efficient way to compute presentations of $Q_2(G_S)$, where $G_S$ is Galois group of the maximal extension of $K$ unramified outside of a finite set of primes $S$, for varying $K$. This includes the following cases (for $p$ any prime dividing $n$): $\mu_p(\overline{K}) \not\subseteq K$; $S$ does not contain the primes above $p$; and $p=2$ with $K$ admitting real archimedean places. We also show how to recover the classical reciprocity law of the Legendre symbol from the graded commutativity of the cup product.</p></details>
 
 ---
 
@@ -1095,40 +1131,4 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** 25 pages
 
 <details><summary>Abstract</summary><p>Designing a deterministic polynomial time algorithm for factoring univariate polynomials over finite fields remains a notorious open problem. In this paper, we present an unconditional deterministic algorithm that takes as input an irreducible polynomial $f \in \mathbb{Z}[x]$, and computes the factorisation of its reductions modulo $p$ for all primes $p$ up to a prescribed bound $N$. The \emph{average running time per prime} is polynomial in the size of the input and the degree of the splitting field of $f$ over $\mathbb{Q}$. In particular, if $f$ is Galois, we succeed in factoring in (amortised) deterministic polynomial time.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2505.20998v2'>2505.20998</a>\]&nbsp; **Compression and complexity for sumset sizes in additive number theory**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-09-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Melvyn B. Nathanson &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 17 pages
-
-<details><summary>Abstract</summary><p>The study of sums of finite sets of integers has mostly concentrated on sets with small sumsets (Freiman's theorem and related work) and on sets with large sumsets (Sidon sets and $B_h$-sets). This paper considers the sets ${\mathcal R}_{\mathbf Z}(h,k)$ and ${\mathcal R}_{{\mathbf Z}^n}(h,k)$ of \emph{all} sizes of $h$-fold sums of sets of $k$ integers or of $k$ lattice points, and the geometric and computational complexity of the sets ${\mathcal R}_{\mathbf Z}(h,k)$ and ${\mathcal R}_{{\mathbf Z}^n}(h,k)$. For sumsets $hA$ with large diameter, there is a compression algorithm to construct sets $A'$ with $|hA'| = |hA|$ and small diameter.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2509.12570v1'>2509.12570</a>\]&nbsp; **Improved Average Bounds for an Inequality of Alladi, Erdös, and Vaaler**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-09-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Cooper O'Kuhn &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 17 pages. Comments and suggestions are welcome!
-
-<details><summary>Abstract</summary><p>We prove an averaged version of a claim suspected to be true by Alladi, Erd\"os, and Vaaler. Qualitatively, the result states that a divisor sum of a multiplicative function, which obeys certain size constraints, derives most of its value from its "small" divisors.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2509.12561v1'>2509.12561</a>\]&nbsp; **Proof of a conjecture of Garvan and Jennings-Shaffer on the nonnegativity of M_{C1}(m,n) and M_{C5}(m,n)**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-09-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Bing He, Shuming Liu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** Comments are welcome
-
-<details><summary>Abstract</summary><p>In their 2016 paper on exotic Bailey--Slater SPT-functions, Garvan and Jennings-Shaffer introduced many new spt-crank-type functions and proposed a conjecture that the spt-crank-type functions $M_{C1}(m,n)$ and $M_{C5}(m,n)$ are both nonnegative for all $m\in\mathbb{Z}$ and $n\in\mathbb{N}.$ Applying Wright\textquoteright s circle method, Jang and Kim showed that $M_{C1}(m,n)$ and $M_{C5}(m,n)$ are both positive for a fixed integer $m$ and large enough integers $n.$ Up to now, no complete proof of this conjecture has been given. In this paper, we provide a complete proof for this conjecture by using the theory of lattice points. Our proof is quite different from that of Jang and Kim.</p></details>
 
