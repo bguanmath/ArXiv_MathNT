@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2025-09-28
+Last update: 2025-09-29
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -363,6 +363,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** Theorem C is improved and Theorem D is revised. Comments are welcome
 
 <details><summary>Abstract</summary><p>In this article we study the algebraic structure of fine Mordell--Weil groups, plus/minus Mordell--Weil groups, Selmer groups, and plus/minus Selmer groups in the cyclotomic $\mathbb{Z}_p$-extensions of abelian number fields. As a first, we prove theorems on the equivariant structure of fine Mordell--Weil groups and plus/minus Mordell--Weil groups. In other words, we study the explicit shape of the fine, plus/minus objects as a $\Lambda(\mathcal{G})$-module with $\mathcal{G} \simeq \mathbb{Z}_p \times G$ and $G$ a finite abelian group. We prove refinements of previously known results over $\mathbb{Q}$ for the classical Selmer group and the plus/minus Selmer group, and subsequently also the Shafarevich--Tate group, and the plus/minus Shafarevich--Tate group. This gives new evidence towards an affirmative answer for the Kurihara--Pollack problem.</p></details>
+
+---
+
+### \[<a href='http://arxiv.org/abs/2012.07184v2'>2012.07184</a>\]&nbsp; **Trivalent vertices and bordered knot Floer homology in the standard basis**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-09-24 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Andrew Manion &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.GT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 118 pages; 49 figures. This version accepted for publication in Geometry & Topology
+
+<details><summary>Abstract</summary><p>We define new algebras, local bimodules, and bimodule maps in the spirit of Ozsvath-Szabo's bordered knot Floer homology. We equip them with the structure of 2-representations of the categorified negative half U^- of U_q(gl(1|1)), 1-morphisms of such, and 2-morphisms respectively, and show that they categorify representations of U_q(gl(1|1)^-) and maps between them. Unlike with Ozsvath-Szabo's algebras, the algebras considered here can be built from a higher tensor product operation recently introduced by Rouquier and the author. Our bimodules are all motivated by holomorphic disk counts in Heegaard diagrams; for positive and negative crossings, the bimodules can also be expressed as mapping cones involving a singular-crossing bimodule and the identity bimodule. In fact, they arise from an action of the monoidal category of Soergel bimodules via Rouquier complexes in the usual way, the first time (to the author's knowledge) such an expression has been obtained for braiding bimodules in Heegaard Floer homology. Furthermore, the singular crossing bimodule naturally factors into two bimodules for trivalent vertices; such bimodules have not appeared in previous bordered-Floer approaches to knot Floer homology. The action of the Soergel category comes from an action of categorified quantum gl(2) on the 2-representation 2-category of U^- in line with the ideas of skew Howe duality, where the trivalent vertex bimodules are associated to 1-morphisms E, F in categorified quantum gl(2).</p></details>
 
 ---
 
@@ -1119,16 +1131,4 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** comments welcome!
 
 <details><summary>Abstract</summary><p>We are motivated by a result of Alzer and Luca who presented all the integer solutions to the relations $(k!)^n-k^n=(n!)^k-n^k$ and $(k!)^n+k^n=(n!)^k+n^k$. We consider the equations $(k!)^{n!}\pm k^n=(n!)^{k!}\pm n^k$ and $(k!)^n\pm k^{n!}=(n!)^k\pm n^{k!}$ and prove a similar statement.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2311.06044v2'>2311.06044</a>\]&nbsp; **Uniform existential definitions of valuations in function fields in one variable**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-09-23 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Karim Johannes Becher, Nicolas Daans, Philip Dittmann &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 57 pages, preprint. Minor fixes and additions to facilitate referencing in later work
-
-<details><summary>Abstract</summary><p>We study function fields of curves over a base field $K$ which is either a global field or a large field having a separable field extension of degree divisible by $4$. We show that, for any such function field, Hilbert's 10th Problem has a negative answer, the valuation rings containing $K$ are uniformly existentially definable, and finitely generated integrally closed $K$-subalgebras are definable by a universal-existential formula. In order to obtain these results, we develop further the usage of local-global principles for quadratic forms in function fields to definability of certain subrings. We include a first systematic presentation of this general method, without restriction on the characteristic.</p></details>
 
