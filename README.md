@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2025-10-12
+Last update: 2025-10-13
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -663,6 +663,15 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
+### \[<a href='http://arxiv.org/abs/2108.12283v5'>2108.12283</a>\]&nbsp; **On Weyl's Subconvex Bound for Cube-Free Hecke characters: Totally Real Case**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-10-08 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Olga Balkanova, Dmitry Frolenkov, Han Wu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>We prove a Weyl-type subconvex bound for cube-free level Hecke characters over totally real number fields. Our proof relies on an explicit inversion to Motohashi's formula. Schwartz functions of various kinds and the invariance of the relevant Motohashi's distributions discovered in a previous paper play central roles.</p></details>
+
+---
+
 ### \[<a href='http://arxiv.org/abs/2510.06993v1'>2510.06993</a>\]&nbsp; **A remark on weighted average multiplicities in prime factorisation**
 
 
@@ -1122,16 +1131,4 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** Comments welcome
 
 <details><summary>Abstract</summary><p>We study the generating series associated with the degree sequence of a monomial self-map of a projective toric variety. We establish conditions under which this series has its circle of convergence as a natural boundary, and hence is a transcendental, non-holonomic function. In the case of toric surfaces, our results are sharp; moreover, we answer a question of Bell by proving that their reductions modulo $p$ are transcendental for all but finitely many prime numbers $p$.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2510.04873v2'>2510.04873</a>\]&nbsp; **Fourier interpolation in dimensions 3 and 4 and real-variable Kloosterman sums**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-10-07 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Danylo Radchenko, Qihang Sun &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** We thank Professor Dr. Shparlinski for kindly pointing out our misuse of the bounds for sums of Kloosterman sums (in Sections 4 and 5). This has been corrected in the revised version v2
-
-<details><summary>Abstract</summary><p>We give a construction of radial Fourier interpolation formulas in dimensions 3 and 4 using Maass--Poincar\'e type series. As a corollary we obtain explicit formulas for the basis functions of these interpolation formulas in terms of what we call real-variable Kloosterman sums, which were previously introduced by Stoller. We also improve the bounds on the corresponding basis functions $a_{n,d}(x)$, $d=3,4$, for fixed $x$, in terms of the index $n$.</p></details>
 
