@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2025-10-19
+Last update: 2025-10-20
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -504,6 +504,18 @@ Displaying the latest papers from categories: math.NT, math.RT
  &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-10-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** John R. Doyle, Wade Hindes &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>Given a number field $K$, we completely classify the preperiodic portraits of the maps $x^d+c$ where $c\in K$ is an algebraic integer and $d$ is sufficiently large depending on the degree of $K$. Specifically, we show that there are exactly thirteen such portraits up to the natural action of roots of unity. In particular, we obtain some of the main results of recent work of the authors unconditionally for algebraic integers by replacing the use of the abc-conjecture with bounds on linear forms in logarithms. We then include applications of this work to several problems in semigroup dynamics, including the construction of irreducible polynomials and the classification of post-critically finite sets.</p></details>
+
+---
+
+### \[<a href='http://arxiv.org/abs/1808.10575v2'>1808.10575</a>\]&nbsp; **A new approach to the $SL_n$ spider**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-10-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Stephen Bigelow &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.QA &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 13 pages, 6 figures
+
+<details><summary>Abstract</summary><p>The $SL_n$ spider gives a diagrammatic way to encode the representation category of the quantum group $U_q(sl_n)$. The aim of this paper is to define a new spider that contains the $SL_n$ spider. The new spider is defined by generators and relations, according to fairly simple rules that start with combinatorial data coming from the root system of $SL_n$.</p></details>
 
 ---
 
@@ -1101,16 +1113,4 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** 4 pages. This version includes a statement for Dieudonn\'e modules as well as Tate modules, and corrects an error in the published version
 
 <details><summary>Abstract</summary><p>Refining a theorem of Zarhin, we prove that given a $g$-dimensional abelian variety $X$ and an endomorphism $u$ of $X$, there exists a matrix $A \in \mathrm{M}_{2g}(\mathbb{Z})$ such that each Tate module $T_\ell X$ has a $\mathbb{Z}_\ell$-basis on which the action of $u$ is given by $A$, and similarly for the covariant Dieudonn\'e module tensored with $\mathbb{Q}$ if over a perfect field of characteristic $p$.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2510.12322v1'>2510.12322</a>\]&nbsp; **Quantum variance for cubic moment of Hecke--Maass cusp forms and Eisenstein series**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-10-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Bingrong Huang, Liangxun Li &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 47 pages, comments welcome!
-
-<details><summary>Abstract</summary><p>In this paper, we give the upper bounds on the variance for cubic moment of Hecke--Maass cusp forms and Eisenstein series respectively. For the cusp form case, the bound comes from a large sieve inequality for symmetric cubes. We also give some nontrivial bounds for higher moments of symmetric cube $L$-functions. For the Eisenstein series case, the upper bound comes from Lindel\"of-on-average type bounds for various $L$-functions. In particular, we establish the sharp upper bounds for the fourth moment of $\mathrm{GL}(2)\times \mathrm{GL}(2)$ $L$-functions and the eighth moment of $\mathrm{GL}(2)$ $L$-functions around special points $1/2+it_j$. Our proof is based on the work of Chandee and Li \cite{C-L20} about bounding the second moment of $\mathrm{GL}(4)\times \mathrm{GL}(2)$ $L$-functions.</p></details>
 
