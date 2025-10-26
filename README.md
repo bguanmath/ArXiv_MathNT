@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2025-10-26
+Last update: 2025-10-27
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -18,6 +18,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** Added Section 3; introduced the $\eta$-twisted group superalgebras and the $\eta$-twisted wreath superproducts, where $\eta\in \{\pm\}$; enhenced the generality of many results
 
 <details><summary>Abstract</summary><p>Recently, Kleshchev and Livesey proved the existence of RoCK $p$-blocks for double covers of symmetric and alternating groups over large enough coefficient rings. They proved that these RoCK blocks of double covers are Morita equivalent to standard ``local" blocks via bimodules with endopermutation source. Based on this, Kleshchev and Livesey proved that RoCK blocks are splendidly Rickard equivalent to their Brauer correspondents. The analogous result for blocks of symmetric groups, a theorem of Chuang and Kessar, was an important step in Chuang and Rouquier ultimately proving Brou\'e's abelian defect group conjecture for symmetric groups. In this paper we show that the Morita and splendid Rickard equivalences constructed by Kleshchev and Livesey descend to the ring $\mathbb{Z}_p$ of $p$-adic integers, hence prove Kessar and Linckelmann's refinement of Brou\'e's abelian defect group conjecture for these RoCK blocks.</p></details>
+
+---
+
+### \[<a href='http://arxiv.org/abs/1608.07446v3'>1608.07446</a>\]&nbsp; **Non-semi-stable loci in Hecke stacks and Fargues' conjecture**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-10-23 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Ildar Gaisin, Naoki Imai &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 27 pages
+
+<details><summary>Abstract</summary><p>We show the Harris--Viehmann conjecture under some Hodge--Newton reducibility condition for a generalization of the diamond of a non-basic Rapoport--Zink space at infinite level, which appears as a cover of the non-semi-stable locus in the Hecke stack. We show also that the cohomology of the non-semi-stable locus with coefficient coming from a cuspidal Langlands parameter vanishes. As an application, we show the Hecke eigensheaf property in Fargues' conjecture for cuspidal Langlands parameters in the GL(2)-case.</p></details>
 
 ---
 
@@ -579,6 +591,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
+### \[<a href='http://arxiv.org/abs/1611.00499v2'>1611.00499</a>\]&nbsp; **Twisted group ring isomorphism problem**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-10-22 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Leo Margolis, Ofir Schnabel &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RA &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** Correction of Example 5.8. 23 pages
+
+<details><summary>Abstract</summary><p>We propose and study a variation of the classical isomorphism problem for group rings in the context of projective representations. We formulate several weaker conditions following from our notion and give all logical connections between these condition by studying concrete examples. We introduce methods to study the problem and provide results for various classes of groups, including abelian groups, groups of central type, $p$-groups of order $p^4$ and groups of order $p^2q^2$, where $p$ and $q$ denote different primes.</p></details>
+
+---
+
 ### \[<a href='http://arxiv.org/abs/2510.19355v1'>2510.19355</a>\]&nbsp; **Hilbert-Kunz series, F-signature series, and weak p-fractals**
 
 
@@ -951,6 +975,18 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
+### \[<a href='http://arxiv.org/abs/1903.08686v3'>1903.08686</a>\]&nbsp; **Quantum variance on quaternion algebras, III**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-10-21 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Paul D. Nelson &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 71 pages, final version, to appear in Annals of Math. Following the suggestions of referees, v2 now contains what was Part 1 of paper II in the series; paper II will be shortened and revised accordingly. v3: updated references
+
+<details><summary>Abstract</summary><p>We determine the asymptotic quantum variance of microlocal lifts of Hecke--Maass cusp forms on the arithmetic compact hyperbolic surfaces attached to maximal orders in quaternion algebras. Our result extends those of Luo--Sarnak--Zhao concerning the non-compact modular surface. The results of this article's prequel (which involved the theta correspondence, Rallis inner product formula and equidistribution of translates of elementary theta functions) reduce the present task to some local problems over the reals involving the construction and analysis of microlocal lifts via integral operators on the group. We address these here using an analytic incarnation of the method of coadjoint orbits.</p></details>
+
+---
+
 ### \[<a href='http://arxiv.org/abs/2510.11466v2'>2510.11466</a>\]&nbsp; **On the geometric Satake equivalence for Kac-Moody groups**
 
 
@@ -1113,40 +1149,4 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** 17 pages, revised based on referee comments
 
 <details><summary>Abstract</summary><p>Given a finite abelian group $G$ and a subset $J\subset G$ with $0\in J$, let $D_{G}(J,N)$ be the maximum size of $A\subset G^{N}$ such that the difference set $A-A$ and $J^{N}$ have no non-trivial intersection. Recently, this extremal problem has been widely studied for different groups $G$ and subsets $J$. In this paper, we generalize and improve the relevant results by Alon and by Heged\H{u}s by building a bridge between this problem and cyclotomic polynomials with the help of algebraic graph theory. In particular, we construct infinitely many non-trivial families of $G$ and $J$ for which the current known upper bounds on $D_{G}(J, N)$ can be improved exponentially.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2411.13791v2'>2411.13791</a>\]&nbsp; **Zero-density estimates and the optimality of the error term in the prime number theorem**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-10-21 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Daniel R. Johnston &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 8 pages, minor corrections
-
-<details><summary>Abstract</summary><p>We demonstrate the impact of a generic zero-free region and zero-density estimate on the error term in the prime number theorem. Consequently, we are able to improve upon previous work of Pintz and provide an essentially optimal error term for some choices of the zero-free region. As an example, we show that if there are no zeros $\rho=\beta+it$ of $\zeta(s)$ with \begin{equation*} 1-\beta<\frac{1}{c(\log t)^{2/3}(\log\log t)^{1/3}}=:\eta(t), \end{equation*} then \begin{equation*} \frac{|\psi(x)-x|}{x}\ll\exp(-\omega(x))\frac{(\log x)^9}{(\log\log x)^3}, \end{equation*} where $\psi(x)$ is the Chebyshev prime-counting function, and \begin{equation*} \omega(x)=\min_{t\geq 3}\{\eta(t)\log x+\log t\}. \end{equation*} This refines the best known error term for the prime number theorem, previously given by \begin{equation*} \frac{|\psi(x)-x|}{x}\ll_{\varepsilon}\exp(-(1-\varepsilon)\omega(x)) \end{equation*} for any $\varepsilon>0$.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2510.18194v1'>2510.18194</a>\]&nbsp; **Stability of torsion subgroups of elliptic curves**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-10-21 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Bo-Hae Im, Hansol Kim &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 16 pages
-
-<details><summary>Abstract</summary><p>Let $K$ be a field of characteristic $0$ and $E/K$ an elliptic curve over $K$. For a finite extension $L/K$ and a prime~$\ell$, we provide Galois-theoretic sufficient conditions on $L/K$ under which $E\left(L\right)\left[\ell^{\infty}\right] = E\left(K\right)\left[\ell^{\infty}\right]$. For a non-Galois extension $L/K$ of prime degree, we relate the growth of the $\ell^{\infty}$-torsion subgroup of $E$ under the base change $L/K$ to the image of the mod-$\ell$ cyclotomic character. In particular, we refine Najman's result by ruling out certain torsion structures for cubic non-Galois extensions $L/\mathbb{Q}$.</p></details>
-
----
-
-### \[<a href='http://arxiv.org/abs/2510.18175v1'>2510.18175</a>\]&nbsp; **Polynomial functors in $\text{Ver}_4^+$**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2025-10-20 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Kevin Coulembier, Serina Hu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 29 pages
-
-<details><summary>Abstract</summary><p>We study polynomial functors in the incompressible category $\text{Ver}_4^+$, which can be viewed as super polynomial functors in characteristic 2. Concretely, we classify additive, exact and simple polynomial functors, and describe how simple polynomial functors evaluate on arbitrary objects. We also determine which objects are not annihilated by any polynomial functors of a given degree and for which objects the symmetric group algebra acts faithfully via the braiding.</p></details>
 
