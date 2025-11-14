@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2025-11-14
+Last update: 2025-11-15
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -9,19 +9,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2008.02621v1'>N/A</a>\]&nbsp; **Duality for $K$-analytic Cohomology**
+### \[<a href='https://arxiv.org/abs/2008.02621v1'>2008.02621</a>\]&nbsp; **Duality for $K$-analytic Cohomology**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-08-07 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Oliver Thomas &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-08-06 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Oliver Thomas &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We prove a duality result for the analytic cohomology of Lie groups over non-archimedean fields acting on locally convex vector spaces.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2007.04914v1'>N/A</a>\]&nbsp; **Certain L^2-norm and Asymptotic bounds of Whittaker Function for GL(n)**
+### \[<a href='https://arxiv.org/abs/2007.04914v1'>2007.04914</a>\]&nbsp; **Certain L^2-norm and Asymptotic bounds of Whittaker Function for GL(n)**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-07-10 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Hongyu He &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-07-09 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Hongyu He &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 14 pages
@@ -30,19 +30,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2012.09893v1'>N/A</a>\]&nbsp; **The Twisted Satake Transform and the Casselman-Shalika Formula for Quasi-Split Groups**
+### \[<a href='https://arxiv.org/abs/2012.09893v1'>2012.09893</a>\]&nbsp; **The Twisted Satake Transform and the Casselman-Shalika Formula for Quasi-Split Groups**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-12-21 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Nadya Gurevich, Edmund Karasiewicz &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-12-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Nadya Gurevich, Edmund Karasiewicz &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We prove the Casselman-Shalika formula for unramified groups over a non-archimedean local field by studying the action of the spherical Hecke algebra on the space of compact spherical Whittaker functions via the twisted Satake transform. This method provides a conceptual explanation of the appearance of characters of a dual group in the Casselman-Shalika formula.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1806.04850v2'>N/A</a>\]&nbsp; **Converse Theorem Meets Gauss Sums (with an appendix by Zhiwei Yun)**
+### \[<a href='https://arxiv.org/abs/1806.04850v2'>1806.04850</a>\]&nbsp; **Converse Theorem Meets Gauss Sums (with an appendix by Zhiwei Yun)**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2018-06-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Chufeng Nien, Lei Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2018-06-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Chufeng Nien, Lei Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 29 pages
@@ -51,10 +51,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1808.08255v2'>N/A</a>\]&nbsp; **Supersingular representations of rank 1 groups**
+### \[<a href='https://arxiv.org/abs/1808.08255v2'>1808.08255</a>\]&nbsp; **Supersingular representations of rank 1 groups**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2019-05-03 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Karol Koziol &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2019-05-02 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Karol Koziol &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** This article has been replaced by arXiv:1905.00053
@@ -63,19 +63,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1809.02913v2'>N/A</a>\]&nbsp; **$p$-adic Properties of Hauptmoduln with Applications to Moonshine**
+### \[<a href='https://arxiv.org/abs/1809.02913v2'>1809.02913</a>\]&nbsp; **$p$-adic Properties of Hauptmoduln with Applications to Moonshine**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2019-04-30 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Ryan C. Chen, Samuel Marks, Matthew Tyler &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2019-04-29 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Ryan C. Chen, Samuel Marks, Matthew Tyler &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>The theory of monstrous moonshine asserts that the coefficients of Hauptmoduln, including the $j$-function, coincide precisely with the graded characters of the monster module, an infinite-dimensional graded representation of the monster group. On the other hand, Lehner and Atkin proved that the coefficients of the $j$-function satisfy congruences modulo $p^n$ for $p \in \{2, 3, 5, 7, 11\}$, which led to the theory of $p$-adic modular forms. We combine these two aspects of the $j$-function to give a general theory of congruences modulo powers of primes satisfied by the Hauptmoduln appearing in monstrous moonshine. We prove that many of these Hauptmoduln satisfy such congruences, and we exhibit a relationship between these congruences and the group structure of the monster. We also find a distinguished class of subgroups of the monster with graded characters satisfying such congruences.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1808.06512v2'>N/A</a>\]&nbsp; **A Satake homomorphism for the $\bmod \, p$ derived Hecke algebra**
+### \[<a href='https://arxiv.org/abs/1808.06512v2'>1808.06512</a>\]&nbsp; **A Satake homomorphism for the $\bmod \, p$ derived Hecke algebra**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2019-08-12 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Niccolò Ronchetti &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2019-08-09 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Niccolò Ronchetti &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** comments welcome, part of the author's PhD thesis
@@ -84,10 +84,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1806.09920v1'>N/A</a>\]&nbsp; **The intersection complex as a weight truncation and an application to Shimura varieties**
+### \[<a href='https://arxiv.org/abs/1806.09920v1'>1806.09920</a>\]&nbsp; **The intersection complex as a weight truncation and an application to Shimura varieties**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2018-06-27 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Sophie Morel &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2018-06-26 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Sophie Morel &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 20 pages, notes of my 2010 ICM talk
@@ -96,10 +96,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1807.08232v1'>N/A</a>\]&nbsp; **Depth preserving property of the local Langlands correspondence for non-quasi-split unitary groups**
+### \[<a href='https://arxiv.org/abs/1807.08232v1'>1807.08232</a>\]&nbsp; **Depth preserving property of the local Langlands correspondence for non-quasi-split unitary groups**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2018-07-24 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Masao Oi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2018-07-22 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Masao Oi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 25 pages
@@ -108,10 +108,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1806.02513v1'>N/A</a>\]&nbsp; **Solvable base change**
+### \[<a href='https://arxiv.org/abs/1806.02513v1'>1806.02513</a>\]&nbsp; **Solvable base change**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2018-06-08 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** L. Clozel, C. S. Rajan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2018-06-07 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** L. Clozel, C. S. Rajan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 27 pages
@@ -120,19 +120,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1807.03988v1'>N/A</a>\]&nbsp; **Arthur's multiplicity formula for GSp$_4$ and restriction to Sp$_4$**
+### \[<a href='https://arxiv.org/abs/1807.03988v1'>1807.03988</a>\]&nbsp; **Arthur's multiplicity formula for GSp$_4$ and restriction to Sp$_4$**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2018-07-12 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Toby Gee, Olivier Taïbi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2018-07-11 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Toby Gee, Olivier Taïbi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We prove the classification of discrete automorphic representations of GSp$_4$ explained in [Art04], as well as a compatibility between the local Langlands correspondences for GSp$_4$ and Sp$_4$ .</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1812.11752v2'>N/A</a>\]&nbsp; **Cusps, Congruence Groups and Monstrous Dessins**
+### \[<a href='https://arxiv.org/abs/1812.11752v2'>1812.11752</a>\]&nbsp; **Cusps, Congruence Groups and Monstrous Dessins**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-07-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Valdo Tatitscheff, Yang-Hui He, John McKay &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-07-12 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Valdo Tatitscheff, Yang-Hui He, John McKay &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 57 pages, 27 figures
@@ -141,10 +141,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1902.09632v1'>N/A</a>\]&nbsp; **Koszul duality for Iwasawa algebras modulo p**
+### \[<a href='https://arxiv.org/abs/1902.09632v1'>1902.09632</a>\]&nbsp; **Koszul duality for Iwasawa algebras modulo p**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2019-02-27 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Claus Sorensen &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2019-02-25 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Claus Sorensen &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 25 pages
@@ -153,10 +153,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1903.01697v2'>N/A</a>\]&nbsp; **Periods of automorphic forms over reductive subgroups**
+### \[<a href='https://arxiv.org/abs/1903.01697v2'>1903.01697</a>\]&nbsp; **Periods of automorphic forms over reductive subgroups**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2019-03-11 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Michał Zydor &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2019-03-08 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Michał Zydor &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** Convergence criterion improved. Small changes in presentation. 39 pages, 10 figures
@@ -165,10 +165,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1805.00567v2'>N/A</a>\]&nbsp; **Hall algebras and graphs of Hecke operators for elliptic curves**
+### \[<a href='https://arxiv.org/abs/1805.00567v2'>1805.00567</a>\]&nbsp; **Hall algebras and graphs of Hecke operators for elliptic curves**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-09-04 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Roberto Alvarenga &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-09-03 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Roberto Alvarenga &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 38 pages, comments are welcome - minor typos were corrected in the second version
@@ -177,10 +177,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1811.02752v1'>N/A</a>\]&nbsp; **On the Archimedean Local Gamma Factors for Adjoint Representation of $\mathrm{GL}_3$, Part I**
+### \[<a href='https://arxiv.org/abs/1811.02752v1'>1811.02752</a>\]&nbsp; **On the Archimedean Local Gamma Factors for Adjoint Representation of $\mathrm{GL}_3$, Part I**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-01-22 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Fangyang Tian &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2018-11-07 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Fangyang Tian &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 37 pages
@@ -189,19 +189,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2006.16419v1'>N/A</a>\]&nbsp; **Bergman space zero sets, modular forms, von Neumann algebras and ordered groups**
+### \[<a href='https://arxiv.org/abs/2006.16419v1'>2006.16419</a>\]&nbsp; **Bergman space zero sets, modular forms, von Neumann algebras and ordered groups**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-07-01 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Vaughan F. R. Jones &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.FA &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-06-29 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Vaughan F. R. Jones &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.FA &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>$A^2_α$ will denote the weighted $L^2$ Bergman space. Given a subset $S$ of the open unit disc we define $Ω(S)$ to be the infimum of $\{s| \exists f \in A^2_{s-2}, f\neq 0, \mbox{ having $S$ as its zero set} \}$.By classical results on Hardy space there are sets $S$ for which $Ω(S)=1$. Using von Neumann dimension techniques and cusp forms we give examples of $S$ where $1<Ω(S)<\infty$. By using a left order on certain Fuchsian groups we are able to calculate $Ω(S)$ exactly if $Ω(S)$ is the orbit of a Fuchsian group. This technique also allows us to derive in a new way well known results on zeros of cusp forms and indeed calculate the whole algebra of modular forms for \pslz.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2006.11753v4'>N/A</a>\]&nbsp; **The $*$-Markov equation for Laurent polynomials**
+### \[<a href='https://arxiv.org/abs/2006.11753v4'>2006.11753</a>\]&nbsp; **The $*$-Markov equation for Laurent polynomials**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-12-08 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Giordano Cotti, Alexander Varchenko &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-12-07 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Giordano Cotti, Alexander Varchenko &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 68 pages, 11 figures; corrected typos, added references; v4: Introduction extended, references added
@@ -210,19 +210,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2006.11678v2'>N/A</a>\]&nbsp; **On the growth of $μ$-invariant in Iwasawa theory of supersingular Elliptic curves**
+### \[<a href='https://arxiv.org/abs/2006.11678v2'>2006.11678</a>\]&nbsp; **On the growth of $μ$-invariant in Iwasawa theory of supersingular Elliptic curves**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-08-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jishnu Ray &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-08-12 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jishnu Ray &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>In this article, we provide a relation between the $μ$-invariants of the dual plus and minus Selmer groups for supersingular elliptic curves when we ascend from the cyclotomic $\mathbb{Z}_p$-extension to a $\mathbb{Z}_p^2$-extension over an imaginary quadratic field. Furthermore we show that the supersingular $\mathfrak{M}_H(G)$-conjecture is equivalent to the fact that the $μ$-invariants doesn't change as we go up the tower.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1910.12461v2'>N/A</a>\]&nbsp; **A proof of conjectured partition identities of Nandi**
+### \[<a href='https://arxiv.org/abs/1910.12461v2'>1910.12461</a>\]&nbsp; **A proof of conjectured partition identities of Nandi**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-09-04 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Motoki Takigiku, Shunsuke Tsuchioka &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-09-02 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Motoki Takigiku, Shunsuke Tsuchioka &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 23pages, revised for submission
@@ -231,10 +231,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1911.02783v2'>N/A</a>\]&nbsp; **Branching laws for Classical Groups: the non-tempered case**
+### \[<a href='https://arxiv.org/abs/1911.02783v2'>1911.02783</a>\]&nbsp; **Branching laws for Classical Groups: the non-tempered case**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-12-30 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Wee Teck Gan, Benedict H. Gross, Dipendra Prasad &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-08-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Wee Teck Gan, Benedict H. Gross, Dipendra Prasad &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 70 pages, to appear in Compositio Math
@@ -243,10 +243,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1911.01880v2'>N/A</a>\]&nbsp; **Analytic newvectors for $\mathrm{GL}_n(\mathbb{R})$**
+### \[<a href='https://arxiv.org/abs/1911.01880v2'>1911.01880</a>\]&nbsp; **Analytic newvectors for $\mathrm{GL}_n(\mathbb{R})$**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-10-29 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Subhajit Jana, Paul D. Nelson &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2020-10-28 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Subhajit Jana, Paul D. Nelson &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 59 pages. New: Theorems on non-existence (Theorem 2), uniqueness (Theorem 6), and trace estimates (Theorem 8)
@@ -255,19 +255,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2312.12395v1'>N/A</a>\]&nbsp; **Global sections of equivariant line bundles on the $p$-adic upper half plane**
+### \[<a href='https://arxiv.org/abs/2312.12395v1'>2312.12395</a>\]&nbsp; **Global sections of equivariant line bundles on the $p$-adic upper half plane**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-12-20 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Konstantin Ardakov, Simon Wadsley &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-12-19 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Konstantin Ardakov, Simon Wadsley &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>Let $F$ be a finite extension of $\mathbb{Q}_p$, let $Ω_F$ be Drinfeld's upper half-plane over $F$ and let $G^0$ the subgroup of $GL_2(F)$ consisting of elements whose determinant has norm $1$. Let $\mathscr{L}$ be a torsion $G^0$-equivariant line bundle with connection on $Ω_F$. We show that the strong dual of $\mathscr{L}(Ω_F)$ is an admissible locally $F$-analytic representation of $G^0$ of topological length at most $2$. It is topologically irreducible if and only if the underlying connection on $\mathscr{L}$ is non-trivial. We give an explicit formula for the length of the strong dual of the space of globally-defined rigid analytic functions on a $G^0$-equivariant finite étale rigid analytic covering of $Ω_F$ with abelian Galois group as an admissible locally $F$-analytic representation of $G^0$.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2401.10183v1'>N/A</a>\]&nbsp; **Maximal stable lattices in representations over discretely valued fields**
+### \[<a href='https://arxiv.org/abs/2401.10183v1'>2401.10183</a>\]&nbsp; **Maximal stable lattices in representations over discretely valued fields**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-01-19 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Amit Ophir, Ariel Weiss &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-01-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Amit Ophir, Ariel Weiss &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 13 pages, comments welcome!
@@ -276,10 +276,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0808.1417v2'>N/A</a>\]&nbsp; **The finite harmonic oscillator and its associated sequences**
+### \[<a href='https://arxiv.org/abs/0808.1417v2'>0808.1417</a>\]&nbsp; **The finite harmonic oscillator and its associated sequences**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-06-08 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Shamgar Gurevich, Ronny Hadani, Nir Sochen &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** cs.IT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2008-12-30 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Shamgar Gurevich, Ronny Hadani, Nir Sochen &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** cs.IT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** Published in the Proceedings of the National Academy of Sciences of the United States of America (Communicated by Joseph Bernstein, Tel Aviv University, Tel Aviv, Israel)
@@ -288,37 +288,37 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0811.0856v2'>N/A</a>\]&nbsp; **Boundary behavior of special cohomology classes arising from the Weil representation**
+### \[<a href='https://arxiv.org/abs/0811.0856v2'>0811.0856</a>\]&nbsp; **Boundary behavior of special cohomology classes arising from the Weil representation**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2011-08-29 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jens Funke, John Millson &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2011-08-26 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jens Funke, John Millson &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>In our previous paper [math.NT/0408050], we established a correspondence between vector-valued holomorphic Siegel modular forms and cohomology with local coefficients for local symmetric spaces $X$ attached to real orthogonal groups of type $(p,q)$. This correspondence is realized using theta functions associated to explicitly constructed "special" Schwartz forms. Furthermore, the theta functions give rise to generating series of certain "special cycles" in $X$ with coefficients. In this paper, we study the boundary behaviour of these theta functions in the non-compact case and show that the theta functions extend to the Borel-Sere compactification $\bar{X}$ of $X$. However, for the $\Q$-split case for signature $(p,p)$, we have to construct and consider a slightly larger compactification, the "big" Borel-Serre compactification. The restriction to each face of $\bar{X}$ is again a theta series as in [math.NT/0408050], now for a smaller orthogonal group and a larger coefficient system. As application we establish the cohomological nonvanishing of the special (co)cycles when passing to an appropriate finite cover of $X$. In particular, the (co)homology groups in question do not vanish.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0810.0787v1'>N/A</a>\]&nbsp; **Cuspidal representations of reductive groups**
+### \[<a href='https://arxiv.org/abs/0810.0787v1'>0810.0787</a>\]&nbsp; **Cuspidal representations of reductive groups**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2008-10-07 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Dan Barbasch, Birgit Speh &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2008-10-04 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Dan Barbasch, Birgit Speh &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>This paper proves the existence of cuspidal automorphic forms for a reductive group, invariant under an automorphism of finite order. The techniques used are a local analysis of orbital integrals and the Arthur-Selberg trace formula.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0809.0402v1'>N/A</a>\]&nbsp; **Supersingular representations of GL_2(Q_p) and (phi,Gamma)-modules**
+### \[<a href='https://arxiv.org/abs/0809.0402v1'>0809.0402</a>\]&nbsp; **Supersingular representations of GL_2(Q_p) and (phi,Gamma)-modules**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2008-09-03 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Laurent Berger &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2008-09-02 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Laurent Berger &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>The purpose of this note is to give a direct proof of the fact that if one applies Colmez' functor to a two dimensional irreducible F_p^bar-representation of Gal(Q_p^bar/Q_p), one gets the restriction to the Borel subgroup of GL_2(Q_p) of a supersingular representation.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0809.0224v1'>N/A</a>\]&nbsp; **The Semisimplicity Conjecture for A-Motives**
+### \[<a href='https://arxiv.org/abs/0809.0224v1'>0809.0224</a>\]&nbsp; **The Semisimplicity Conjecture for A-Motives**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2019-02-20 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Nicolas Stalder &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2008-09-01 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Nicolas Stalder &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 47 pages
@@ -327,10 +327,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0904.2562v2'>N/A</a>\]&nbsp; **On the Eisenstein cohomology of odd orthogonal groups**
+### \[<a href='https://arxiv.org/abs/0904.2562v2'>0904.2562</a>\]&nbsp; **On the Eisenstein cohomology of odd orthogonal groups**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2011-06-07 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** G. Gotsbacher, H. Grobner &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2011-06-06 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** G. Gotsbacher, H. Grobner &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 21 pages, some minor corrections made, journal reference added
@@ -339,28 +339,28 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0904.2354v1'>N/A</a>\]&nbsp; **Realizing the local Weil representation over a number field**
+### \[<a href='https://arxiv.org/abs/0904.2354v1'>0904.2354</a>\]&nbsp; **Realizing the local Weil representation over a number field**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2009-04-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Gerald Cliff, David McNeilly &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2009-04-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Gerald Cliff, David McNeilly &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We show that the Weil representation of the symplectic group Sp(2n,F), where F is a non-archimedian local field, can be realized over the field obtained from the rationals by adjoining the square roots of p and -p, where p is the residue characteristic of F; p is assumed to be odd.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0903.1486v1'>N/A</a>\]&nbsp; **On character values and decomposition of the Weil representation associated to a finite abelian group**
+### \[<a href='https://arxiv.org/abs/0903.1486v1'>0903.1486</a>\]&nbsp; **On character values and decomposition of the Weil representation associated to a finite abelian group**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2010-10-07 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Amritanshu Prasad &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2009-03-09 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Amritanshu Prasad &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We develop a simple algebraic approach to the study of the Weil representation associated to a finite abelian group. As a result, we obtain a simple proof of a generalisation of a well-known formula for the absolute value of its character. We also obtain a new result about its decomposition into irreducible representations. As an example, the decomposition of the Weil representation of Sp_{2g}(Z/NZ) is described for odd N.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0807.4654v1'>N/A</a>\]&nbsp; **Round about Theta. Part I Prehistory**
+### \[<a href='https://arxiv.org/abs/0807.4654v1'>0807.4654</a>\]&nbsp; **Round about Theta. Part I Prehistory**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2008-07-30 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Rolf Berndt &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2008-07-29 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Rolf Berndt &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 39 pages
@@ -369,25 +369,25 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0909.3360v1'>N/A</a>\]&nbsp; **Theta lifting for some cohomologicaly induced representations**
+### \[<a href='https://arxiv.org/abs/0909.3360v1'>0909.3360</a>\]&nbsp; **Theta lifting for some cohomologicaly induced representations**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2009-09-21 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Mathieu Cossutta &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2009-09-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Mathieu Cossutta &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>In his paper 'Theta lifting for representations with non zero cohomlogy', Jian-Shu Li proved that a certain kind of cohomological representations of $U(a,b)$ is automorphic. In this paper, this result is generalized to a more general class of cohomological representations of this group. It comes from the fact that these cohomological representations are the image by the theta correspondance of some representations obtained by cohomological induction. In proving this theorem, we also prove some cases of Adams conjecture.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0909.3476v1'>N/A</a>\]&nbsp; **Changements de base explicites des représentations supercuspidales de U(1,1)(F)**
+### \[<a href='https://arxiv.org/abs/0909.3476v1'>0909.3476</a>\]&nbsp; **Changements de base explicites des représentations supercuspidales de U(1,1)(F)**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2009-09-21 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Laure Blasco &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2009-09-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Laure Blasco &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>Let F be a nonarchimedean local field of characterisitic 0 and odd residual characteristic. We describe explicitly the two base change lifts of supercuspidal representations of U(1,1)(F). This represents a step towards the goal of describing base change of endoscopic supercuspidal L-packets of U(2,1)(F).</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0905.4264v2'>N/A</a>\]&nbsp; **Paramètres de Langlands et Algèbres d'entrelacement**
+### \[<a href='https://arxiv.org/abs/0905.4264v2'>0905.4264</a>\]&nbsp; **Paramètres de Langlands et Algèbres d'entrelacement**
 
 
  &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2009-10-06 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Volker Heiermann &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
@@ -399,7 +399,7 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0908.0699v4'>N/A</a>\]&nbsp; **On the tempered L-function conjecture**
+### \[<a href='https://arxiv.org/abs/0908.0699v4'>0908.0699</a>\]&nbsp; **On the tempered L-function conjecture**
 
 
  &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2009-11-12 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Volker Heiermann, Eric Opdam &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
@@ -411,7 +411,7 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0902.2302v2'>N/A</a>\]&nbsp; **Square integrability of representations on p-adic symmetric spaces**
+### \[<a href='https://arxiv.org/abs/0902.2302v2'>0902.2302</a>\]&nbsp; **Square integrability of representations on p-adic symmetric spaces**
 
 
  &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2009-03-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Shin-ichi Kato, Keiji Takano &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
@@ -423,10 +423,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1003.3716v2'>N/A</a>\]&nbsp; **Asymptotic formulas for class number sums of indefinite binary quadratic forms in arithmetic progressions**
+### \[<a href='https://arxiv.org/abs/1003.3716v2'>1003.3716</a>\]&nbsp; **Asymptotic formulas for class number sums of indefinite binary quadratic forms in arithmetic progressions**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2015-02-10 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yasufumi Hashimoto &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2010-09-06 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yasufumi Hashimoto &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 22 pages
@@ -435,10 +435,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1006.5808v2'>N/A</a>\]&nbsp; **Exactness of the reduction on étale modules**
+### \[<a href='https://arxiv.org/abs/1006.5808v2'>1006.5808</a>\]&nbsp; **Exactness of the reduction on étale modules**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2011-02-22 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Gergely Zábrádi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2010-11-30 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Gergely Zábrádi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 18 pages; some typos corrected and proof of Lemma 1 rewritten, to appear in Journal of Algebra
@@ -447,10 +447,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1005.2008v3'>N/A</a>\]&nbsp; **The image of Colmez's Montreal functor**
+### \[<a href='https://arxiv.org/abs/1005.2008v3'>1005.2008</a>\]&nbsp; **The image of Colmez's Montreal functor**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2013-01-08 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Vytautas Paskunas &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2013-01-05 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Vytautas Paskunas &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** Proof of Prop. 5.16 modified
@@ -459,10 +459,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1006.5105v1'>N/A</a>\]&nbsp; **Siegel modular forms of degree two attached to Hilbert modular forms**
+### \[<a href='https://arxiv.org/abs/1006.5105v1'>1006.5105</a>\]&nbsp; **Siegel modular forms of degree two attached to Hilbert modular forms**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2010-06-29 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jennifer Johnson-Leung, Brooks Roberts &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2010-06-26 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jennifer Johnson-Leung, Brooks Roberts &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 23 pages, 2 tables
@@ -471,28 +471,28 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2312.16945v1'>N/A</a>\]&nbsp; **An Explicit Construction of CAP Representations of $Sp_{4n}(\mathbb A)$ associated to Non-trivial Automorphic Characters of Orthogonal Groups $O_{2n}(\mathbb A)$**
+### \[<a href='https://arxiv.org/abs/2312.16945v1'>2312.16945</a>\]&nbsp; **An Explicit Construction of CAP Representations of $Sp_{4n}(\mathbb A)$ associated to Non-trivial Automorphic Characters of Orthogonal Groups $O_{2n}(\mathbb A)$**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-12-29 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Ron Erez &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-12-28 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Ron Erez &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>Piatetski-Shapiro the concept of CAP representations was introduced, elucidating the Saito-Kurokawa representations of $PGSp(4)$. In this paper we present a family of CAP representations for the group $Sp_{4n}(\mathbb A)$ through the application of the theta correspondence and Howe duality to the reductive dual pair $(O_{2n}(\mathbb A) , Sp_{4n}(\mathbb A))$. The construction involves constructing a non-trivial automorphic character of $O_{2n}(\mathbb A)$, lifting it to an irreducible cuspidal automorphic representation $π=\otimes'_νπ_ν$ of $Sp_{4n}(\mathbb A)$, and providing a detailed characterization of the representations $π_ν$ of $Sp_{4n}(\mathbb F_ν)$ at almost all places $ν$.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2403.09843v1'>N/A</a>\]&nbsp; **$K_1$-invariants in the mod $p$ cohomology of $U(3)$ arithmetic manifolds**
+### \[<a href='https://arxiv.org/abs/2403.09843v1'>2403.09843</a>\]&nbsp; **$K_1$-invariants in the mod $p$ cohomology of $U(3)$ arithmetic manifolds**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-03-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Daniel Le, Bao Viet Le Hung, Stefano Morra &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-03-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Daniel Le, Bao Viet Le Hung, Stefano Morra &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>Let $F/F^+$ be a CM extension and $H_{/F^+}$ a definite unitary group in three variables that splits over $F$. We describe Hecke isotypic components of mod $p$ algebraic modular forms on $H$ at first principal congruence level at $p$ and "minimal" level away from $p$ in terms of the restrictions of the associated Galois representation to decomposition groups at $p$ when these restrictions are tame and sufficiently generic. This confirms an expectation of local-global compatibility in the mod $p$ Langlands program. To prove our result, we develop a local model theory for multitype deformation rings and new methods to work with patched modules that are not free over their scheme-theoretic support.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2402.14011v1'>N/A</a>\]&nbsp; **Spectral mod p Satake isomorphism for GL_n**
+### \[<a href='https://arxiv.org/abs/2402.14011v1'>2402.14011</a>\]&nbsp; **Spectral mod p Satake isomorphism for GL_n**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-02-22 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Heejong Lee &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-02-21 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Heejong Lee &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 36 pages, comments welcome!
@@ -501,10 +501,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2404.10139v1'>N/A</a>\]&nbsp; **Beyond Endoscopy via Poisson Summation for GL(2,K)**
+### \[<a href='https://arxiv.org/abs/2404.10139v1'>2404.10139</a>\]&nbsp; **Beyond Endoscopy via Poisson Summation for GL(2,K)**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-04-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Melissa Emory, Malors Espinosa-Lara, Debanjana Kundu, Tian An Wong &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-04-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Melissa Emory, Malors Espinosa-Lara, Debanjana Kundu, Tian An Wong &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** Comments welcome!
@@ -513,10 +513,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2404.03388v1'>N/A</a>\]&nbsp; **An observation concerning highly ramified $ε$-factors**
+### \[<a href='https://arxiv.org/abs/2404.03388v1'>2404.03388</a>\]&nbsp; **An observation concerning highly ramified $ε$-factors**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-04-05 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Edgar Assing &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-04-04 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Edgar Assing &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 15 pages; Comments welcome
@@ -525,10 +525,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2404.04666v2'>N/A</a>\]&nbsp; **An explicit formula for the orbital integrals on the spherical Hecke algebra of $\mathrm{GL}_3$**
+### \[<a href='https://arxiv.org/abs/2404.04666v2'>2404.04666</a>\]&nbsp; **An explicit formula for the orbital integrals on the spherical Hecke algebra of $\mathrm{GL}_3$**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-04-10 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Sungmun Cho, Yuchan Lee &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-04-09 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Sungmun Cho, Yuchan Lee &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 17 pages
@@ -537,10 +537,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/0808.1664v1'>N/A</a>\]&nbsp; **The Weil Representation in Characteristic Two**
+### \[<a href='https://arxiv.org/abs/0808.1664v1'>0808.1664</a>\]&nbsp; **The Weil Representation in Characteristic Two**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2016-09-08 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Shamgar Gurevich, Ronny Hadani &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2008-08-12 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Shamgar Gurevich, Ronny Hadani &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** This paper was submitted for publication May 1, 2008
@@ -549,10 +549,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1012.2897v2'>N/A</a>\]&nbsp; **Harmonic Maaß-Jacobi forms of degree 1 with higher rank indices**
+### \[<a href='https://arxiv.org/abs/1012.2897v2'>1012.2897</a>\]&nbsp; **Harmonic Maaß-Jacobi forms of degree 1 with higher rank indices**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2019-01-01 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Charles H. Conley, Martin Raum &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2015-01-23 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Charles H. Conley, Martin Raum &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 28 pages
@@ -561,10 +561,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1011.5551v3'>N/A</a>\]&nbsp; **Local models of Shimura varieties, I. Geometry and combinatorics**
+### \[<a href='https://arxiv.org/abs/1011.5551v3'>1011.5551</a>\]&nbsp; **Local models of Shimura varieties, I. Geometry and combinatorics**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2011-08-30 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** G. Pappas, M. Rapoport, B. Smithling &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2011-08-29 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** G. Pappas, M. Rapoport, B. Smithling &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 86 pages, small corrections and improvements, to appear in the "Handbook of Moduli"
@@ -573,28 +573,28 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/1011.4582v1'>N/A</a>\]&nbsp; **Functional equations for Weng's zeta functions for $(G,P)/\mathbb{Q}$**
+### \[<a href='https://arxiv.org/abs/1011.4582v1'>1011.4582</a>\]&nbsp; **Functional equations for Weng's zeta functions for $(G,P)/\mathbb{Q}$**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2010-11-23 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yasushi Komori &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2010-11-20 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yasushi Komori &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>It is shown that Weng's zeta functions associated with arbitrary semisimple algebraic groups defined over the rational number field and their maximal parabolic subgroups satisfy the functional equations.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2303.14919v1'>N/A</a>\]&nbsp; **Explicit Constructions of Automorphic Forms: Theta Correspondence and Automorphic Descent**
+### \[<a href='https://arxiv.org/abs/2303.14919v1'>2303.14919</a>\]&nbsp; **Explicit Constructions of Automorphic Forms: Theta Correspondence and Automorphic Descent**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-03-28 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Wee Teck Gan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-03-27 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Wee Teck Gan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>This is an expanded set of notes based on two lectures given by the author at the 2022 IHES summer school on the Langlands program, on explicit techniques for the construction of automorphic representations.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2310.17837v3'>N/A</a>\]&nbsp; **BZSV Duality for Some Strongly Tempered Spherical Varieties**
+### \[<a href='https://arxiv.org/abs/2310.17837v3'>2310.17837</a>\]&nbsp; **BZSV Duality for Some Strongly Tempered Spherical Varieties**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-03-06 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Zhengyu Mao, Chen Wan, Lei Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-03-05 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Zhengyu Mao, Chen Wan, Lei Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 30 pages
@@ -603,28 +603,28 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2311.00147v1'>N/A</a>\]&nbsp; **Spherical functions of symmetric forms and a conjecture of Hironaka**
+### \[<a href='https://arxiv.org/abs/2311.00147v1'>2311.00147</a>\]&nbsp; **Spherical functions of symmetric forms and a conjecture of Hironaka**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-11-02 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Murilo Corato-Zanarella &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-10-31 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Murilo Corato-Zanarella &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>For all $r\ge1,$ we verify the following conjecture of Hironaka: for a $p$-adic field $F$ with $p$ odd, the space of spherical functions of $\mathrm{Sym}_{r\times r}(F)\cap\mathrm{GL}_r(F)$ is free of rank $4^r$ over the Hecke algebra.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2310.15822v1'>N/A</a>\]&nbsp; **Symplectic determinant laws and invariant theory**
+### \[<a href='https://arxiv.org/abs/2310.15822v1'>2310.15822</a>\]&nbsp; **Symplectic determinant laws and invariant theory**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-10-25 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Mohamed Moakher, Julian Quast &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-10-24 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Mohamed Moakher, Julian Quast &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We introduce the notion of $\textit{symplectic determinant laws}$ by analogy with Chenevier's definition of determinant laws. Symplectic determinant laws are a way to define pseudorepresentations for symplectic representations of algebras with involution over arbitrary $\mathbb{Z}[\frac{1}{2}]$-algebras. We prove that this notion satisfies the properties expected from a good theory of pseudorepresentations, and we compare it to Lafforgue's $\text{Sp}_{2d}$-pseudocharacters. In the process, we compute generators of the invariant algebras $A[M_d^m]^{G}$ and $A[G^m]^G$ over an arbitrary commutative ring $A$ when $G \in \{\text{Sp}_d, \mathrm O_d, \text{GSp}_d, \text{GO}_d\}$, generalizing results of Zubkov.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2311.02812v1'>N/A</a>\]&nbsp; **Endoscopic liftings of epipelagic representations for classical groups**
+### \[<a href='https://arxiv.org/abs/2311.02812v1'>2311.02812</a>\]&nbsp; **Endoscopic liftings of epipelagic representations for classical groups**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-11-07 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Geo Kam-Fai Tam &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-11-06 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Geo Kam-Fai Tam &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** First draft
@@ -633,10 +633,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2103.11514v4'>N/A</a>\]&nbsp; **Higher Siegel--Weil formula for unitary groups: the non-singular terms**
+### \[<a href='https://arxiv.org/abs/2103.11514v4'>2103.11514</a>\]&nbsp; **Higher Siegel--Weil formula for unitary groups: the non-singular terms**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-11-30 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Tony Feng, Zhiwei Yun, Wei Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-11-29 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Tony Feng, Zhiwei Yun, Wei Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** Minor revisions, to appear in Invent Math
@@ -645,10 +645,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2207.04073v1'>N/A</a>\]&nbsp; **$p$-adic sheaves on classifying stacks, and the $p$-adic Jacquet-Langlands correspondence**
+### \[<a href='https://arxiv.org/abs/2207.04073v1'>2207.04073</a>\]&nbsp; **$p$-adic sheaves on classifying stacks, and the $p$-adic Jacquet-Langlands correspondence**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-07-12 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** David Hansen, Lucas Mann &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-07-08 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** David Hansen, Lucas Mann &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 38 pages, comments welcome!
@@ -657,10 +657,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2207.02118v3'>N/A</a>\]&nbsp; **Local newforms for generic representations of unramified ${\rm U}_{2n+1}$ and Rankin-Selberg integrals**
+### \[<a href='https://arxiv.org/abs/2207.02118v3'>2207.02118</a>\]&nbsp; **Local newforms for generic representations of unramified ${\rm U}_{2n+1}$ and Rankin-Selberg integrals**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-03-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yao Cheng &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-03-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yao Cheng &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 34 pages. Substantially revised. In this revision, we in addition compute the Rankin-Selberg integrals attached to newforms and oldforms under a natural assumption on the $γ$-factors defined by these integrals
@@ -669,10 +669,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2207.00743v2'>N/A</a>\]&nbsp; **Epsilon dichotomy for linear models: the Archimedean case**
+### \[<a href='https://arxiv.org/abs/2207.00743v2'>2207.00743</a>\]&nbsp; **Epsilon dichotomy for linear models: the Archimedean case**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-04-26 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Miyu Suzuki, Hiroyoshi Tamori &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-04-25 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Miyu Suzuki, Hiroyoshi Tamori &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 26 pages, final version (to appear in IMRN)
@@ -681,19 +681,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2207.11543v1'>N/A</a>\]&nbsp; **An Analogue of Bernstein-Zelevinsky Derivatives to Automorphic Forms**
+### \[<a href='https://arxiv.org/abs/2207.11543v1'>2207.11543</a>\]&nbsp; **An Analogue of Bernstein-Zelevinsky Derivatives to Automorphic Forms**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-07-26 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Zhuohui Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-07-23 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Zhuohui Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>In this paper, a construction to imitate the Bernstein-Zelevinsky derivative for automorphic representations on $GL_n(\mathbb{A})$ is introduced. We will later consider the induced representation $$I(τ_1,τ_2;\underline{s}) = \mathrm{Ind}_{P_{[n_1,n_2]}}^{G_n}(Δ(τ_1,n_1)|\cdot|^{s_1}\boxtimes Δ(τ_2,n_2)|\cdot|^{s_2}).$$ from the discrete spectrum representations of $GL_n(\mathbb{A})$, and apply our method to study the degenerate Whittaker coefficients of the Eisenstein series constructed from such a representation as well as of its residues. This method can be used to reprove the results on the Whittaker support of automorphic forms of such kind proven by D. Ginzburg, Y. Cai and B. Liu. This method will also yield new results on the Eulerianity of certain degenerate Whittaker coefficients.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2207.06773v1'>N/A</a>\]&nbsp; **Residue distributions, iterated residues, and the spherical automorphic spectrum**
+### \[<a href='https://arxiv.org/abs/2207.06773v1'>2207.06773</a>\]&nbsp; **Residue distributions, iterated residues, and the spherical automorphic spectrum**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-07-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Marcelo De Martino, Volker Heiermann, Eric Opdam &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-07-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Marcelo De Martino, Volker Heiermann, Eric Opdam &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 56 pages, contains a list of symbols in the end
@@ -702,10 +702,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2207.13193v2'>N/A</a>\]&nbsp; **Compatibility of the Fargues--Scholze correspondence for unitary groups**
+### \[<a href='https://arxiv.org/abs/2207.13193v2'>2207.13193</a>\]&nbsp; **Compatibility of the Fargues--Scholze correspondence for unitary groups**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-04-22 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Alexander Bertoloni Meli, Linus Hamann, Kieu Hieu Nguyen &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-04-19 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Alexander Bertoloni Meli, Linus Hamann, Kieu Hieu Nguyen &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 44 pages, version to appear in Mathematische Annalen
@@ -714,10 +714,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2208.00378v1'>N/A</a>\]&nbsp; **On local representation densities of hermitian forms and special cycles II**
+### \[<a href='https://arxiv.org/abs/2208.00378v1'>2208.00378</a>\]&nbsp; **On local representation densities of hermitian forms and special cycles II**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-08-02 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Sungyoon Cho &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-07-31 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Sungyoon Cho &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 43 pages
@@ -726,19 +726,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2112.03531v1'>N/A</a>\]&nbsp; **Casselman-Shahidi's conjecture on normalized intertwining operators for groups of classical type**
+### \[<a href='https://arxiv.org/abs/2112.03531v1'>2112.03531</a>\]&nbsp; **Casselman-Shahidi's conjecture on normalized intertwining operators for groups of classical type**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2021-12-08 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Caihua Luo &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2021-12-07 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Caihua Luo &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>Intertwining operators play an essential role and appear everywhere in the Langlands program, their analytic properties interact directly, yet deeply with the decomposition of parabolic induction locally and the residues of Eisenstein series globally. Inspired by the profound Langlands-Shahidi theory, Casselman-Shahidi conjectured that a certain normalization factor would govern the singularity of intertwining operators for generic standard modules. Indeed, motivated by the theory of theta correspondence, especially the Siegel-Weil formula globally, and the composition problem of degenerate principal series and the demand of a g.c.d. definition of standard $L$-functions in the framework of the doubling method locally, an optimal normalization factor has been determined for degenerate principal series of classical groups via the theory of integrals on prehomogeneous vector spaces. Such a method seems impossible to be generalized to work even in the setting of degenerate generalized principal series, which are naturally involved in the recent Cai-Friedberg-Ginzburg-Kaplan's generalized doubling method. To circumvent it, we discover a new uniform argument that can answer the singularity problem of intertwining operators for a large class of induced representations. As an illustration, we prove the aforementioned Casselman-Shahidi conjecture for quasi-split groups of classical type in the paper. Along the way, with the help of Shahidi's local coefficient theory, we also prove that those normalized intertwining operators are always non-zero, and provide a new one-sentence proof of the standard module conjecture in the spirit of Casselman-Shahidi.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2201.07741v2'>N/A</a>\]&nbsp; **Representations of reductive groups over local fields**
+### \[<a href='https://arxiv.org/abs/2201.07741v2'>2201.07741</a>\]&nbsp; **Representations of reductive groups over local fields**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-02-03 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Tasho Kaletha &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-02-02 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Tasho Kaletha &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** Survey article prepared for the Proceedings of ICM 2022. v2 adds a reference
@@ -747,10 +747,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2112.04311v2'>N/A</a>\]&nbsp; **On the Rankin-Selberg $L$-factors for ${\rm SO}_{5}\times{\rm GL}_2$**
+### \[<a href='https://arxiv.org/abs/2112.04311v2'>2112.04311</a>\]&nbsp; **On the Rankin-Selberg $L$-factors for ${\rm SO}_{5}\times{\rm GL}_2$**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-01-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yao Cheng &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-01-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yao Cheng &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 22 pages, assumptions are lifted, arguments are simplified
@@ -759,19 +759,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2201.05091v2'>N/A</a>\]&nbsp; **Weakly unramified representations, finite morphisms, and Knapp-Stein $R$-groups**
+### \[<a href='https://arxiv.org/abs/2201.05091v2'>2201.05091</a>\]&nbsp; **Weakly unramified representations, finite morphisms, and Knapp-Stein $R$-groups**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-10-06 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Kwangho Choiy &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-10-05 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Kwangho Choiy &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We transfer Knapp-Stein $R$-groups for unitary weakly unramified characters between a $p$-adic quasi-split group and its non-quasi-split inner forms, and provide the structure of those $R$-groups for a general connected reductive group over a $p$-adic field. This work supports previous studies on the behavior of $R$-groups between inner forms, and extends Keys' classification for unitary unramified cases of simply-connected, almost simple, semi-simple groups.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2303.15897v1'>N/A</a>\]&nbsp; **${\rm Spin}(7)$ is unacceptable**
+### \[<a href='https://arxiv.org/abs/2303.15897v1'>2303.15897</a>\]&nbsp; **${\rm Spin}(7)$ is unacceptable**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-03-29 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Gaëtan Chenevier, Wee Teck Gan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-03-28 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Gaëtan Chenevier, Wee Teck Gan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 42 pages
@@ -780,10 +780,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2212.06670v1'>N/A</a>\]&nbsp; **On the dimension of some union of affine Deligne-Lusztig varieties**
+### \[<a href='https://arxiv.org/abs/2212.06670v1'>2212.06670</a>\]&nbsp; **On the dimension of some union of affine Deligne-Lusztig varieties**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-12-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Arghya Sadhukhan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-12-13 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Arghya Sadhukhan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** Preliminary version, comments welcome! arXiv admin note: text overlap with arXiv:2107.14461 by other authors
@@ -792,10 +792,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2301.09182v1'>N/A</a>\]&nbsp; **A comparison of endomorphism algebras**
+### \[<a href='https://arxiv.org/abs/2301.09182v1'>2301.09182</a>\]&nbsp; **A comparison of endomorphism algebras**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-01-25 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Kazuma Ohara &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-01-22 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Kazuma Ohara &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 94pages
@@ -804,19 +804,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2303.08489v3'>N/A</a>\]&nbsp; **Integer group determinants for ${\rm C}_{2}^{2} \rtimes {\rm C}_{4}$**
+### \[<a href='https://arxiv.org/abs/2303.08489v3'>2303.08489</a>\]&nbsp; **Integer group determinants for ${\rm C}_{2}^{2} \rtimes {\rm C}_{4}$**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-03-31 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yuka Yamaguchi, Naoya Yamaguchi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-03-30 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yuka Yamaguchi, Naoya Yamaguchi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>For any positive integer $n$, let ${\rm C}_{n}$ be the cyclic group of order $n$. We determine all possible values of the integer group determinant of ${\rm C}_{2}^{2} \rtimes C_{4}$.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2303.04531v2'>N/A</a>\]&nbsp; **Restricted Partitions and $SL_2$ Cohomology**
+### \[<a href='https://arxiv.org/abs/2303.04531v2'>2303.04531</a>\]&nbsp; **Restricted Partitions and $SL_2$ Cohomology**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-11-09 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Steven Benzel, Scott Conner, Nham Ngo, Khang Pham &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-11-08 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Steven Benzel, Scott Conner, Nham Ngo, Khang Pham &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** to appear in the Albanian Journal of Mathematics
@@ -825,28 +825,28 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2309.05462v2'>N/A</a>\]&nbsp; **Equivariant line bundles with connection on the p-adic upper half plane**
+### \[<a href='https://arxiv.org/abs/2309.05462v2'>2309.05462</a>\]&nbsp; **Equivariant line bundles with connection on the p-adic upper half plane**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-02-20 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Konstantin Ardakov, Simon J. Wadsley &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-02-19 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Konstantin Ardakov, Simon J. Wadsley &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>Let $F$ be a finite extension of $\mathbb{Q}_p$, let $Ω_F$ be Drinfeld's upper half-plane over $F$ and let $G^0$ the subgroup of $GL_2(F)$ consisting of elements whose determinant has norm $1$. By working locally on $Ω_F$, we construct and classify the torsion $G^0$-equivariant line bundles with integrable connection on $Ω$ in terms of the smooth linear characters of the units of the maximal order of the quaternion algebra over $F$.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2309.11085v2'>N/A</a>\]&nbsp; **Hecke action on tamely ramified Eisenstein series over $\mathbb{P}^1$**
+### \[<a href='https://arxiv.org/abs/2309.11085v2'>2309.11085</a>\]&nbsp; **Hecke action on tamely ramified Eisenstein series over $\mathbb{P}^1$**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-11-01 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Tahsin Saffat &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-10-30 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Tahsin Saffat &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We study the space of automorphic functions for the rational function field $\mathbb{F}_q(t)$ tamely ramified at three places. Eisenstein series are functions induced from the maximal torus. The space of Eisenstein series generates a trimodule for the affine Hecke algebra. We conjecture a generators and relations description of this module and prove the conjecture when $G=\mathrm{PGL}(2)$ and $\mathrm{SL}(3)$.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2310.07175v1'>N/A</a>\]&nbsp; **A Solomon-Tits theorem for rings**
+### \[<a href='https://arxiv.org/abs/2310.07175v1'>2310.07175</a>\]&nbsp; **A Solomon-Tits theorem for rings**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-10-12 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Matthew Scalamandre &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-10-11 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Matthew Scalamandre &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 35 pages
@@ -855,19 +855,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2310.02297v1'>N/A</a>\]&nbsp; **A necessary and sufficient condition for a prime to be an integer group determinant of certain $p$-groups**
+### \[<a href='https://arxiv.org/abs/2310.02297v1'>2310.02297</a>\]&nbsp; **A necessary and sufficient condition for a prime to be an integer group determinant of certain $p$-groups**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-10-05 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yuka Yamaguchi, Naoya Yamaguchi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-10-03 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yuka Yamaguchi, Naoya Yamaguchi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We give a necessary and sufficient condition for a prime to be an integer group determinant for an arbitrary abelian $p$-group of the form ${\rm C}_{p} \times H$, where ${\rm C}_{p}$ is the cyclic group of order $p$. Also, we show that under certain conditions, the integer group determinant of a finite group $G$ that is prime is the integer group determinant of the abelianization of $G$. As a result, we know that the integer group determinant of a $p$-group that is prime is the integer group determinant of its abelianization.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2310.02438v1'>N/A</a>\]&nbsp; **Local and global questions "beyond endoscopy"**
+### \[<a href='https://arxiv.org/abs/2310.02438v1'>2310.02438</a>\]&nbsp; **Local and global questions "beyond endoscopy"**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-10-05 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yiannis Sakellaridis &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-10-03 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yiannis Sakellaridis &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 43pp. Submitted to the Proceedings of the 2022 IHES Summer School on the Langlands program
@@ -876,10 +876,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2308.11425v1'>N/A</a>\]&nbsp; **A Conjecture for Multiplicities of Strongly Tempered Spherical Varieties**
+### \[<a href='https://arxiv.org/abs/2308.11425v1'>2308.11425</a>\]&nbsp; **A Conjecture for Multiplicities of Strongly Tempered Spherical Varieties**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-08-23 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Chen Wan, Lei Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-08-22 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Chen Wan, Lei Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 17 pages
@@ -888,10 +888,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2210.13653v1'>N/A</a>\]&nbsp; **The unramified computation of a Shimura integral for $\mathrm{SL}(2)\times \mathrm{GL}(2)$**
+### \[<a href='https://arxiv.org/abs/2210.13653v1'>2210.13653</a>\]&nbsp; **The unramified computation of a Shimura integral for $\mathrm{SL}(2)\times \mathrm{GL}(2)$**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-10-26 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Pan Yan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-10-24 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Pan Yan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 12 pages
@@ -900,10 +900,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2211.03724v1'>N/A</a>\]&nbsp; **Metaplectic Covers of $p$-adic Groups and Quantum Groups at Roots of Unity**
+### \[<a href='https://arxiv.org/abs/2211.03724v1'>2211.03724</a>\]&nbsp; **Metaplectic Covers of $p$-adic Groups and Quantum Groups at Roots of Unity**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-11-08 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Valentin Buciumas, Manish M. Patnaik &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-11-07 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Valentin Buciumas, Manish M. Patnaik &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** Comments welcome!
@@ -912,19 +912,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2208.12479v1'>N/A</a>\]&nbsp; **A mod-$p$ metaplectic Montréal functor**
+### \[<a href='https://arxiv.org/abs/2208.12479v1'>2208.12479</a>\]&nbsp; **A mod-$p$ metaplectic Montréal functor**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-08-29 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Robin Witthaus &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-08-26 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Robin Witthaus &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We extend Colmez's functor defined for $\mathrm{GL}_2(\mathbf{Q}_p)$ to the category of finitely generated smooth admissible mod-$p$ representations of the two-fold metaplectic cover of $\mathrm{GL}_2(\mathbf{Q}_p)$. We compute the images of the absolutely irreducible genuine objects and obtain a bijection between the genuine supersingular representations and four-dimensional irreducible Galois representations invariant under twist by all characters of order two. Restricted to genuine objects, the extended functor naturally takes values in the category of what we call metaplectic Galois representations -- Galois representations with a certain extra structure encoding the aforementioned twist-invariance.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2207.13445v4'>N/A</a>\]&nbsp; **Geometric wave-front set may not be a singleton**
+### \[<a href='https://arxiv.org/abs/2207.13445v4'>2207.13445</a>\]&nbsp; **Geometric wave-front set may not be a singleton**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-05-23 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Cheng-Chiang Tsai &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-05-21 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Cheng-Chiang Tsai &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 16+5 pages. Comments are welcomed! (v4: Journal version, with several minor improvements after v3 and that the program codes are now merged into the paper as its appendix)
@@ -933,10 +933,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2207.12985v1'>N/A</a>\]&nbsp; **Simple supercuspidal L-packets of symplectic groups over dyadic fields**
+### \[<a href='https://arxiv.org/abs/2207.12985v1'>2207.12985</a>\]&nbsp; **Simple supercuspidal L-packets of symplectic groups over dyadic fields**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-07-27 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Guy Henniart, Masao Oi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2022-07-26 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Guy Henniart, Masao Oi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 26 pages
@@ -945,10 +945,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2209.14357v2'>N/A</a>\]&nbsp; **Covers of reductive groups and functoriality**
+### \[<a href='https://arxiv.org/abs/2209.14357v2'>2209.14357</a>\]&nbsp; **Covers of reductive groups and functoriality**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-04-04 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Tasho Kaletha &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-04-01 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Tasho Kaletha &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** v2: Added a lemma (4.1.4) that further clarifies relationship to Kottwitz's work on transfer factors for Lie algebras. Revised introduction. Main results unchanged
@@ -957,10 +957,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2209.12378v3'>N/A</a>\]&nbsp; **Local coefficients and Gelfand-Graev representations for non-split covers on SL(2)**
+### \[<a href='https://arxiv.org/abs/2209.12378v3'>2209.12378</a>\]&nbsp; **Local coefficients and Gelfand-Graev representations for non-split covers on SL(2)**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-04-23 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yeongseong Jo &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-04-22 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yeongseong Jo &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** Incorporate all referee's comments, 15 pages
@@ -969,19 +969,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2210.16138v2'>N/A</a>\]&nbsp; **Gelfand--Graev functor and quantum affine Schur--Weyl duality**
+### \[<a href='https://arxiv.org/abs/2210.16138v2'>2210.16138</a>\]&nbsp; **Gelfand--Graev functor and quantum affine Schur--Weyl duality**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-04-06 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Fan Gao, Nadya Gurevich, Edmund Karasiewicz &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-04-04 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Fan Gao, Nadya Gurevich, Edmund Karasiewicz &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We explicate relations among the Gelfand--Graev modules for central covers, the Euler--Poincaré polynomial of the Arnold--Brieskorn manifold, and the quantum affine Schur--Weyl duality. These three objects and their relations are dictated by a permutation representation of the Weyl group. Specifically, our main result shows that for certain covers of $\mathrm{GL}(r)$ the Gelfand--Graev functor is related to quantum affine Schur--Weyl duality. Consequently, the commuting algebra of the Iwahori-fixed part of the Gelfand--Graev representation is the quotient of a quantum group.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2301.04964v2'>N/A</a>\]&nbsp; **On gamma factors for representations of finite general linear groups**
+### \[<a href='https://arxiv.org/abs/2301.04964v2'>2301.04964</a>\]&nbsp; **On gamma factors for representations of finite general linear groups**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-01-03 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** David Soudry, Elad Zelingher &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-01-02 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** David Soudry, Elad Zelingher &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 30 pages. Comments are welcome. v2: This version contains all changes that were made for submission in Essential Number Theory. Numbering has changed from v1
@@ -990,10 +990,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2302.10125v2'>N/A</a>\]&nbsp; **Irreducible components of the moduli space of Langlands parameters**
+### \[<a href='https://arxiv.org/abs/2302.10125v2'>2302.10125</a>\]&nbsp; **Irreducible components of the moduli space of Langlands parameters**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-12-06 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jack Shotton &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-12-05 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jack Shotton &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 18 pages, comments welcome!
@@ -1002,19 +1002,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2302.08369v1'>N/A</a>\]&nbsp; **Continuous group cohomology with coefficients in locally analytic vectors of admissible $ \mathbb{Q}_p $-Banach space representations**
+### \[<a href='https://arxiv.org/abs/2302.08369v1'>2302.08369</a>\]&nbsp; **Continuous group cohomology with coefficients in locally analytic vectors of admissible $ \mathbb{Q}_p $-Banach space representations**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-02-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Paulina Fust &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-02-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Paulina Fust &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We show that the continuous cohomology groups of a $ p $-adic reductive group with coefficients in the locally analytic vectors of an admissible $ \mathbb{Q}_p $-Banach space representation are homeomorphic to those with coefficients in the Banach space representation itself. Moreover, we deduce that the canonical topologies on those continuous cohomology groups are Hausdorff and are the uniquely determined finest locally convex topologies.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2302.07376v1'>N/A</a>\]&nbsp; **Two monoidal structures on Satake category in mixed characteristic**
+### \[<a href='https://arxiv.org/abs/2302.07376v1'>2302.07376</a>\]&nbsp; **Two monoidal structures on Satake category in mixed characteristic**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-02-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Katsuyuki Bando &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-02-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Katsuyuki Bando &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 20 pages
@@ -1023,10 +1023,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2301.12693v2'>N/A</a>\]&nbsp; **The local converse theorem for quasi-split $O_{2n}$ and $SO_{2n}$**
+### \[<a href='https://arxiv.org/abs/2301.12693v2'>2301.12693</a>\]&nbsp; **The local converse theorem for quasi-split $O_{2n}$ and $SO_{2n}$**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-07-27 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jaeho Haan, Yeansu Kim, Sanghoon Kwon &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-07-26 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jaeho Haan, Yeansu Kim, Sanghoon Kwon &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** Major revision. char(F)=p case is added in this version
@@ -1035,10 +1035,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2302.02207v1'>N/A</a>\]&nbsp; **The Weyl law for congruence subgroups and arbitrary $K_\infty$-types**
+### \[<a href='https://arxiv.org/abs/2302.02207v1'>2302.02207</a>\]&nbsp; **The Weyl law for congruence subgroups and arbitrary $K_\infty$-types**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-02-07 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Werner Mueller &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-02-04 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Werner Mueller &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 50 pages. arXiv admin note: text overlap with arXiv:2002.04598
@@ -1047,10 +1047,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2304.12142v2'>N/A</a>\]&nbsp; **On input and Langlands parameters for epipelagic representations**
+### \[<a href='https://arxiv.org/abs/2304.12142v2'>2304.12142</a>\]&nbsp; **On input and Langlands parameters for epipelagic representations**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-03-19 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Beth Romano &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2024-03-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Beth Romano &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** Updated with minor revisions and corrections
@@ -1059,10 +1059,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2304.02630v2'>N/A</a>\]&nbsp; **The explicit Local Langlands Correspondence for $G_2$ II: character formulas and stability**
+### \[<a href='https://arxiv.org/abs/2304.02630v2'>2304.02630</a>\]&nbsp; **The explicit Local Langlands Correspondence for $G_2$ II: character formulas and stability**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-04-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Kenta Suzuki, Yujie Xu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-04-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Kenta Suzuki, Yujie Xu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 21 pages
@@ -1071,19 +1071,19 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2305.08618v1'>N/A</a>\]&nbsp; **A note on Appell's functions related to the denominators of affine Lie superalgebras $\widehat{sl}(2|1)$ and $\widehat{osp}(3|2)$**
+### \[<a href='https://arxiv.org/abs/2305.08618v1'>2305.08618</a>\]&nbsp; **A note on Appell's functions related to the denominators of affine Lie superalgebras $\widehat{sl}(2|1)$ and $\widehat{osp}(3|2)$**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-05-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Minoru Wakimoto &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-05-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Minoru Wakimoto &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>In this paper we consider the simplest class of Appell's functions, and obtain their explicit formulas and modular transformation properties and asymptotic behaviors.</p></details>
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2305.08795v1'>N/A</a>\]&nbsp; **dg-Hecke duality and tensor products**
+### \[<a href='https://arxiv.org/abs/2305.08795v1'>2305.08795</a>\]&nbsp; **dg-Hecke duality and tensor products**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-05-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Peter Schneider, Claus Sorensen &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-05-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Peter Schneider, Claus Sorensen &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 28 pages
@@ -1092,10 +1092,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2306.16414v1'>N/A</a>\]&nbsp; **Class Numbers, Congruent Numbers and Umbral Moonshine**
+### \[<a href='https://arxiv.org/abs/2306.16414v1'>2306.16414</a>\]&nbsp; **Class Numbers, Congruent Numbers and Umbral Moonshine**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-07-13 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Miranda C. N. Cheng, John F. R. Duncan, Michael H. Mertens &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-06-28 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Miranda C. N. Cheng, John F. R. Duncan, Michael H. Mertens &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 
 > **Comment:** 36 pages, 5 tables
@@ -1104,10 +1104,10 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/pdf/2307.00573v1'>N/A</a>\]&nbsp; **Quasi-admissible, raisable nilpotent orbits, and theta representations**
+### \[<a href='https://arxiv.org/abs/2307.00573v1'>2307.00573</a>\]&nbsp; **Quasi-admissible, raisable nilpotent orbits, and theta representations**
 
 
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-07-04 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Fan Gao, Baiying Liu, Wan-Yu Tsai &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2023-07-02 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Fan Gao, Baiying Liu, Wan-Yu Tsai &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We study the quasi-admissibility and raisablility of some nilpotent orbits of a covering group. In particular, we determine the degree of the cover such that a given split nilpotent orbit is quasi-admissible and non-raisable. The speculated wavefront sets of theta representations are also computed explicitly, and are shown to be quasi-admissible and non-raisable. Lastly, we determine the leading coefficients in the Harish-Chandra character expansion of theta representations of covers of the general linear groups.</p></details>
 
