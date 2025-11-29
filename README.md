@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2025-11-29
+Last update: 2025-11-30
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -140,7 +140,7 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 > **Comment:** 25 pages, comments welcomed
 
-<details><summary>Abstract</summary><p>We construct an Euler system attached to general-type cohomological cuspidal automorphic representations of $\mathrm{GSp}(4)$ twisted by a Groessencharacter of an imaginary quadratic field. We then use this to bound strict Selmer groups under standard hypotheses. In addition, our approach gives a way of extending the $\mathrm{GSp}(4)\times\mathrm{GL}(2)$ Euler system of Hsu-Jin-Sakamoto to a motivic statement which also covers certain small weights omitted in op.cit..</p></details>
+<details><summary>Abstract</summary><p>We construct an Euler system attached to general-type cohomological cuspidal automorphic representations of $\mathrm{GSp}(4)$ twisted by a Groessencharacter of an imaginary quadratic field. We then use this to bound strict Selmer groups under standard hypotheses. In addition, our approach gives a way of extending the $\mathrm{GSp}(4)\times\mathrm{GL}(2)$ Euler system of Hsu-Jin-Sakamoto to a motivic statement which also covers certain small weights omitted in op$.$cit.</p></details>
 
 ---
 
