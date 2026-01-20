@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2026-01-20
+Last update: 2026-01-21
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -71,7 +71,7 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 > **Comment:** 73 pages
 
-<details><summary>Abstract</summary><p>We establish power saving asymptotics for the sum of the divisor function along a binary quartic form, improving on work of Daniel. The proof involves an application of a recent two dimensional delta method due to Li, Rydin-Myerson, and Vishe and an exploitation of $\GL_2 $ automorphic forms arising from the factorization of varying cubic Dedekind zeta functions.</p></details>
+<details><summary>Abstract</summary><p>We establish power saving asymptotics for the sum of the divisor function along a binary quartic form, improving on work of Daniel. The proof involves an application of a recent two dimensional delta method due to Li, Rydin-Myerson, and Vishe and an exploitation of $\mathrm{GL}_2$ automorphic forms arising from the factorization of varying cubic Dedekind zeta functions.</p></details>
 
 ---
 
