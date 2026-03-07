@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2026-03-07
+Last update: 2026-03-08
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -153,15 +153,6 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** 28 pages, 1 figure
 
 <details><summary>Abstract</summary><p>We give an elementary proof of some identities that express the squares of Riemann zeta function at integer points in terms of the series involving hyperbolic functions, digamma function, Bernoulli numbers etc. In this version, the last section, 1 figure and 1 reference are added. Also a series of inaccuracies and typos are corrected.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2603.05122v1'>2603.05122</a>\]&nbsp; **Analysis of the Riemann Zeta Function via Recursive Taylor Expansions**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-03-05 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yunwei Bai &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>We present an unconditional proof that non-trivial zeros of the Riemann Zeta function must lie strictly on the critical line $\text{Re}(s) = 0.5$. By defining a recursive path of Taylor expansions originating from the domain of absolute convergence, we translate the zeta function towards the critical region, which is an easy-to-understand form of the analytical continuation. We then assume the existence of off-critical-line (off-line) zeros, which exist in pairs symmetric by the critical line. If the pairs are zero in value, their real and imaginary components differences should be both zero. However, we derive a contradiction against the assumption via basic logical deduction, proving the non-existence of the off-line zeros.</p></details>
 
 ---
 
@@ -1137,4 +1128,16 @@ Displaying the latest papers from categories: math.NT, math.RT
  &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-03-03 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Heng Du, Yong Suk Moon, Koji Shimizu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We show a comparison theorem between log prismatic cohomology and log crystalline cohomology for a $p$-adic formal scheme with semistable reduction. Combined with the prismatic-étale comparison theorem recently proved by Tian, this implies the $C_{\mathrm{st}}$-conjecture in the semistable case with coefficients given by semistable local systems.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2603.02699v1'>2603.02699</a>\]&nbsp; **Asai Gamma Factors and Distinction in families**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-03-03 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Sabyasachi Dhar, Hariom Sharma &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 15 pages
+
+<details><summary>Abstract</summary><p>Let $F$ be a finite extension of $\mathbb{Q}_p$ and let $E$ be a quadratic extension of $F$. A representation $(π,V)$ of ${\rm GL}_n(E)$ is said to be ${\rm GL}_n(F)$-distinguished if there exists a non-zero linear functional $φ$ on $V$ such that $φ(π(h)v) = φ(v)$ for all $h \in {\rm GL}_n(F)$ and $v \in V$. In this article, we study the notion of ${\rm GL}_n(F)$-distinguished representations for $R[{\rm GL}_n(E)]$ modules of Whittaker type, where $R$ is a Noetherian algebra over the ring of Witt vectors of $\overline{\mathbb{F}}_\ell$ with $\ell \ne p$. We first derive a functional equation, which gives the existence of the Asai $γ$-factors associated with $R[{\rm GL}_n(E)]$ modules of Whittaker type. We then provide a necessary condition for cuspidal $R[{\rm GL}_n(E)]$ modules of Whittaker type to be Whittaker ${\rm GL}_n(F)$-distinguished, expressed in terms of their Asai $γ$-factors.</p></details>
 
