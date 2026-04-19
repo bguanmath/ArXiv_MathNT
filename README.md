@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2026-04-19
+Last update: 2026-04-20
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -888,15 +888,6 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/abs/2604.12468v1'>2604.12468</a>\]&nbsp; **Multivariable automatic arrays and transcendence**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-04-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Aadrita Paul, Anwesh Ray &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>We study real numbers defined by multidimensional automatic arrays weighted by multiplicatively independent bases. Let $a_1, \dots, a_r\geq 2$ be integers such that $\log a_1, \dots, \log a_r$ are $\mathbb Q$-linearly independent. Given bounded automatic sequences $(p_n(i))_{n\geq 0}$ with $i=1, \dots , r$ and a function $f:\mathbb Z^r\rightarrow \mathbb Z$, we consider the associated series $α= \sum_{n_1,\dots,n_r \geq 0} \frac{f(p_{n_1}(1),\dots,p_{n_r}(r))}{a_1^{n_1}\cdots a_r^{n_r}}$. Using combinatorial properties of automatic sequences and Schmidt's Subspace Theorem, we prove that $α$ is either rational or transcendental. This extends a result of Adamczewski and Bugeaud to the multidimensional setting.</p></details>
-
----
-
 ### \[<a href='https://arxiv.org/abs/2510.06983v2'>2510.06983</a>\]&nbsp; **Counting integral points in homogeneous spaces over function fields**
 
 
@@ -906,6 +897,15 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** Minor revisions
 
 <details><summary>Abstract</summary><p>We establish the asymptotic formula for the number of integral points in non-compact symmetric homogeneous spaces of semi-simple simply connected algebraic groups over global function fields, given by the sum of the products of local densities twisted by suitable Brauer elements.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2604.12468v1'>2604.12468</a>\]&nbsp; **Multivariable automatic arrays and transcendence**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-04-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Aadrita Paul, Anwesh Ray &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>We study real numbers defined by multidimensional automatic arrays weighted by multiplicatively independent bases. Let $a_1, \dots, a_r\geq 2$ be integers such that $\log a_1, \dots, \log a_r$ are $\mathbb Q$-linearly independent. Given bounded automatic sequences $(p_n(i))_{n\geq 0}$ with $i=1, \dots , r$ and a function $f:\mathbb Z^r\rightarrow \mathbb Z$, we consider the associated series $α= \sum_{n_1,\dots,n_r \geq 0} \frac{f(p_{n_1}(1),\dots,p_{n_r}(r))}{a_1^{n_1}\cdots a_r^{n_r}}$. Using combinatorial properties of automatic sequences and Schmidt's Subspace Theorem, we prove that $α$ is either rational or transcendental. This extends a result of Adamczewski and Bugeaud to the multidimensional setting.</p></details>
 
 ---
 
