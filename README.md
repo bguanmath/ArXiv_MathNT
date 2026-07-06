@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2026-07-06
+Last update: 2026-07-07
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -395,7 +395,7 @@ Displaying the latest papers from categories: math.NT, math.RT
 
  &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-07-02 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Taiwang Deng &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
-<details><summary>Abstract</summary><p>Let $F$ be a non-Archimedean local field. Let $N$ be the unipotent radical of the standard parabolic subgroup of $\mathrm GL_{2n}(F)$ of type $(n,n)$ with fixed nondegenerate additive character $ψ$. For an irreducible admissible representation $π$ of $\mathrm GL_{2n}(F)$, a theorem due to Gomez--Gourevitch--Sahi on generalized Whittaker models gives a criterion for the vanishing of the twisted Jacquet module $π_{N,ψ}$ in terms of the wave-front set. We translate this orbit-theoretic answer into Langlands--Zelevinsky data: if $π=L(\mathfrak m)$, then $π_{N,ψ}=0$ if and only if the Zelevinsky dual $\mathfrak m^{\mathrm t}$ contains a segment of length at least $n+1$. We do this in response to a conjecture proposed by D.Prasad about the vanishing of $π_{N,ψ}$ in terms of the adjoint $L$-function $L(s,π\timesπ^\vee)$. We prove that, for every irreducible representation $π$, vanishing of $π_{N,ψ}$ implies the pole inequalities predicted by D.Prasad. However, we show that the converse implication is false by an explicit counterexample for $\mathrm GL_4(F)$. For the generalized Steinberg constituents $v_{P_β}^G$ of the principal series containing the trivial representation, we make an explicit calculation of when $π_{N,ψ}$ is zero. In particular, for $\mathrm GL_6(F)$, exactly three of the $32$ constituents of such a principal series violate the converse direction of the conjecture proposed by D.Prasad.</p></details>
+<details><summary>Abstract</summary><p>Let $F$ be a non-Archimedean local field. Let $N$ be the unipotent radical of the standard parabolic subgroup of $\mathrm GL_{2n}(F)$ of type $(n,n)$ with fixed nondegenerate additive character $ψ$. For an irreducible admissible representation $π$ of $\mathrm GL_{2n}(F)$, a theorem due to Gomez--Gourevitch--Sahi on generalized Whittaker models gives a criterion for the vanishing of the twisted Jacquet module $π_{N,ψ}$ in terms of the wave-front set. We translate this orbit-theoretic answer into Langlands--Zelevinsky data: if $π=L(\mathfrak m)$, then $π_{N,ψ}=0$ if and only if the Zelevinsky dual $\mathfrak m^{\mathrm t}$ contains a segment of length at least $n+1$. We do this in response to a conjecture proposed by D$.$Prasad about the vanishing of $π_{N,ψ}$ in terms of the adjoint $L$-function $L(s,π\timesπ^\vee)$. We prove that, for every irreducible representation $π$, vanishing of $π_{N,ψ}$ implies the pole inequalities predicted by D$.$Prasad. However, we show that the converse implication is false by an explicit counterexample for $\mathrm GL_4(F)$. For the generalized Steinberg constituents $v_{P_β}^G$ of the principal series containing the trivial representation, we make an explicit calculation of when $π_{N,ψ}$ is zero. In particular, for $\mathrm GL_6(F)$, exactly three of the $32$ constituents of such a principal series violate the converse direction of the conjecture proposed by D$.$Prasad.</p></details>
 
 ---
 
