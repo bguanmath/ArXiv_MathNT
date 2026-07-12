@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2026-07-12
+Last update: 2026-07-13
 
 Displaying the latest papers from categories: math.NT, math.RT
 
