@@ -1,11 +1,611 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2026-08-19
+Last update: 2026-08-20
 
 Displaying the latest papers from categories: math.NT, math.RT
 
 
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.18024v1'>2608.18024</a>\]&nbsp; **An equidistribution conjecture for quotient-closed and submodule-closed subcategories**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Haruhisa Enomoto &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 61 pages. This work is a collaboration between the author, Fable 5, and GPT-5.6 Sol. Comments welcome! Full Lean 4 formalization of this paper is available at https://github.com/haruhisa-enomoto/quotient-submodule-equidistribution
+
+<details><summary>Abstract</summary><p>We study subcategories of the module category of a finite-dimensional algebra that are closed under quotients or submodules. We propose the quotient--submodule equidistribution conjecture: over a representation-finite algebra, the number of quotient-closed subcategories of size $i$ is equal to that of submodule-closed subcategories of size $i$ for every $i$, where size is the number of indecomposable modules in the subcategory. We prove the following cases of the conjecture: (1) the five smallest and five largest values of $i$, hence all algebras with at most nine indecomposable modules; (2) Nakayama algebras; (3) algebras with radical square zero; and (4) representation-directed algebras. In the last case, we classify quotient-closed subcategories by a lower Bruhat interval in a Coxeter group constructed from the Auslander--Reiten quiver, extending the classification of Oppermann--Reiten--Thomas for Dynkin quivers. We also prove that quotient closure defines a finitary convex geometry and classify the functorially finite quotient-closed subcategories by Gen-minimal modules.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.18015v1'>2608.18015</a>\]&nbsp; **Non-orientable representation spheres**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Sam K. Miller &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.GR &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 25 pages, including 8 pages of supplemental GAP code. Comments welcome
+
+<details><summary>Abstract</summary><p>For any finite group, we pose the following question: given an irreducible real representation, is the associated representation sphere non-orientable if and only if the representation is nontrivial of real type? We prove that the answer to this question is yes if the group has a normal Sylow 2-subgroup, but exhibit a 2-nilpotent group of order 112 for which the answer is no via elementary arguments. We also link the question to the unit group of the Burnside ring, where we recover a basis discovered by Bouc for 2-groups, and pose a conjecture about detection of non-orientability from solvable subgroups. The question is motivated by issues arising from the construction of permutation twisted cohomology for finite groups.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.18014v1'>2608.18014</a>\]&nbsp; **Products of point counts of higher genus curves over finite fields**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Alina Bucur, Kiran S. Kedlaya, Arshay Sheth &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 15 pages
+
+<details><summary>Abstract</summary><p>Let $E/\mathbb Q$ be an elliptic curve and for each prime $p$, let $N_p$ denote the number of points of $E$ modulo $p$. The original version of the conjecture of Birch and Swinnerton-Dyer asserts that $\prod \limits _{p \leq x} \frac{N_p}{p} \sim C (\log x) ^{\text{rank}(E(\mathbb Q))}$ as $x \to \infty$. In this paper, we formulate a similar conjectural asymptotic for smooth projective curves of genus at least 2, in which the contributions to the conjectured asymptotic come not only from the rank of the Jacobian but also from the Sato--Tate group of the curve. The key analytic input in formulating our conjecture is a conjecture due to Kurokawa (2012) on the convergence of Euler products of entire $L$-functions on the critical line. We also provide some numerical evidence for our conjecture in various cases.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2603.21506v2'>2603.21506</a>\]&nbsp; **Beyond Endoscopy for $\mathrm{GL}(3, \mathbb{Q})$: Isolation of the residual spectrum via Poisson Summation**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Taiwang Deng, Malors Espinos &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** We have removed the appendices, whose contents will be presented as a conceptually uniform proof in an upcoming preprint. We also correct the residue computations in our main theorem
+
+<details><summary>Abstract</summary><p>We extend to $\mathrm{GL}(3,\mathbb Q)$ the Poisson-summation method developed by Altuğ for $\mathrm{GL}(2,\mathbb Q)$ in Beyond Endoscopy. For a fixed prime and a family of factorizable test functions, we isolate the contribution of the trivial representation from the regular elliptic part of the trace formula and obtain an explicit expansion of $$ \mathrm{I}_{\mathrm{ell}}(f^{p,k})-\mathrm{Tr}(\mathbf{1}(f^{p,k})). $$ We rewrite the finite orbital integrals in terms of an overorder zeta function attached to the monogenic cubic orders defined by the characteristic polynomials. Its identification with Yun's zeta function supplies the functional equation needed for an approximate functional equation. A periodicity theorem then makes Poisson summation in the two polynomial coefficients possible. The zero frequency is governed by Kloosterman-type sums and a Dirichlet series that admits a uniform evaluation. The residues at the origin recover the trace of the trivial representation and one third of the trace of the normalized representation induced from the trivial character of the Borel subgroup.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.08141v2'>2608.08141</a>\]&nbsp; **Transfer of abelian model structures to equivariant categories and homotopy squares**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Zhenxing Di, Liping Li, Li Liang, Guoliang Tang, Rongmin Zhu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 56 pages
+
+<details><summary>Abstract</summary><p>Let $G$ be a finite group acting on a Grothendieck category $\mathcal{A}$ with enough projectives, such that $|G|$ is invertible in $\mathcal{A}$. We prove a general lifting theorem for abelian model structures from $\mathcal{A}$ to its equivariant category $\mathcal{A}^G$, and establish a triangle equivalence up to retracts between the corresponding homotopy categories. We also construct a commutative square whose horizontal functors are triangle equivalences and whose vertical comparison functors are triangle equivalences up to retracts. This square relates derived functors on the lifted equivariant model categories to the equivariantizations of the derived functors on the original homotopy categories. In the module category setting, we illustrate the above results using the PGF Hovey triples, and apply them to homotopy squares induced by a Frobenius bimodule and by a stable equivalence of adjoint type.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17892v1'>2608.17892</a>\]&nbsp; **Squarefree polynomials with missing digits**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Naomi Bazlov &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 26 pages, 0 figures
+
+<details><summary>Abstract</summary><p>We establish an asymptotic formula for squarefree polynomials over a finite field whose coefficients are in $\{0,1\}$. This resolves a function-field analogue of a conjecture of Erdős, Mauduit and Sárközy. More generally, we estimate the probability of a polynomial $\sum \varepsilon_it^i$ being squarefree, where $\varepsilon_i$ are random variables sampled according to measures on $\mathbb{F}_q$.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17891v1'>2608.17891</a>\]&nbsp; **Thompson's Conjecture for Finite Simple Groups of Lie Type over Small Fields**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jun Liao, Lizhong Wang, Jiping Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.GR &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 69 pages. Comments welcome!
+
+<details><summary>Abstract</summary><p>We prove that every finite simple group of Lie type over a field of order at most 8 contains a conjugacy class whose square is the whole group. Together with the previously established cases, our results complete the proof of Thompson's conjecture. We explicitly construct the required class, address all low-rank identifications, and provide the precise computational certificates used in the exceptional character calculations.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2602.10302v3'>2602.10302</a>\]&nbsp; **Totally decomposable algebras with involution and R-triviality**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** M. Archita, Karim Johannes Becher &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RA &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 13 pages
+
+<details><summary>Abstract</summary><p>We show that the group of proper projective similitudes of a totally decomposable algebra with orthogonal or symplectic involution of index at most 2 over a field of characteristic different from 2 is R-trivial. We further give an example showing that the statement does not extend to index 4 in the orthogonal case.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17880v1'>2608.17880</a>\]&nbsp; **A Kernel-Checked Exclusion Certificate for Erdős Problem 647**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Ibrahim Mian, Shayaan Siddique &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** cs.LO &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 9 pages. Lean sources, certificates, and verification artifacts at https://github.com/ibrahimmian36/decanus and archived at https://doi.org/10.5281/zenodo.21996019
+
+<details><summary>Abstract</summary><p>Erdős problem 647 asks whether any $n > 24$ satisfies $\max_{m<n}(m + τ(m)) \le n + 2$, where $τ$ is the divisor-count function. Computational searches have excluded solutions up to $10^{12}$ by direct sieve and up to roughly $9.17 \times 10^{18}$ within a modular reduction whose Lean component relies on native_decide; those computations sit outside any proof kernel. We give the first exclusion checked end to end by one: no solution exists with $24 < n \le 10^9$, proved in Lean 4 with axiom closure exactly {propext, Classical.choice, Quot.sound} -- no sorry, no native_decide, no problem-specific axiom. The proof replays a chain of 6,685,922 factorization witnesses whose excluded intervals concatenate across $(24, 10^9]$; it needs no primality facts beyond primes below 1024, and it is the finite, fully proved form of a domination-interval argument whose asymptotic step was the identified gap in a withdrawn January 2026 claim on this problem. The generation pipeline is cross-checked by two further independent implementations, the compiled development replays through the standalone lean4checker, and two from-source verification legs -- Lean toolchains compiled from source by gcc and by clang, mathlib rebuilt with no cache -- reproduce the committed certificates byte for byte, with olean digests identical across three builds on two architectures. Our range is three to ten orders of magnitude below the computational frontiers we cite; the contribution is the trust base, not the range.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17871v1'>2608.17871</a>\]&nbsp; **On the $p$-rationality of Deligne--Lusztig characters**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Nguyen N. Hung &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 20 pages
+
+<details><summary>Abstract</summary><p>Among finite simple groups, character values of alternating and sporadic groups have relatively low irrationality at any prime $p$, whereas those of simple groups of Lie type can have arbitrarily high $p$-irrationality. We provide concrete evidence supporting this phenomenon. In particular, we show that if $χ:=R_{\mathbf{T}}^{\mathbf{G}}(θ)$ is a Deligne--Lusztig character of a finite reductive group $\mathbf{G}^F$, with $θ$ an irreducible character of a maximal torus $\mathbf{T}^F$, and if $χ$ has degree prime to $p$, then the so-called $p$-rationality level of $χ$ coincides precisely with that of $θ$. We present further evidence suggesting that Lusztig induction preserves $p$-rationality for characters of $p'$-degree.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.10015v2'>2608.10015</a>\]&nbsp; **Kneserized Anticoncentration and Reverse Absorption for Graham's Rearrangement Conjecture**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Simone Costa, Stefano Della Fiore, Tao Feng, Hengrui Liu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>We establish a Kneser-based anticoncentration estimate for uniform subset sums in composite cyclic groups. The estimate contains a periodic loss and is weaker than its prime-modulus counterpart. Nevertheless, together with known small- and large-set results, it proves that, for every fixed $t\geq2$ such that $\mathbb{Z}_t$ is strongly sequenceable and every sufficiently large prime $p$, every subset of $\mathbb{Z}_{tp}\setminus\{0\}$ has a valid ordering, thus establishing the analogue of Graham's rearrangement conjecture for this family of composite cyclic groups. We then identify the structural source of this loss. An inverse theorem shows that failure of the stabilizer-free growth underlying prime-type anticoncentration forces almost all of the set into a proper subgroup or one of its cosets. We exploit this structure by reverse absorption. Iterating the resulting dichotomy between non-periodic anticoncentration and structured concentration proves that every subset of $$ \mathbb{Z}_k\setminus\{0\}, \qquad k=\prod_{i=1}^{s}p_i^{e_i}, \qquad \sum_{i=1}^{s}e_i\leq L, \qquad p_1<\cdots<p_s\leqγp_1, $$ admits a valid ordering whenever $L$ and $γ$ are fixed and the primes $p_i$ are sufficiently large.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17815v1'>2608.17815</a>\]&nbsp; **Second-pole wall periods for Witten zeta functions in the classical families**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jonas Matuzas &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>Let Phi be an irreducible reduced crystallographic root system of rank r, and let N be the number of positive coroots. A previous theorem (arXiv:2608.16363, Theorem 3.3) identifies the first pole below 2/h as q_2 = (r-1)/(N-1) and expresses its residue as a sum of periods attached to the simple walls of the dominant chamber. We evaluate that wall-period sum for all four classical families. The identity q_2 (N-1) = r-1 removes the radial variable from every wall integral. The resulting projective integrals reduce to mixed Dotsenko-Fateev chambers in type A_r, to those chambers together with a Selberg endpoint in types B_r and C_r, and to a single chamber family in type D_r. The chamber recurrences give explicit sine weights in types A, B, and C. In type D, a terminating basic-hypergeometric sum at a root of unity reduces to a finite cyclotomic product. We also show that the corresponding exceptional wall restrictions are not reflection arrangements, so this particular reduction does not extend directly to the exceptional types.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17785v1'>2608.17785</a>\]&nbsp; **Intersecting families and nonvanishing multivariate polynomials over finite fields**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Shamil Asgarli, Bence Csajbók, Chi Hoi Yip &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 23 pages
+
+<details><summary>Abstract</summary><p>Let $\mathcal{P}_{n,d}$ be the space of polynomials in $n$ variables over $\mathbb{F}_q$ of degree at most $d$. Two polynomials $f,g\in\mathcal{P}_{n,d}$ intersect if $f(\mathbf a)=g(\mathbf a)$ for some $\mathbf a\in\mathbb{F}_q^n$. A star consists of all polynomials $f\in\mathcal{P}_{n,d}$ satisfying $f(\mathbf a)=b$ for fixed $\mathbf a\in\mathbb{F}_q^n$ and $b\in\mathbb{F}_q$. We completely classify the maximum intersecting families in $\mathcal{P}_{n,d}$. When $n=1$ and $d\geq 2$, it was previously shown that all maximum intersecting families are stars. We prove that the same conclusion holds for all $n\geq 2$ and $d\geq 2$ when $q$ is odd. When $q$ is even, however, the situation is more subtle, and a new phenomenon emerges: for $q\geq 4$, maximum non-star examples exist precisely when $d\leq n$. Along the way, we prove two further results of independent interest. First, we determine the span of nonvanishing polynomials in $\mathcal{P}_{n,d}$. Second, we characterize all linear functionals $Ψ\colon\mathcal{P}_{n,d}\to\mathbb{F}_q$ whose kernels are disjoint from the set of nonvanishing polynomials. The first result plays a crucial role in the proof of our main result; the second is a Gleason--Kahane--Żelazko theorem for polynomials of bounded degree over finite fields.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2509.03160v2'>2509.03160</a>\]&nbsp; **Modular Zilber-Pink for geometrically generic varieties**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Vahagn Aslanyan, Sebastian Eterović, Guy Fowler &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 19 pages. Minor corrections
+
+<details><summary>Abstract</summary><p>We prove that the modular Zilber--Pink conjecture (in Pink's formulation in terms of unlikely intersections) holds for all subvarieties $V$ of $ \mathrm{Y}(1)^n$ for which no projection to any $\dim V + 2$ coordinates is defined over the algebraic numbers.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17765v1'>2608.17765</a>\]&nbsp; **Symmetric spaces over a finite ring**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Ben Liu, Sian Nie &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 26 pages
+
+<details><summary>Abstract</summary><p>Deep level Deligne-Lusztig representations, as natural extensions of the classical Deligne-Lusztig representations, have recently seen various applications in the Langlands program. In this note, we address their distinction problem for symmetric pairs over finite fields, yielding a generalization of a classical result by Lusztig.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17746v1'>2608.17746</a>\]&nbsp; **Principal nonsingularity of the Fourier matrices of orders \(70\) and \(143\)**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jian Gu, Liyi Zhou, Yuhu Wang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 10 pages
+
+<details><summary>Abstract</summary><p>We give computer-assisted proofs that every principal minor of each of the \(70\times70\) and \(143\times143\) Fourier matrices is nonzero. A lifting theorem of Caragea, Lee, Malikiosis, and Pfander reduces the two assertions to the nonvanishing of all principal minors of the Fourier matrix of order \(10\) in characteristic \(7\), and of order \(11\) in characteristic \(13\), respectively. We realize primitive roots in \(\mathbb F_{7^4}\) and \(\mathbb F_{13^{10}}\) and evaluate all \(2^{10}\) and \(2^{11}\) principal determinants by exact, division-free arithmetic. None vanishes. The lifting theorem in fact yields the stronger conclusions that every \(10\)-principal minor of the order-\(70\) matrix and every \(11\)-principal minor of the order-\(143\) matrix is nonzero. Self-contained standard-library verifiers for the finite-field calculations accompany the paper.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17725v1'>2608.17725</a>\]&nbsp; **On the integral $2$-adic Tate module of elliptic curves**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Edwina Aylward &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 7 pages. Comments welcome!
+
+<details><summary>Abstract</summary><p>We show that the integral $2$-adic Tate module of an elliptic curve over a complete discretely valued field of odd residue characteristic is determined by its $2$-torsion representation, together with the square class of $c$ and local information about the pairwise differences of the roots of $f$ in a model $E\colon y^2=cf(x)$, where $f$ is monic of degree $3$. The proof uses explicit halving formulae to determine the Galois action on the full tower of $2$-power torsion.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17709v1'>2608.17709</a>\]&nbsp; **Big categorification on towers of classical groups and wreath product groups**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Xin Huang, Pengcheng Li, Yaolong Shen &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>We develop a uniform framework for ``big'' categorification of representation categories of towers of finite classical groups and wreath product groups. We construct actions of symmetric products of Heisenberg categories, quantum in the finite classical group case and degenerate in the wreath product case. These actions lead to categorical actions of suitable symmetric products of Kac--Moody 2-categories, and hence to actions of large Lie algebras on Grothendieck groups. In characteristic zero, the resulting actions control the full graded centers of the group algebras through diagrammatic central elements, and the associated colored weight functions separate all irreducible ordinary characters. We also obtain modular block descriptions for wreath product groups through categorification.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17686v1'>2608.17686</a>\]&nbsp; **On the p-adic Wirsing problem**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Anup B Dixit &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 18 pages. Comments welcome
+
+<details><summary>Abstract</summary><p>For a real transcendental number $ξ$, let $ω_n^*(ξ)$ denote the supremum of all $ω$ for which there exist infinitely many real algebraic numbers $α$ of degree $\leq n$ satisfying $|ξ-α|\leq H(α)^{-ω-1}$, where $H(α)$ is the naive height of the minimal polynomial of $α$. A celebrated result of Wirsing gives the uniform lower bound $ω_n^*(ξ)\geq\frac{n+1}{2}$, which was improved significantly in a recent work of Poëls to $\frac{n}{2-\log 2}$. In this paper, we establish a $p$-adic counterpart of Poëls's result. Let $p$ be a prime and $ξ\in\Qp$ be transcendental. Let $ω_{n,p}^*(ξ)$ be the supremum of all real numbers $ω$ for which there exist infinitely many algebraic numbers $α\in \Qp$ of degree $\leq n$ such that $|ξ-α|_p\leq H(α)^{-ω-1}$. We show that $ω^*_{n,p}(ξ)\geq\frac{n}{2-\log 2}-1$. This improves the known lower bounds in the $p$-adic setting, namely the analogue of Wirsing's theorem, due to Morrison and Teulié.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17674v1'>2608.17674</a>\]&nbsp; **Representations of twisted quantum affine algebras**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Juan Camilo Ariras, Vyacheslav Futorny, Kailash C. Misra &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>We develop the representation theory of imaginary Verma modules for twisted quantum affine algebras and construct the corresponding Kashiwara algebras. The twisted case presents substantial new difficulties compared with the untwisted setting: the PBW root vectors have nontrivial orbit structure, the imaginary root spaces occur with multiplicities, and roots of unity enter essentially into the defining commutation relations. Our first main result is an explicit PBW-type basis for twisted quantum imaginary Verma modules associated with the natural imaginary partition of the affine root system. This provides a precise compatibility between the twisted quantum and classical theories that is not immediate from the standard PBW theory. We then determine the structure and irreducibility of the twisted quantum imaginary Verma modules. We prove that the Heisenberg submodule generated by the imaginary root vectors is irreducible precisely at nonzero central charge, and establish the corresponding irreducibility criterion for the reduced twisted imaginary Verma modules at zero central charge. The second main part of the paper introduces the Kashiwara algebra in the twisted setting. The required current formula for the generators differs essentially from the untwisted formula and is needed to construct the Omega operators. We derive the resulting Omega-operator commutation relations, including the root-of-unity factors specific to the twisted cases. These relations lead to a new presentation of the Kashiwara algebra associated with the reduced twisted imaginary Verma modules. We prove that the negative current algebra is a simple module over this Kashiwara algebra and construct a symmetric non-degenerate bilinear form characterized by the Omega operators.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17639v1'>2608.17639</a>\]&nbsp; **Infinitely many primes with a fixed Frobenius field for an elliptic curve over $\mathbb{Q}$**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Tian Wang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 23 pages, comments are welcome
+
+<details><summary>Abstract</summary><p>In 1987, Elkies proved the striking result that every elliptic curve over $\mathbb{Q}$ has infinitely many supersingular primes. Motivated by this theorem and its connection with the Lang-Trotter conjecture, we study the analogous problem for Frobenius fields of elliptic curves. For certain families of non-CM elliptic curves $E/\mathbb{Q}$ and imaginary quadratic fields $K$, we prove that there exist infinitely many primes $p$ for which the Frobenius field of $E$ at $p$ equals $K$. More precisely, letting $π_E(x,K)$ denote the number of such primes with $p\leq x$, we establish the unconditional bound $π_E(x, K)\gg_{E, K, ε} (\log\log x)^{1-ε}$ for every $ε>0$. We also prove unconditional power-saving upper bounds for a restricted counting function associated with $π_E(x,K)$. The approach combines Deuring's theory of complex multiplication, properties of singular moduli, and arithmetic intersection theory on modular curves.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2201.01676v4'>2201.01676</a>\]&nbsp; **Iterated Integrals and Multiple Polylogarithm at Algebraic Arguments**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Kam Cheong Au &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>By introducing a generalized notion of multiple zeta values associated with an arbitrary finite subset $S\subset \mathbb{P}^1(\mathbb{C})$ and studying their transformation properties under rational functions, we show that multiple polylogarithms evaluated at roots of unity (cyclotomic multiple zeta values, CMZVs) can be equivalently expressed in terms of iterated integrals involving certain non-roots of unity. We apply this theory to elucidate previously unknown $\mathbb{Q}$-linear relations among CMZVs: they come from nontrivial solutions of certain $S$-unit equations in the function field of $\mathbb{P}^1(\mathbb{C})$, thereby attaining the motivic dimension for low level and weight. We introduce a datamine of CMZVs that appears to be the first rigorous compilation of this kind in the literature. In addition, we formulate several nontrivial Galois descent conjectures for multiple polylogarithms and present applications to certain Apéry-type infinite series.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2511.07100v2'>2511.07100</a>\]&nbsp; **Selberg Zeta Functions Have Second Moment At $σ= 1$**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Ramūnas Garunkštis, Jokūbas Putrius &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 12 pages, 0 figures
+
+<details><summary>Abstract</summary><p>In this paper, we demonstrate the existence of the second moment of the Selberg zeta function for a cofinite Fuchsian group at $σ=1$. Note that by employing the recent approach of Broucke and Hilberdink in proving the second moment theorem, we can circumvent the separation condition introduced by Landau for general Dirichlet series.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.16823v2'>2608.16823</a>\]&nbsp; **Groups with a Fixed Character Degree: The General Case**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Mark Lewis, Brandon Martin &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.GR &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>We obtain arithmetic conditions which are satisfied by solvable groups admitting an abelian $π$-subgroup. First, we extend a previous characterization by removing the square-free hypothesis on some fixed irreducible character degree. We then show the same arithmetic conditions follow from a faithful action of an abelian $π$-subgroup on the $π'$-part of the Fitting subgroup, where $π$ is the set of prime divisors of the aforementioned character degree.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2605.17901v2'>2605.17901</a>\]&nbsp; **Quasi-admissible, raisable nilpotent orbits and covering Barbasch-Vogan duality**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yi-Yang Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 36 pages
+
+<details><summary>Abstract</summary><p>For simply-connected Lie groups of type E over \( p \)-adic local field \( F \), we determine the degree of the cover required for a given \( F \)-split nilpotent orbit to be quasi-admissible or raisable, respectively. Combining this result with the previously computed data for other types by Gao-Liu-Tsai, we prove that all \( F \)-split nilpotent orbits whose geometry type contained in the image of the covering Barbasch-Vogan duality map \( d_{\mathrm{BV},G}^{(n)} \) of almost-simple Lie groups \( G \) in each Cartan type are always \( \overline{G}^{(n)} \)-quasi-admissible.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2512.18759v3'>2512.18759</a>\]&nbsp; **Cohomology of varieties over the maximal Kummer extension of a number field**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Davide Lombardo, Tamás Szamuely &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 16 pages, comments very welcome! v3: revised after a referee report
+
+<details><summary>Abstract</summary><p>Let $X$ be a smooth projective geometrically connected variety defined over a number field $K$. We prove that the geometric étale cohomology of $X$ with $\mathbb{Q}/\mathbb{Z}$-coefficients has finitely many classes invariant under the Galois group of the maximal Kummer extension of $K$ in odd degrees. In particular, every abelian variety has finite torsion over the maximal Kummer extension. This improves results by Rössler and the second author as well as Murotani and Ozeki. We also show that finiteness of torsion of a given abelian variety over non-abelian solvable extensions of $K$ is not controlled by the Galois group of the extension.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2506.13179v3'>2506.13179</a>\]&nbsp; **An explicit local geometric Langlands for supercuspidal representations: the toral case**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Lingfei Yi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** Corrected some mistakes on associated graded modules and some typos. Added the comparison with Kaletha's construction
+
+<details><summary>Abstract</summary><p>We formulate a conjecture on local geometric Langlands for supercuspidal representations using Yu's data and Feigin-Frenkel isomorphism. We refine our conjecture for a large family of regular supercuspidal representations defined by Kaletha, and then confirm the conjecture for toral supercuspidal representations of Adler whose Langlands parameters are precisely all the irreducible isoclinic connections. As an application, we establish the conjectural correspondence between global Airy connections for reductive groups and the family of Hecke eigensheaves constructed by Jakob-Kamgarpour-Yi.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.15415v2'>2608.15415</a>\]&nbsp; **Positive quasimodular forms and the sign uncertainty principle**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Seewoo Lee &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 36 pages, minor fixes in appendix
+
+<details><summary>Abstract</summary><p>For every positive integer $d$ divisible by $4$, we prove the following new upper bound for the Bourgain-Clozel-Kahane sign uncertainty constant: $$ \mathrm{A}_+(d) \le \sqrt{2 \left\lfloor \frac{d}{16} \right\rfloor + 2}. $$ It recovers the optimal bound $\mathrm{A}_+(12) \le \sqrt{2}$ in dimension $12$ and improves the previously best known bound $\sqrt{(d+2)/(2π)}$ for all $d \ge 52$ divisible by $4$. The proof uses Fourier eigenfunctions and associated quasimodular forms constructed by Feigenbaum, Grabner, and Hardin.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17545v1'>2608.17545</a>\]&nbsp; **Alternating generalizations of Mizuno's product formula via modified gamma functions**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Su Hu, Min-Soo Kim &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 45 pages
+
+<details><summary>Abstract</summary><p>Let $\tildeΓ(x)$ denote the modified gamma function recently introduced by the authors as an alternating analogue of the classical Euler gamma function. In this paper, we establish a complete alternating generalization of Mizuno's celebrated product formula: \begin{equation*} \prod_{m=0}^{\infty}\left(\prod_{j=1}^{n}(m+x_{j})^{(-1)^{m}}\right) =\frac{\left(\sqrt{\fracπ{2}}\right)^n}{\prod_{j=1}^{n}\tildeΓ(x_{j})} =\prod_{j=1}^{n}\left(\prod_{m=0}^{\infty}(m+x_{j})^{(-1)^{m}}\right). \end{equation*} This identity, which we refer to as the alternating Mizuno formula, replaces the classical gamma function $Γ$ and the constant $\sqrt{2π}$ by their natural alternating counterparts $\tildeΓ$ and $\sqrt{π/2}$. As immediate consequences, we recover the alternating Lerch formula and, by specializing to $x=1$, a remarkably concise derivation of Wallis' famous product \begin{equation*} \frac{2\cdot2}{1\cdot3}\cdot\frac{4\cdot4}{3\cdot5}\cdot\frac{6\cdot6}{5\cdot7}\cdot\cdots=\fracπ{2}. \end{equation*} More generally, by exploiting polynomial factorizations, we derive Kurokawa--Wakayama type formulas for alternating products over cyclotomic fields. Beyond these product identities, we investigate the multiple alternating gamma functions $\barΓ_N(x)$, obtaining explicit factorizations in terms of Barnes' multiple gamma functions, closed-form evaluations involving the Glaisher--Kinkelin constant, and a Gauss--Legendre type multiplication formula. Finally, we introduce an alternating analogue of Shintani's double sine function and establish a clean arithmetic dichotomy: for algebraic $τ$, its special values at integer points are algebraic precisely when $τ$ is rational, and transcendental otherwise.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17517v1'>2608.17517</a>\]&nbsp; **Asymptotics of the Tchoukaillon array and a conjecture of Beluhov**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Shisheng Li &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 19 pages, 6 figures. Ancillary file: verify.py (numerical checks)
+
+<details><summary>Abstract</summary><p>The Tchoukaillon array is an infinite array of the positive integers, arising from a one-row Mancala solitaire, in which each positive integer occurs exactly once. Its zeroth column is the Flavius Josephus sieve and its zeroth row is the sequence of Tchoukaillon numbers; the asymptotics of these two edges are classical results of Andersson and of Broline and Loeb. On the basis of numerical evidence, N. Beluhov conjectured (as relayed by Knuth) that the general entry $T_{i,j}$ satisfies $T_{i,j} \approx (πi+2j)^2/(4π)$ as $i,j \to \infty$. We prove this conjecture. In fact we establish the stronger uniform estimate $T_{i,j} = (πi+2j+2)^2/(4π) + O((i+j+1)^{4/3})$, in which both constants $π$ and $2$ are produced by the array's own recursion through a Wallis product, independently of the two edge theorems. Equivalently, the square root of the entry is asymptotically linear, $\sqrt{T_{i,j}} = (\sqrtπ/2)\, i + (1/\sqrtπ)(j+1) + O((i+j+1)^{1/3})$, the linear blend of the two edge growth-rates. As corollaries we obtain that the level regions $\{T_{i,j} \le V\}$ are triangles up to a boundary of width $O(V^{1/6})$, and an $O(\sqrt{M})$ algorithm that locates the row and column of a given integer $M$.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17498v1'>2608.17498</a>\]&nbsp; **Affine Dual Braid Monoids: Finite Cores, Exceptional Cluster Complexes, and Koszul Resolutions**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jindong Yan, Shenglin Zhu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 35 pages
+
+<details><summary>Abstract</summary><p>For every finite-rank crystallographic affine Coxeter system $(W,S)$ and Coxeter element $c$, we construct a minimal linear graded free resolution of the trivial module over $k[M([1,c]_T)]$ supported on a rectified exceptional cluster complex. Hence the affine dual braid monoid algebra is Koszul over every field $k$. The exceptional complex is introduced to recover the principal-fibre topology missing from the direct Reading--Stella labelling. Half-orbit rectification replaces the transjective root labels by ordinary exceptional modules, so that a face $F$ determines an exceptional wide subcategory and the intrinsic weight $$ ω(F)=\mathrm{cox}(\mathrm{wide}\langle F\rangle). $$ The resulting principal fibres are induced subcomplexes and split canonically as joins of subcomplexes attached to connected Dynkin and affine blocks; these subcomplexes are contractible. Affine non-lattice divisibility creates the genuinely nonprincipal case. The McCammond--Sulway completion shows that whenever no greatest interval right divisor exists, all maximal interval right divisors share a common nontrivial complete finite Coxeter component. In the associated exceptional-wide decompositions, this common Coxeter component is the Coxeter element of a Dynkin block, and the subcomplex attached to that block occurs as a common contractible join factor. Thus every nonidentity fibre is contractible, and the weighted-face complex is exact, minimal and linear. In particular, $\mathrm{Tor}^{A_c}_q(k,k)$ is indexed by $q$-vertex exceptional cluster faces in internal degree $q$, and $\mathrm{pd}_{A_c}k=|S|$.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17488v1'>2608.17488</a>\]&nbsp; **Nilpotency of locally isotropic $ \mathrm{K}_1 $-functor**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Egor Voronetsky &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>We show that the $ \mathrm{K}_1 $-functor modeled on locally isotropic reductive groups is hypoabelian if the base ring has finite Bass--Serre dimension and, for the Tits index $ \mathsf{E}_{8, 2}^{78} $, contains a field. For classical or globally isotropic reductive groups schemes $ \mathrm{K}_1 $ is actually solvable. This implies that the elementary subgroup (or its derived subgroup) is the maximal perfect subgroup of the reductive group.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2606.20057v2'>2606.20057</a>\]&nbsp; **On the asymptotic density of the ordered pairs $(a,b)$ of positive integers such that $\gcd(ab,a+b)=\gcd(a,b)$**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Steve Fan, László Tóth &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 15 pages, revised, some error terms improved, the mean value of the function $f(a,b)= \gcd(ab,a+b)/\gcd(a,b)$ deduced
+
+<details><summary>Abstract</summary><p>Consider the arithmetic function of two variables $f(a,b)= \gcd(ab,a+b)/\gcd(a,b)$, investigated in a recent preprint. We deduce asymptotic formulas for sums of the form $\sum_{a,b\le x} h(f(a,b))$, where $h$ belongs to a certain class of arithmetic functions. In particular, we obtain an asymptotic formula for the number of ordered pairs $(a,b)\in {\Bbb N}^2$ such that $a,b\le x$ and $f(a,b)=m$, where $m\in {\Bbb N}$ is fixed. This shows that in the case $m=1$ the corresponding density is the quadratic class number constant $C= \prod_p (1-1/(p^2(p+1))) \doteq 0.881513$.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.15203v2'>2608.15203</a>\]&nbsp; **An exotic finite pretriangulated category over any algebraically closed field**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Javier Díaz Cabrera, Fernando Muro &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 25 pages, wording and typos fixed
+
+<details><summary>Abstract</summary><p>We show that, over any algebraically closed field of any characteristic, the category of finite\-/dimensional projective modules over the preprojective algebra of generalized Dynkin type $\mathbb{L}_{2}$ has a pretriangulated category structure which is neither an algebraic nor a topological triangulated category structure.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2601.09824v2'>2601.09824</a>\]&nbsp; **Kostant cuspidal permutations**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Samuel Creedon, Volodymyr Mazorchuk &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** Revised version: the proof of the main theorem is simplified
+
+<details><summary>Abstract</summary><p>In relation to Kostant's problem for simple highest weight modules over the general linear Lie algebra, we prove a persistence result for Kostant negative consecutive patterns. Inspired by it, we introduce the notion of a Kostant cuspidal permutation as a minimal Kostant negative consecutive pattern. It is shown that Kostant cuspidality is an invariant of a Kazhdan-Lusztig left cell. We describe four infinite families of Kostant cuspidal involutions, including a complete classification of Kostant cuspidal fully commutative involutions. In particular, we show that the number of new Kostant cuspidal elements can be arbitrarily large, when the rank grows. This provides some potential explanation why Kostant's problem is hard.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.15431v2'>2608.15431</a>\]&nbsp; **Singular-weight Conway-invariant Jacobi forms of index four**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Daren Dong &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 40 pages; ancillary files contain exact audit scripts, matrix data, and computational certificates
+
+<details><summary>Abstract</summary><p>Let $Λ$ be the Leech lattice and let $\mathrm{Co}_0=\mathrm{Aut}(Λ)$. Sun and Wang proved that the space of $\mathrm{Co}_0$-invariant holomorphic Jacobi forms of singular weight $12$ and index $4$ satisfies $$ 4\leq \dim J^{\mathrm{Co}_0}_{12,Λ,4}\leq 9, $$ and left its exact dimension open. We prove $$ \dim J^{\mathrm{Co}_0}_{12,Λ,4}=6. $$ At singular weight, theta decomposition identifies this space with the simultaneous $\mathrm{Co}_0$- and Weil-invariant subspace of $\mathbb{C}[Λ/4Λ]$. Conway symmetry and $T$-invariance reduce the problem to a twelve-dimensional space of isotropic orbit sums. On this space the projected Weil $S$-operator satisfies the universal relation $$ S\left(S+\frac{1}{2}I\right)(S-I)=0, $$ obtained from the level-$4$ Hecke algebra. Equivalently, the associated integral character matrix $K$ satisfies $$ K(K+2^{23}I)(K-2^{24}I)=0. $$ Combining this relation with known index-$4$ forms, reduction modulo $2$, and character data obtained from the $A_3^8$ deep hole reduces the remaining possibilities to a finite exact calculation. A final torsion evaluation of the known index-$3$ form $Φ_{12,3}$ determines the last required character value, and exact elimination leaves a unique admissible branch, of dimension $6$. We also construct two Conway-averaged theta forms from explicit markings of the Niemeier lattices with root systems $D_6^4$ and $D_4^6$. Together with the four forms previously exhibited by Sun and Wang, they give a natural basis of $J^{\mathrm{Co}_0}_{12,Λ,4}$.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2410.09215v3'>2410.09215</a>\]&nbsp; **Real convergence and periodicity of $p$-adic continued fractions**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Giuliano Romeo &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>Continued fractions have been generalized over the field of $p$-adic numbers, where it is still not known an analogue of the famous Lagrange's Theorem. In general, the periodicity of $p$-adic continued fractions is well studied and addressed as a hard problem. In this paper, we show a strong connection between periodic $p$--adic continued fractions and the convergence to real quadratic irrationals. In particular, in the first part we prove that the convergence in $\mathbb{R}$ is a necessary condition for the periodicity of the continued fractions of a quadratic irrational in $\mathbb{Q}_p$. Moreover, we leave several conjectures on the converse, supported by experimental computations. In the second part of the paper, we exploit these results to develop a probabilistic argument for the non-periodicity of Browkin's $p$-adic continued fractions. The probabilistic results are conditioned under the assumption of uniform distribution of the $p$-adic digits of a quadratic irrational, that holds for almost all $p$-adic numbers.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17431v1'>2608.17431</a>\]&nbsp; **A Newton Identity and Finite-Rank Reconstruction for the Queer Lie Superalgebra**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Abhishek Das, Santosha Pattanayak &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** Preliminary version, comments are welcome. Total 21 pages
+
+<details><summary>Abstract</summary><p>We establish a Newton-type identity for the queer Lie superalgebra $\mathfrak q_N$, relating Sergeev's odd cyclic central elements to Nazarov's one-row Capelli elements. The identity is obtained by comparing Ivanov's generating function for factorial Schur $Q$-functions with the queer Perelomov-Popov product of Grigoryev and Nazarov. Its coefficient expansion yields a triangular change of generators between the odd cyclic and odd one-row families. In particular, the odd one-row Capelli elements generate the center, while the even one-row elements are redundant. In fixed rank, we derive determinantal relations and a generic reconstruction theorem. The basic cyclic Hankel determinant is identified with a resultant and factored into the failure-of-strong-typicality and shifted-resonance factors. After localization at this determinant, the center is generated by the first $2N$ odd cyclic elements; consequently, generic central characters are determined by their values on these elements.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2606.27197v2'>2606.27197</a>\]&nbsp; **On some components of $L(ρ)\otimes L(ρ)$ associated with rooted trees for symmetrizable Kac-Moody algebras**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Rekha Biswal, Patrick Polo &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** version 2 : numbering of vertices in Example 3.18 corrected
+
+<details><summary>Abstract</summary><p>Let $\mathfrak{g}$ be a symmetrizable Kac-Moody algebra over $\mathbb{C}$ and let $L(ρ)$ be the irreducible integrable $\mathfrak{g}$-module with highest weight $ρ$. Let $I$ be a subgraph of the Dynkin diagram of $\mathfrak{g}$ which has only simple bonds and no cycle of length $\geq 3$. For every subset $D$ of $I$, denote by $β_D$ the sum of the simple roots corresponding to $D$. To every $D \subset I$ such that $λ_{D,I} = 2ρ- β_I - β_D$ is dominant, we associate certain elements $π_{D,I}$ of weight $λ_{D,I} {-} ρ$ in the crystal $B(ρ)$, which depend on the choice of a root vertex in each connected component of $I$. Then we prove that our elements are $ρ$-dominant elements of $B(ρ)$, hence provide new families of components of the tensor product $L(ρ)\otimes L(ρ)$.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17367v1'>2608.17367</a>\]&nbsp; **On the Hidden Pascal Symmetry and Moment Constraints of Vector Representatives in Quebbemann's 64-Dimensional Lattice**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Nick Vorobtsov &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 13 pages
+
+<details><summary>Abstract</summary><p>In this paper, we investigate the underlying algebraic and combinatorial structures governing the coset representatives (shift vectors) for Construction A of lattices, with a particular focus on equations (14) and (15) presented in Paragraph 3, Chapter 8 of the seminal work by J.H. Conway and N.J.A. Sloane, "Sphere Packings, Lattices and Groups". These dual equations define the boundary conditions for the analytical generation of the 64-dimensional Quebbemann lattice (Q64). We prove that seeking non-zero solutions constrained by arithmetic or geometric progressions yields a structural collapse to the trivial zero vector due to the transcendental nature of π. Conversely, by relaxing these bounds to unique coordinate configurations, we uncover an exact, closed-form algebraic core governed by the alternating coefficients of the Pascal triangle. Furthermore, we implement an energy-minimization model via continuous-to-discrete projection that yields an optimal shift vector with a strictly integer Euclidean norm ||z||^2 = 20.000000. Finally, we bridge this formulation to the Repeated Differences paradigm of Craig's lattices Anm, showing how the spectral components of the Θ-series are naturally filtered by these binomial structures.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17345v1'>2608.17345</a>\]&nbsp; **Ribet bimodules and principally polarized superspecial abelian varieties with quaternion action**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jiangwei Xue, Xiangning Yang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 50 pages, comments welcome!
+
+<details><summary>Abstract</summary><p>In an influential paper [K. Ribet, Bimodules and abelian surfaces, in Algebraic number theory, 359-407, Adv. Stud. Pure Math., Vol. 17, 1989] on the bad reduction of Shimura curves, Ribet studies certain superspecial abelian surfaces over $\overline{\mathbb{F}}_p$ with quaternion multiplication by a maximal order $\mathcal{O}$ in an indefinite quaternion $\mathbb{Q}$-algebra ramified at $p$. In particular, he classifies the $p$-divisible groups of such $\mathcal{O}$-abelian surfaces by classifying $(\mathcal{O}_p, \mathcal{O}_p)$-bimodules $L_p$ that are free over $\mathbb{Z}_p$ (i.e.bilattices) under an additional admissible assumption. In this paper, we generalize Ribet's result by removing the admissible assumption and producing a complete classification of $(\mathcal{O}_p, \mathcal{O}_p)$-bilattices $L_p$. Equip the right order $\mathcal{O}_p$ with the canonical involution, and suppose additionally that the left order $\mathcal{O}_p$ is equipped with an orthogonal involution $*$. We derive the necessary and sufficient condition for the existence of a perfect quaternion hermitian form $\langle~,~\rangle_p:L_p\times L_p\to \mathcal{O}_p$ on the right $\mathcal{O}_p$-lattice $L_p$ inducing the given involution $*$ on the left order $\mathcal{O}_p$, and give a complete classification of such self-dual quaternion hermitian $(\mathcal{O}_p, *, \mathcal{O}_p)$-bilattices $(L_p, \langle~,~\rangle_p)$. Globally, we apply these classification results to the study of the existence of principal polarizations on superspecial abelian varieties over $\overline{\mathbb{F}}_p$ equipped with $\mathcal{O}$-action.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.00163v2'>2608.00163</a>\]&nbsp; **Topological Models for Categories Associated with the Weighted Projective Lines of Type $(2,2,2,2)$**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jianmin Chen, Li Fan, Yu Qiu, Yiting Zheng &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 47 pages, 9 figures
+
+<details><summary>Abstract</summary><p>We construct a geometric model for the derived category of the weighted projective line $\mathbb{CP}^1_ω$ of type $(2,2,2,2)$ using a graded sphere with four binaries. More precisely, we give a bijection between the set of indecomposable rigid objects and the set of certain arcs, such that the dimensions of $\mathrm{Hom}$-spaces are computed by oriented intersection numbers. As applications, we provide a geometric realization of the indecomposable rigid objects in the cluster category $\mathcal{C}(\mathbb{CP}^1_ω)$ via tagged arcs on the four-punctured sphere, with $\mathrm{Hom}$-space dimensions given by tagged intersection numbers. When the weighted points of $\mathbb{CP}^1_ω$ are $(0,1,\infty,\frac{1}{2})$, both correspondences are compatible with the natural actions of the automorphism groups and the corresponding mapping class groups.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2606.08075v2'>2606.08075</a>\]&nbsp; **Gcd-closed sets and divisibility among power LCM matrices**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Guangyan Zhu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 15 pages
+
+<details><summary>Abstract</summary><p>Let $a,b$, and $n$ be positive integers and let $S=\{x_1, \cdots, x_n\}$ be a set of $n$ distinct positive integers. We denote by $[S^a]$ the $n\times n$ matrix having the $a$th power of the least common multiple of $x_i$ and $x_j$ as its $(i,j)$-entry. For $x\in S$, let $G_{S}(x)=\{d\in S: d<x, d|x \ {\rm and} \ (d|y|x, y\in S)\Rightarrow y\in \{d,x\}\}$. In this article, we show that $[S^a]$ divides $[S^b]$ in the ring of $n\times n$ matrices over the integers if $a|b$ and $S$ is gcd closed (i.e., $\gcd(x_i,x_j)\in S$ for all integers $i$ and $j$ with $1\le i,j\le n$) and satisfies the condition $\mathcal G$ (that is, for any $x\in S$, either $G_S(x)$ contains at most one element, or $G_S(x)$ contains at least two elements and satisfies that ${\rm lcm}(y_1,y_2)=x$ and $\gcd(y_1,y_2)\in G_S(y_1)\cap G_S(y_2)$ for any $\{y_1,y_2\}\subseteq G_S(x)$). This confirms a conjecture of Hong proposed in (2026, Bull. Aust. Math. Soc., 113, 231-243).</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.15063v2'>2608.15063</a>\]&nbsp; **Bounding The Number of Zeros Near the Central Point in Families of Cuspidal Newforms**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Lucas Chen, Christopher Housholder, Joshua Khan, Steven J. Miller, Devayani Pradhan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>We study low-lying zeros in families of even holomorphic cuspidal newforms of fixed weight and prime level, with particular emphasis on the number of forms having a zero in a prescribed normalized window about the central point and on the distribution of the number of such zeros among the forms. We quantify the number of forms having at least one zero in the window and study the distribution of the number of zeros in that window among the forms. Assuming the Generalized Riemann Hypothesis, we obtain new lower bounds for the number of forms having a low-lying zero. We first prove that, along an infinite sequence of prime levels $N$, the number of such forms is $\gg N^{7/8}\log N$. We then use higher centered moments and an appropriate test function to show that a positive proportion of the family has a zero in a prescribed window. Finally, we obtain polynomial upper-tail bounds for the number of zeros occurring there and show that a positive proportion of forms have a bounded, nonzero number of low-lying zeros.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2603.26350v2'>2603.26350</a>\]&nbsp; **Gcd-closed sets and divisibility among power GCD matrices and power LCM matrices**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Guangyan Zhu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 21 pages, To appear in Periodica Math. Hungar
+
+<details><summary>Abstract</summary><p>Let $a, b$ and $n$ be positive integers and let $S=\{x_1, \cdots, x_n\}$ be a set of $n$ distinct positive integers. We denote by $(S^a)$ (resp. $[S^a]$) the $n\times n$ matrix having the $a$th power of the greatest common divisor (resp. the least common multiple) of $x_i$ and $x_j$ as its $(i,j)$-entry. For any $x\in S$, let $G_{S}(x) :=\{d\in S: d<x, d|x \ {\rm and} \ (d|y|x, y\in S)\Rightarrow y\in \{d,x\}\}$. In this paper, we first establish some interesting and important arithmetic properties of gcd-closed sets satisfying the condition $\mathcal{G}$ (i.e., for any element $x\in S$, either $G_S(x)$ contains at most one element, or $G_S(x)$ contains at least two elements and satisfies that $[y_1,y_2]=x$ and $(y_1,y_2)\in G_S(y_1)\cap G_S(y_2)$ for any $\{y_1,y_2\}\subseteq G_S(x)$), and then make use of these results to show that $(S^a)|(S^b)$ and $(S^a)|[S^b]$ when $a|b$ and $S$ is a gcd-closed set satisfying the condition $\mathcal{G}$. This confirms a conjecture of Hong proposed in [S.F. Hong, Divisibility among power GCD matrices and power LCM matrices, {\it Bull. Aust. Math. Soc.} {\bf 113} (2026), 231-243].</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17265v1'>2608.17265</a>\]&nbsp; **A central limit theorem for prime geodesics on random surfaces of large genus**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-18 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Sun-Kai Leung &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 8 pages
+
+<details><summary>Abstract</summary><p>We show that, for Weil--Petersson random closed hyperbolic surfaces of large genus, the normalized weighted count of prime geodesics with norm in the interval $(X,X+H]$ is asymptotically Gaussian, provided $H \leq X$ and $H/\log X\to\infty$ as $X\to\infty$. In particular, it applies to intervals which are not necessarily short.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17206v1'>2608.17206</a>\]&nbsp; **Cotangent Models of Nilpotent Orbit Closures**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Boming Jia &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 19 pages
+
+<details><summary>Abstract</summary><p>Let $\mathcal O$ be a nonzero nilpotent orbit in a complex simple Lie algebra $\mathfrak g$. For $\mathfrak g$ of classical type, we classify the orbit closures $\overline{\mathcal O}$ that are isomorphic to $(T^*X)^{\mathrm{aff}}$ for a smooth quasi-affine variety $X$. In types $G_2$, $F_4$, and $E_8$, we show that no nonzero nilpotent orbit closure admits such a cotangent model.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17199v1'>2608.17199</a>\]&nbsp; **Shifted second moment of Gaussian Hecke $L$-functions $L(s,λ^k)$**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** XinHang Ji &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>We establish a uniform asymptotic formula for the smoothly weighted shifted second moment of the Gaussian angular Hecke $L$-functions $L(s,λ^k)$. The completed moment is expressed as the sum of four explicit main terms, corresponding to the four functional-equation swaps, with an error of size $O_{Φ,ε}(K^{1/2+ε})$.After the Archimedean factors are removed, the resulting formula agrees with the numerator-only specialization of the four-swap prediction of the $L$-functions Ratios Conjecture. The proof transforms the off-diagonal contribution into Weyl sums over the roots of $r^2\equiv-1\pmod C$, realizes these sums spectrally through incomplete Poincaré series evaluated at $i$, and separates the Eisenstein and Maaß spectra. The two $v$-type main terms arise respectively from the zero frequency and from the combined residues of two moving Eisenstein poles, while the cuspidal spectrum is absorbed into the square-root error term.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17166v1'>2608.17166</a>\]&nbsp; **On Buzzard's Theoren**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Zbigniew Jelonek, Gustavo Menani, Maria Michalska &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>Over any infinite field we prove existence of polynomial automorphism with prescribed differentials at points. More precisely, let $\K$ be an infinite field and $a_1,\ldots, a_k;$ $b_1,\ldots , b_k$ be two sequences of different points in~$\K^n$, $n\ge 2$. For any sequence $L_1,\ldots, L_k\in SL(n,\K)$ there exists a polynomial automorphism $Φ: \K^n\to \K^n$ with jacobian one such that $Φ(a_i)=b_i$ and $d_{a_i} Φ= L_i$ for $i=1,\ldots, k.$</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2607.14517v2'>2607.14517</a>\]&nbsp; **Formality for rigid-analytic spaces satisfying the weight-monodromy conjecture**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Alexander Petrov, Bogdan Zavyalov &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** Minor Updates. Comments are very welcome!
+
+<details><summary>Abstract</summary><p>We prove that étale and de Rham cohomology algebras of a smooth proper rigid-analytic space over a finite extension of $\mathbf{Q}_p$ are formal if the rigid-analytic space satisfies the weight-monodromy conjecture. This is achieved by showing that the underlying $E_\infty$-algebra of a monodromy-pure $E_\infty$-algebra in Weil--Deligne representations is formal. We give examples of smooth proper rigid-analytic surfaces whose cohomology algebras are not formal.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17072v1'>2608.17072</a>\]&nbsp; **Mild p-Class Tower Groups of Imaginary Quadratic Fields**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Denis Vogel &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 63 pages; code and data: https://doi.org/10.5281/zenodo.21982734
+
+<details><summary>Abstract</summary><p>Let $K$ be an imaginary quadratic number field, let $p$ be an odd prime, and let $G_{\emptyset}(K)(p)$ be the Galois group of the maximal everywhere unramified pro-$p$ extension of $K$. To each mod-$p$ character $x$ of this group we associate a secondary norm operator $D_x \colon \mathrm{Cl}(K)[p] \to \mathrm{Cl}(K)/p$. These operators determine all triple Massey products on $H^1(G_{\emptyset}(K)(p), \mathbb{F}_p)$, and hence the cubic initial relations of the group. In $p$-class rank three, the $2 \times 2$ minors of the family $x \mapsto D_x$ define a subscheme of $\mathbb{P}^2_{\mathbb{F}_p}$, an invariant of $K$ which we call the norm-degeneracy scheme. We prove: if this scheme has a reduced isolated closed point on the vanishing locus of the diagonal Massey product, then $G_{\emptyset}(K)(p)$ is mild, and hence has cohomological dimension $2$. We treat every imaginary quadratic field with $|D_K| < 2^{30}$ of odd $p$-class rank three. The only primes that occur are $p = 3$, $5$, and $7$. We prove, unconditionally, mildness of the $p$-class tower group for $864$ of the $12749$ fields at $p = 3$, for $203$ of the $204$ fields at $p = 5$, and for all three fields at $p = 7$. To the best of our knowledge, these are the first number fields for which the full maximal everywhere unramified pro-$p$ Galois group is proved to be mild. In particular, they provide explicit infinite $p$-class towers whose Galois groups have cohomological dimension $2$.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17056v1'>2608.17056</a>\]&nbsp; **Algebraic Lattices Arising from Congruence Submodules in Subfields of $p$-th Cyclotomic Fields**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Trajano Pires da Nóbrega Neto, Antonio Aparecido de Andrade, Jéfferson Luiz Rocha Bastos, Robson Ricardo de Araujo, José Carmelo Interlando &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+<details><summary>Abstract</summary><p>The classical sphere packing problem, which remains unsolved, consists of determining how densely a large number of identical spheres can be packed together. In some sphere packings, the centers of the spheres in a sphere packing form a Euclidean lattice, which is a discrete additive subgroup of $\mathbb{R}^n$. Free $\mathbb{Z}$-modules in the ring of integers of an algebraic number field yield algebraic lattices via the canonical embedding. In this work, we present new constructions of algebraic lattices from certain families of $\mathbb{Z}$-modules in the ring of algebraic integers of subfields of the $p$-th cyclotomic field, where $p$ is a prime number. Within this framework, we compute lower bounds for the center density of these algebraic lattices and construct algebraic lattices having the best known packing density in dimensions 2, 3, and 5.</p></details>
+
+---
+
+### \[<a href='https://arxiv.org/abs/2608.17045v1'>2608.17045</a>\]&nbsp; **Prime-Exponent Transition Geometry and Divisor Barriers Between Consecutive Highly Composite Numbers**
+
+
+ &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Marco Mantovanelli &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
+
+
+> **Comment:** 29 pages, 2 figures, 4 tables. Accompanying reproducibility archive, version 1.0.0: https://doi.org/10.5281/zenodo.21983543
+
+<details><summary>Abstract</summary><p>Let $d(n)$ be the divisor function and let $H<H'$ be consecutive highly composite numbers. We study directed unit moves between their prime-exponent vectors under the hard ceiling $z\le H'$. The normalised capacity of such a geodesic is its smallest divisor count divided by $d(H)$, giving a finite fixed-endpoint maximin problem. The exact record enumeration first finds a failure of the static surrogate $d(\gcd(H,H'))\ge d(H)/2$ at $48,886,437,600<64,250,746,560$, where the ratio is $4/9$. For every state $z$ in the exponent box, however, we prove $$d(z)d(HH'/z)\ge d(H)d(H')$$ and deduce the record-box gap: no box state lies numerically strictly between the two records. We also give an exact dynamic-programming recursion, solve the strata $L_-\le 1$, and reduce the complete $L_-=2$ problem to an explicit divisor-selection functional. A computer-assisted enumeration through $10^{70}$ produces $889$ records and $888$ transitions. Although the static half-gcd bound fails $119$ times, every computed geodesic capacity is at least $1/2$; equality occurs in exactly the $124$ transitions that lose an exponent-one support prime. Independently checked certificates cover all $301$ transitions with $L_-=2$. The corresponding universal half-capacity bound and equality classification remain open beyond the proved strata and the verified range. COMMENTS</p></details>
 
 ---
 
@@ -30,15 +630,6 @@ Displaying the latest papers from categories: math.NT, math.RT
 > **Comment:** Notation and conventions shared with arXiv:2605.27305 [math.RA]; 13 pages, 1 figure; 2 ancillary files attached
 
 <details><summary>Abstract</summary><p>For the algebra $\mathbb{R}[x^1,\ldots,x^d]$ of polynomials in $d\geqslant 1$ variables, regard the complete generalised Wronskian $W_d^k$ of differential order $k\geqslant 1$ over $\mathbb{R}^d$ as the $N=\tbinom{d+k}{d}$-ary Lie bracket. Take an $N$-tuple of polynomials, calculate their Wronskian, and keep re-using the newly-created polynomials to produce more of them. The problem is: how fast do their maximal total degrees grow with the number $n$ of iterations of the bracket? Here enter the $N$-bonacci numbers defined by the recurrence $F^{(N)}_n=F^{(N)}_{n-1}+\cdots+F^{(N)}_{n-N}\in \mathbb{N}$. We prove that for any choice of the initial arguments, the sequence of highest total degrees ${\mathsf{D}}^{(N)}_n \geqslant 0$ grows (if at all) asymptotically no faster than the $n$th $N$-bonacci number: $\lim_{n\to+\infty} ({\mathsf{D}}^{(N)}_n/F^{(N)}_n )<\infty$. We show that for $d=1$ and $k$ odd, the highest polynomial degrees do attain the $N$-bonacci bound. Keywords: Differential polynomial, $N$-ary Lie bracket, multivariate Wronskian determinant, Fibonacci numbers, $N$-bonacci numbers, asymptotic growth rate, growth of polynomial degrees, Skolem--Pisot problem.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.16823v1'>2608.16823</a>\]&nbsp; **Groups with a Fixed Character Degree: The General Case**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-17 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Mark Lewis, Brandon Martin &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.GR &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>We obtain arithmetic conditions which are satisfied by solvable groups admitting an abelian $π$-subgroup. First, we extend a previous characterization by removing the square-free hypothesis on some fixed irreducible character degree. We then show the same arithmetic conditions follow from a faithful action of an abelian $π$-subgroup on the $π'$-part of the Fitting subgroup, where $π$ is the set of prime divisors of the aforementioned character degree.</p></details>
 
 ---
 
@@ -546,580 +1137,4 @@ Displaying the latest papers from categories: math.NT, math.RT
  &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Diego Marques &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <details><summary>Abstract</summary><p>We prove that algebraic values of bounded degree and polynomially bounded height are sparse on rational translates of the graph of a transcendental entire function. More precisely, for fixed $θ\in\overline{\mathbb{Q}}\cap\mathbb{R}$, $D\geq1$, $t>0$, and for every $\varepsilon>0$, only $O(Q^{\varepsilon})$ rationals $r\in[0,1]$ of height at most $Q$ can satisfy simultaneously $[\mathbb{Q}(f(θ+r)):\mathbb{Q}]\leq D$ and $H(f(θ+r))\ll H(r)^t$. Consequently, if these bounds hold for every rational $r$ of sufficiently large height, then $f\in\overline{\mathbb{Q}}[z]$ and $°f\leq t$. As applications, we obtain rigidity results for entire functions taking rational or bounded-degree algebraic values with polynomially controlled arithmetic height. In particular, this excludes the polynomial-denominator scenario that arises naturally in connection with Mahler's problem on Liouville numbers. The proof combines Pila's bounded-degree counting theorem with standard height estimates and a simple geometric analysis of transcendental entire graphs.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2509.24152v2'>2509.24152</a>\]&nbsp; **On Averages of Shifted Convolutions with Applications to $GL(2)$ and $GL(3)$ Fourier Coefficients**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jiseong Kim &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 7 pages. Subsection 2.2 removed. Remark 2.5 added. minor errors fixed
-
-<details><summary>Abstract</summary><p>In this paper, we study the average shifted sum for general arithmetic functions. As an application, we prove non-trivial upper bounds for a sharp cut-off version of shifted convolutions involving $\mathrm{GL}(2)$ and $\mathrm{GL}(3)$ Fourier coefficients. We apply square-root cancellation on average over short intervals for $GL(2)$ Fourier coefficients with the standard Hardy-Littlewood circle method.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15866v1'>2608.15866</a>\]&nbsp; **On the Hausdorff dimension of the difference sets between typical and normal numbers**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Bill Mance, Jakub Tomaszewski &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 14 pages
-
-<details><summary>Abstract</summary><p>We study the Hausdorff dimension of the difference sets between the set of typical numbers, defined via the Erdős--Rényi law governing the longest run of digits, and the set of numbers normal in base $2$. Although both properties hold for Lebesgue-almost every real number, neither implies the other. The resulting difference sets $\textit{TpcN}\setminus\textit{Normal}$ and $\textit{Normal}\setminus\textit{TpcN}$ are $D_2({\bf Π}_3^0)$-complete in the Borel hierarchy. We show that this logical complexity is matched geometrically: both difference sets have full Hausdorff dimension. Unlike the classical Besicovitch-type sets governing single-digit frequencies, normality requires the correct frequency of every finite block simultaneously, and the explicit Moran-set constructions that succeed for simple normality break down under this requirement. We instead establish the dimension via a counting argument bypassing the need for an explicit construction.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15845v1'>2608.15845</a>\]&nbsp; **Weighted singular vectors in common-base self-similar sets**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Taehyeong Kim, Jaemin Park &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 15 pages, 2 figures, 1 table
-
-<details><summary>Abstract</summary><p>We prove a lower bound for the Hausdorff dimension of weighted totally irrational singular vectors in affine-spanning common-base integral self-similar sets satisfying the open set condition. For the middle-third Cantor square, the bound improves the previously known explicit lower bound.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15807v1'>2608.15807</a>\]&nbsp; **Better than square-root cancellation in Piatetski-Shapiro sequences**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Renjie Zhu, Tianping Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 10 pages. Comments and suggestions are welcome
-
-<details><summary>Abstract</summary><p>In this paper, we investigate whether the better than square-root cancellation phenomenon exists for $\sum^{}_{n\leq X,n\in \mathcal{A}}f(n)$ when $\mathcal{A}$ is a Piatetski-Shapiro sequence and $f(n)$ is a Steinhaus or Rademacher random multiplicative function. Harper's remarkable breakthrough (2019) showed that better than square-root cancellation phenomenon happens when $\mathcal{A}$ takes natural integers set $\mathbb{N}$. Then Max Wenqiang Xu (2023) proved the conclusion also holds if $\mathcal{A}$ consists of $\mathcal{R}$-rough numbers. The similar result can be obtained for $y$-smooth numbers according to Hardy and Xu's recent paper(2026). Our result provides another positive example about the existence of better than square-root cancellation phenomenon when $\mathcal{A}$ is not a set with multiplicative energy as small as $(2+o(1))|\mathcal{A}|^2$. Furthermore, inspired by Harper's work (2023), we also prove the typical size of character sums over Piatetski-Shapiro sequences is $o(\sqrt{|\mathcal{N}_c(x)|})$. Based on this, the character sums over Piatetski-Shapiro sequences can reach Weil's bound for almost all characters modulo a prime $p$.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15773v1'>2608.15773</a>\]&nbsp; **Large values of quadratic character sums**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Zikang Dong, Ruihua Wang, Weijia Wang, Hao Zhang, Shengbo Zhao &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 40 pages
-
-<details><summary>Abstract</summary><p>In this paper, we investigate large values of quadratic Dirichlet character sums. We prove new Omega results for both short and long quadratic character sums under the assumption of the Generalized Riemann Hypothesis (GRH), which improve the previous results.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2606.31783v2'>2606.31783</a>\]&nbsp; **Construction of Generically Ordinary Families of Hyperelliptic Curves**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Hui June Zhu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 13 pages
-
-<details><summary>Abstract</summary><p>Katz conjectured in a 2018 lecture that the family of curves $y^2=x^d-dx+t$ over the $t$-line is generically ordinary for all sufficiently large primes $p$. We prove that, for every $g\ge 2$ and every nonzero algebraic integer $α$, the genus-$g$ families $C_α: y^2=x^d+αx+t$ where $d\in\{2g+1, 2g+2\}$ are generically ordinary at every prime $p>P^+(d)$, provided that $α$ is nonzero modulo every prime above $p$. The bound $P^+(d)=d^2-4d+2$ if $d$ is odd, and $P^+(d)=(d^2-3d+2)/2$ if $d$ is even.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15744v1'>2608.15744</a>\]&nbsp; **A six-functor formalism for syntomic cohomology**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Niklas Kipp &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 67 pages
-
-<details><summary>Abstract</summary><p>We construct a six-functor formalism for syntomic cohomology of p-adic formal schemes. This, in particular, generalizes Poincaré duality to general smooth morphisms.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2512.24347v2'>2512.24347</a>\]&nbsp; **The period map from commutative to noncommutative deformations**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Samuel A. Moore &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 33 pages. v2: main result generalised to qcqs derived schemes; statement of Corollary 1.4 corrected. Comments welcome!
-
-<details><summary>Abstract</summary><p>We study the period map from infinitesimal deformations of a qcqs derived scheme $X$ over a field $k$ to those of the associated $k$-linear $\infty$-category $\mathrm{QC}(X)$. We identify the corresponding map on tangent fibres with the dual HKR map $\mathrm{R}Γ(X, \mathbf{T}_{X/k})[1] \longrightarrow \mathrm{HH}^{\bullet}(X/k)[2]$ and study its injectivity on homotopy groups. As applications, we show liftability of qcqs schemes along square-zero extensions to be a derived invariant, at least when $\mathrm{char}(k) \ne 2$, and exhibit cases where the entire classical deformation functor of $X$ is a derived invariant; this partially answers a question of Lieblich.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15686v1'>2608.15686</a>\]&nbsp; **Hausdorff dimension of $τ$-approximable points on self-similar sets in $\mathbb R^d$**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yubin He, Lingmin Liao &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>Let $d\geq 1$. Let $K\subset\mathbb{R}^d$ be a non-singleton self-similar set generated by a finite strongly irreducible iterated function system satisfying the open set condition, and let $δ=\dim_{\mathrm H} K$. For $τ>1/d$, set $$ W_d(τ) = \left\{ \mathbf{x}\in\mathbb{R}^d: |q\mathbf{x}-\mathbf{p}|<q^{-τ} \text{ for infinitely many }(\mathbf{p},q)\in\mathbb{Z}^d\times\mathbb{N} \right\}. $$ We prove that there exists $\varepsilon_K>0$ such that, for every $1/d<τ<1/d+\varepsilon_K$, $$ \mathcal{H}^{s(τ)}(K\cap W_d(τ))=\infty, \qquad\text{with } s(τ):=δ+\frac{d+1}{1+τ}-d, $$ and consequently $$ \dim_{\mathrm H}(K\cap W_d(τ)) = δ+\frac{d+1}{1+τ}-d. $$ In dimension one, specializing to the middle-third Cantor set, this establishes the Bugeaud--Durand conjectural formula for $τ>1$ sufficiently close to $1$.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15681v1'>2608.15681</a>\]&nbsp; **An exact formula for Erdős' problem 1005**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yanmohan Wang, Mingxu Xie, Ziyuan Zhao &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>In 1943, Erdős considered the minimum number $f(n)$ of terms between two fractions in the Farey sequence of order $n$ whose numerators and denominators are oppositely ordered. Determining the constant $c$ in $f(n)=(c+o(1))n$ is known as Erdős Problem 1005. Recently, Cipollini solved this asymptotic problem by proving that $f(n)=(1/4+o(1))n$. Following his framework, we give an analytic proof of an exact formula for $f(n)$ for all sufficiently large $n$. Combining this with a finite computer verification, we further determine $f(n)$ for every integer $n\geq 4$.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.11983v2'>2608.11983</a>\]&nbsp; **Modules over the Takiff Block type Lie algebra**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Shuoyang Xu, Haibo Chen &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>In this paper, we introduce a family of infinite-dimensional Lie algebras $B(q)$ of Takiff Block type, containing Heisenberg-Virasoro algebra, $W$-algebra $W(2,2)$, and BMS-Kac-Moody algebra as subalgebras. For $q\in\mathbb C^*$, we classify the $ B(q)$-modules that are free of rank one over $U(\mathfrak h)$, where $\mathfrak h=\mathbb C L_{0,0}\oplus\mathbb C W_{0,0}$, and determine their irreducibility and isomorphism classes. We also establish irreducibility and isomorphism criteria for their tensor products with irreducible restricted modules. Finally, restricting the above $B(-1)$-modules to several natural subalgebras of the central quotient $B(-1)/(\mathbb C C_1\oplus\mathbb C C_2)$ yields families of non-weight modules.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15623v1'>2608.15623</a>\]&nbsp; **The principal series 2-representation for $\mathrm{GL}_n\times\mathrm{GL}_n$ over a 2-dimensional local field**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Xuecai Ma, Jingwen Zhu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>Let $F=\mathbb{F}_q((u))((t))$ and $H=\mathrm{GL}_n(F)_L\times\mathrm{GL}_n(F)_R$. An ordered tuple $α=(α_1,\dots, α_n) $ defines a cross-$K_2$ multiplier on the doubled Borel. Twisted equivariantization then yields an exact uniformly smooth categorical principal series $2$-representation of $H$. For unitary parameters, the $\mathbb R((X))$-measure gives a positive Hom-valued formal Hermitian inner product on the spherical part. These constructions provide two-dimensional categorical analogues of selected unramified structures.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15568v1'>2608.15568</a>\]&nbsp; **The equality between the Erdős-Ginzburg-Ziv constant and the short product-one constant for finite nonabelian groups**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yongke Qu, Guoqing Wang, Yuanlin Li &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 16 pages
-
-<details><summary>Abstract</summary><p>Let $G$ be a finite group, and let $\exp(G)$ denote its exponent. The Erdős-Ginzburg-Ziv constant $s(G)$ is the least integer forcing a product-one subsequence of length $\exp(G)$, while the short product-one constant $η(G)$ is the least integer forcing a nonempty product-one subsequence of length at most $\exp(G)$. The natural nonabelian extension of a conjecture [W. Gao, \emph{On zero-sum subsequences of restricted size II}, Discrete Math. 2003] on the Erdős-Ginzburg-Ziv constant in finite abelian groups predicts that $s(G)=η(G)+\exp(G)-1.$ We confirm this equality for every finite nonabelian group $G$ having a cyclic subgroup of index $p$, where $p$ is the smallest prime divisor of $|G|$. As further consequences, we determine all generalized Erdős-Ginzburg-Ziv constants $s_{m\exp(G)}(G)$ for this family of groups.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15553v1'>2608.15553</a>\]&nbsp; **Beyond endoscopy for $\mathsf{GL}_2$ over $\mathbb{Q}$ with ramification 5: cancellation theory**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yuhao Cheng &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>We complete our work on $\mathsf{GL}_2$ over $\mathbb{Q}$ in the ramified setting for \emph{Beyond Endoscopy} proposed by Langlands. We prove that the asymptotic formula for each term of the trace formula when summing over $n<X$ with arbitrary smooth test functions at places in $S=\{\infty,q_1,\dots q_r\}$ with $2\in S$, for the standard representation, is $o(X)$. We prove an identity with a variable $X$, called the \emph{limit form of the trace formula} for $\mathsf{GL}_2$ over $\mathbb{Q}$, directly. The proof uses Arthur's result on the Fourier transform of weighted orbital integrals to rewrite the term involving intertwining operators, and then compares the expansion with the results of the real case due to Arthur-Herb-Sally and Hoffmann, and the nonarchimedean case by direct computation using Arthur's definition.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15523v1'>2608.15523</a>\]&nbsp; **Cycles of supersingular elliptic curves for pairing-based proof systems**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Craig Costello, Gaurish Korpal &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 24 pages, 6 figures, IACR Communications in Cryptology
-
-<details><summary>Abstract</summary><p>We give new constructions of cycles of pairing-friendly elliptic curves with a view towards unbounded recursive pairing-based proof systems. Unlike the only known prior cycle of elliptic curves - the ordinary MNT cycle - our construction uses elliptic curves that are supersingular. A trade-off of our approach is that the supersingular cycles are defined over extension fields (quadratic extensions in the optimal case), which makes elements and computations in $\mathbb{G}_1$ less compact and efficient than those in the MNT cycle. On the other hand, the supersingular cycles in this paper offer a key advantage over their MNT counterpart: every instance of our infinite family of supersingular curves can be efficiently constructed via Br{ö}ker's algorithm, whereas it is only feasible to construct a relatively small, bounded number of MNT instances via the CM method. In other words, while both constructions give infinite families of pairing-friendly curves in theory, only the supersingular construction gives rise to infinite numbers of cycles that can be realised in practice. Supersingular cycles offer benefits that are relevant in the context of recursive pairing-based proof systems. They afford flexibility in the choices of underlying finite fields; one can choose primes $p$ for which the underlying field arithmetic is efficient and for which $p-1$ is divisible by a large power of 2. Or, as we study in detail, using supersingular cycles unlocks the possibility of connecting the cycle with other pairing-friendly elliptic curves that are defined over much smaller finite fields, where proof system arithmetic is much more efficient. Indeed, constructing these so-called lollipops of pairing-friendly curves was the motivating problem (posed by researchers back in 2019) that inspired the present work.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.11372v2'>2608.11372</a>\]&nbsp; **On The Spectral Properties of Discrete Landscape Functions**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Aryaman Chandra, S. R. Jain &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.DS &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** v2: Named conjecture in abstract; added note on proof of Conjecture 4.5 by Q. Zhou (Zenodo:10.5281/zenodo.21935814). 11 pages, 1 figure
-
-<details><summary>Abstract</summary><p>We study the landscape function on a discretized interval. The discrete landscape has an explicit closed form, and its spectral coefficients can be computed exactly. We show that these coefficients lie in explicit abelian extensions of $\mathbb{Q}$, and obtain the bound $[\mathbb{Q}(c_k(N)):\mathbb{Q}]\leq\varphi(N)$ for every odd $k$. For the first coefficient, exact computation for $3\leq N\leq 30$ gives the full degree $\varphi(N)$ in every case, motivating the Chandra--Jain conjecture that $[\mathbb{Q}(c_1(N)):\mathbb{Q}]=\varphi(N)$ for all $N\geq 3$. We then reduce the higher modes to the coprime case and discuss the remaining degree question. We also discuss connections with parity, the Arnold cat map, and Lefschetz numbers. The Chandra--Jain conjecture has since been proved by Q. Zhou (Zenodo, doi:10.5281/zenodo.21935814).</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15482v1'>2608.15482</a>\]&nbsp; **Finitistic dimension via modules over the singularity category**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Panagiotis Kostas &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 8 pages, comments are very welcome!
-
-<details><summary>Abstract</summary><p>We combine results of Rickard and Shaul with methods of intrinsic homological algebra and the theory of purity to prove that the finiteness of the big finitistic dimension of an Artin algebra is an intrinsic property of the singularity category of its opposite algebra, via its category of modules. This `object-free' approach complements work of Dey--Šťovíček and arrives at the same conclusion: the finiteness of the finitistic dimension of Artin algebras is a singular invariant (of the opposite algebras). In fact, our characterisation can be used to prove that finite finitistic dimension descends along certain fully faithful functors between singularity categories.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15480v1'>2608.15480</a>\]&nbsp; **Formal finite multiple zeta values**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-16 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Henrik Bachmann, Risan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 27 pages
-
-<details><summary>Abstract</summary><p>We study the algebra of formal finite multiple zeta values by imposing the stuffle and linear shuffle relations of Kaneko and Zagier. Our first results are a surjective homomorphism to the algebra of formal symmetric multiple zeta values and a parity reduction in depth at most four. In even weight we construct a quotient of the formal double zeta space which surjects onto the space of finite multiple zeta values of depth at most four, and we attach to every even period polynomial an explicit relation among the values $ζ_{A}(2a,1,2b,1)$.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15434v1'>2608.15434</a>\]&nbsp; **On a conjecture of Hung, Martínez and Navarro**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Stacey Law &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 3 pages
-
-<details><summary>Abstract</summary><p>In this note, we prove a recent conjecture of Hung, Martínez and Navarro on the sums of character degrees of finite groups.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15433v1'>2608.15433</a>\]&nbsp; **Proof of a Conjecture on Primitive Quartic Polynomials over Finite Fields**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Rod Gow, Gary McGuire &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>We present a proof of a conjecture we made about primitive polynomials, for $q$ sufficiently large. The argument follows a standard route, however a deeper result than usual with a character sum bound is required. This is a theorem of Fu and Wan. The proof is AI assisted.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15431v1'>2608.15431</a>\]&nbsp; **Singular-weight Conway-invariant Jacobi forms of index four**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Daren Dong &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 40 pages; ancillary files contain exact audit scripts, matrix data, and computational certificates
-
-<details><summary>Abstract</summary><p>Let $Λ$ be the Leech lattice and let $\mathrm{Co}_0=\mathrm{Aut}(Λ)$. Sun and Wang proved that the space of $\mathrm{Co}_0$-invariant holomorphic Jacobi forms of singular weight $12$ and index $4$ satisfies $$ 4\leq \dim J^{\mathrm{Co}_0}_{12,Λ,4}\leq 9, $$ and left its exact dimension open. We prove $$ \dim J^{\mathrm{Co}_0}_{12,Λ,4}=6. $$ At singular weight, theta decomposition identifies this space with the simultaneous $\mathrm{Co}_0$- and Weil-invariant subspace of $\mathbb{C}[Λ/4Λ]$. Conway symmetry and $T$-invariance reduce the problem to a twelve-dimensional space of isotropic orbit sums. On this space the projected Weil $S$-operator satisfies the universal relation $$ S\left(S+\frac{1}{2}I\right)(S-I)=0, $$ obtained from the level-$4$ Hecke algebra. Equivalently, the associated integral character matrix $K$ satisfies $$ K(K+2^{23}I)(K-2^{24}I)=0. $$ Combining this relation with known index-$4$ forms, reduction modulo $2$, and character data obtained from the $A_3^8$ deep hole reduces the remaining possibilities to a finite exact calculation. A final torsion evaluation of the known index-$3$ form $Φ_{12,3}$ determines the last required character value, and exact elimination leaves a unique admissible branch, of dimension $6$. We also construct two Conway-averaged theta forms from explicit markings of the Niemeier lattices with root systems $D_6^4$ and $D_4^6$. Together with the four forms previously exhibited by Sun and Wang, they give a natural basis of $J^{\mathrm{Co}_0}_{12,Λ,4}$.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15415v1'>2608.15415</a>\]&nbsp; **Positive quasimodular forms and the sign uncertainty principle**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Seewoo Lee &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>For every positive integer $d$ divisible by $4$, we prove the following new upper bound for the Bourgain-Clozel-Kahane sign uncertainty constant: $$ \mathrm{A}_+(d) \le \sqrt{2 \left\lfloor \frac{d}{16} \right\rfloor + 2}. $$ It recovers the optimal bound $\mathrm{A}_+(12) \le \sqrt{2}$ in dimension $12$ and improves the previously best known bound $\sqrt{(d+2)/(2π)}$ for all $d \ge 52$ divisible by $4$. The proof uses Fourier eigenfunctions and associated quasimodular forms constructed by Feigenbaum, Grabner, and Hardin.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.11864v2'>2608.11864</a>\]&nbsp; **Equalities among simplest quartic fields: a complete classification**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Zhi-Lin Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 8 pages; added references to earlier work of M.-N. Gras and clarified historical attribution; added a declaration of AI use; main results unchanged
-
-<details><summary>Abstract</summary><p>For a positive integer $n$, let $f_n(X)=X^4-nX^3-6X^2+nX+1$ and let $K_n=\mathbb{Q}(ρ_n)$, where $ρ_n$ is a root of $f_n$. We determine all coincidences among these fields: for distinct positive integers $m,n$, $K_m=K_n \Longleftrightarrow \{m,n\}\in\{\{1,103\},\{2,22\},\{4,956\}\}$. Thus the three previously known equalities are the only ones. This extends Hoshi's finite-range classification to all positive integral parameters and, in particular, subsumes the uniqueness results of Pincus and Washington. The proof combines Hoshi's correspondence between equal simplest quartic fields and primitive solutions of a quartic Thue equation with estimates of Lettl--Pethő--Voutier for rational approximations to two of its real roots. A Gaussian-integer identity yields a lower bound for the denominator of the resulting rational approximation; the continued-fraction information and the approximation estimates then exclude every parameter exceeding $1000$.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15327v1'>2608.15327</a>\]&nbsp; **A categorification of the integral form of the Cartan subalgebra for quantum sl(2)**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Mikhail Khovanov &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.QA &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 17 pages
-
-<details><summary>Abstract</summary><p>We propose a categorification of the Lusztig integral form of the quantum Cartan subalgebra for $sl(2)$ via a colimit of categories of equivariant coherent sheaves on finite-dimensional projective spaces. The nonequivariant version of our construction yields a nonsemisimple abelian categorification of the ring of integer-valued polynomials.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2405.04137v2'>2405.04137</a>\]&nbsp; **Deformed quantum vertex algebra modules associated with braidings**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Lucia Bagnoli, Slaven Kožić &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.QA &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 26 pages, minor changes and corrections, comments are welcome
-
-<details><summary>Abstract</summary><p>We introduce the notion of deformed quantum vertex algebra module associated with a braiding map. We construct two families of braiding maps over the Etingof-Kazhdan quantum vertex algebras associated with the rational $R$-matrices of classical types. We investigate their properties and demonstrate the applications of the corresponding deformed modules to the (generalized) Yangians and reflection algebras.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15248v1'>2608.15248</a>\]&nbsp; **Interlacing for zeros of the Serre derivative of Eisenstein series**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Maggie Bohanek, Owen McGinty, Erick Ross, Yanhui Su, Hui Xue &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>In 1970, Rankin and Swinnerton-Dyer showed that the non-elliptic zeros of Eisenstein series $E_k$ in the fundamental domain all lie on the lower arc $\{ e^{iθ}: \fracπ{2} < θ< \frac{2π}{3}\}$. Very recently, Sugibayashi showed that the same property also holds for the Serre derivative $\vartheta_k(E_k)$ of Eisenstein series. In this paper, we first give very precise estimates for where exactly these zeros are located on the lower arc. These location estimates then allow us to prove four main results. First, we show that the zeros of $\vartheta_\ell(E_\ell)$ Stieltjes interlace with the zeros of $\vartheta_k(E_k)$ on the lower arc for all $\ell > k$. Second, we classify precisely when the zeros of $\vartheta_\ell(E_\ell)$ (standard) interlace with the zeros of $\vartheta_k(E_k)$ on the lower arc. Third, we show that the zeros of $\vartheta_k(E_k)$ always (standard) interlace with the zeros of $E_{k+2}$ on the lower arc. Fourth, as an application of the third main result, we show that the zeros of the cuspidal projection of $\vartheta_k(E_k)$ all lie on the lower arc, extending a result of Xue and Zhu.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15219v1'>2608.15219</a>\]&nbsp; **Algebraic geometric framework of Rogers--Ramanujan identities**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yifeng Huang, Kenny Lau, Ken Ono, Peter Paule &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 21 pages
-
-<details><summary>Abstract</summary><p>The Rogers--Ramanujan identities equate a $q$-series whose exponents are governed by a quadratic form with an infinite product supported on two residue classes modulo~$5$. Identities of this shape are scarce, and a central problem is to identify the structures that produce them in families. Huang, Jiang, and Oblomkov have proposed a source of a new kind: to each pair of coprime integers $a,b>1$ they attach an infinite-rank $q$-series $Z_{a,b}(q)$, assembled from counts of commuting nilpotent matrix pairs $(A,B)$ with $A^a=B^b$ over finite fields, and they conjecture that it equals an explicit product of $(a-1)(b-1)/2$ modular units of level $a+b$. The $a=2$ cases are the Andrews--Gordon identities; no case with $a>2$ was known. We prove the conjecture for $(a,b)=(3,4)$, $(3,5)$, $(3,7)$, and $(3,8)$. Our proofs pass through a finer sum-to-sum identity, which we conjecture for all $b$ coprime to $3$ and establish for all $b$ when $q=1$. Lau and Ono have since proved that identity in general, and with it the full $a=3$ case. These identities have been formalized and verified in Lean by AxiomProver.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15203v1'>2608.15203</a>\]&nbsp; **An exotic finite pretriangulated category over any algebraically closed field**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Javier Díaz Cabrera, Fernando Muro &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 25 pages
-
-<details><summary>Abstract</summary><p>We show that, over any algebraically closed field of any characteristic, the category of finite-dimensional projective modules over the preprojective algebra of generalized Dynkin type $Ł{2}$ has a triangulated category structure which is neither an algebraic nor a topological triangulated category.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15192v1'>2608.15192</a>\]&nbsp; **A Note on Frobenius Character Formula**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Inayat R. Bhat &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 23 pages
-
-<details><summary>Abstract</summary><p>In this note we give an alternative derivation of Frobenius Character Formula using wedge product, the resulting formula is used to calculate the character table of $S_{2}$ and $S_{3}$ Group which reproduces their character table correctly, calculations for classes of $S_{3}$ Group are given in the appendix B. The calculations are given in terms Schur Functions. In the first section, a brief indicative review of Symmetric Group and related formulas is given. In Section second we derive the formula. A naive approach to computational complexity is also presented at the end.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2606.31761v2'>2606.31761</a>\]&nbsp; **An Efficient Algorithm for Estimating Prime Counts**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Artur Samojluk, Artur Siemaszko &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>We develop the Samojluk--Siemaszko (S--S) estimator for the prime-counting function $π(x)$ using a non-uniform partition generated by generalized triangular numbers. A cold-start evaluation uses $\big O(\sqrt{x})$ local terms, whereas consecutive partition nodes can be processed with amortized $\big O(1)$ update cost. Updated computations up to $10^{19}$, performed with the correction coefficient $c_T=0.7071$, show accuracy comparable with the Riemann approximation $R(x)$; the two estimators are also asymptotically equivalent at the level of their main term. The correction is written as a one-parameter family $S_{\ell,c}(x)$. Finite-range experiments indicate that effective coefficients lie near $0.7$. We prove asymptotic formulas for the natural scale $q_\ell(x)$ and the accumulated discretization error $D_\ell(x)$, obtaining an unconditional transfer relation between the normalized S--S error and the classical normalized prime-number-theorem error. Together with the logarithmic-mean theorem under RH, this identifies the exact coefficient $c_{\mathrm{th}}=1/\sqrt2$ as uniquely asymptotically optimal in the logarithmic-mean centering sense. The converse implication is quoted from a companion manuscript in preparation.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.12709v2'>2608.12709</a>\]&nbsp; **Uniform bounds on prime levels of abelian division fields of elliptic curves over number fields without rationally defined CM**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Hansol Kim &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 6 pages. The e-mail address of Hansol Kim has been corrected to jawlang@ajou.ac.kr
-
-<details><summary>Abstract</summary><p>Enrique González-Jiménez and Álvaro Lozano-Robledo proved that there exists a uniform bound on the levels $n$ for which the $n$-division field $\mathbb{Q}\left(E\left[n\right]\right) / \mathbb{Q}$ of an elliptic curve $E/\mathbb{Q}$ defined over $\mathbb{Q}$ is abelian. Assuming GRH (Generalized Riemann Hypothesis), Allen and Genao partially generalized this result by restricting to prime levels while allowing arbitrary number fields without rationally defined CM. In this paper, we remove the GRH assumption and prove that the property established by Allen and Genao is in fact equivalent to the absence of rationally defined CM.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2504.20594v3'>2504.20594</a>\]&nbsp; **Mordell--Lang and disparate Selmer ranks of odd twists of some superelliptic curves over global function fields**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Sun Woo Park &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** Version 3: 42 pages, 1 figure. Substantial revisions made, pertaining to the fact that the Weil pairing over $1-ζ_\ell$ torsion module of the Jacobian of $C_f$ is symmetric. We devise a new Markov model which governs the $1-ζ_\ell$ Selmer groups of Jacobians of $C_f$. Comments Welcome
-
-<details><summary>Abstract</summary><p>Fix a prime number $\ell \geq 5$. Let $K = \mathbb{F}_q(t)$ be a global function field of characteristic $p$ coprime to $2,3$, and $q \equiv 1 \text{ mod } \ell$. Let $C:y^\ell = F(x)$ be a non-isotrivial superelliptic curve over $K$ such that $F$ is a degree $3$ polynomial over $\mathbb{F}_q(t)$. Denote by $C_f: fy^\ell = F(x)$ the twist of $C$ by a polynomial $f$ over $\mathbb{F}_q$. Assuming some conditions on $C$, we show that the expected number of $K$-rational points of $C_f$ is bounded, and at least $99\%$ of such curves $C_f$ have at most $(3p)^{4\ell} \cdot \ell!$ many $K$-rational points, as $f$ ranges over the set of polynomials of sufficiently large degree over $\mathbb{F}_q$. To achieve this, we compute the distribution of dimensions of $1-ζ_\ell$ Selmer groups of Jacobians of such superelliptic curves. This is done by generalizing the technique of constructing a governing Markov operator, as developed from previous studies by Swinnerton-Dyer, Klagsbrun--Mazur--Rubin, Yu, and the author.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15119v1'>2608.15119</a>\]&nbsp; **Transcendence of continued fractions over function fields and a quantitative version of Uchiyama's theorem**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Federico Accossato, Nadir Murru, Giuliano Romeo, Giulia Salvatori &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 20 pages, comments are welcome!
-
-<details><summary>Abstract</summary><p>Given a field $K$, let $K((T^{-1}))$ be the field of formal power series. Continued fractions in $K((T^{-1}))$ can be defined by analogy with classical real continued fractions and have been widely studied. Some results establish the transcendence of elements of $K((T^{-1}))$ arising from special families of continued fractions, but much remains to be explored. In this paper, assuming that $K$ has characteristic zero, we improve the known analogues of the Maillet--Baker criteria for quasi-periodic continued fractions. A central tool that we prove is a quantitative version of Uchiyama's analogue of Roth's theorem in function fields, which gives an explicit bound for the number of exceptionally good rational approximations to an algebraic power series. This quantitative estimate also yields a Davenport--Roth-type upper bound on the growth of the denominators of the convergents of algebraic elements. Finally, we prove that palindromic continued fractions are either quadratic or transcendental, as in the real case, but using a different proof strategy.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2607.03490v2'>2607.03490</a>\]&nbsp; **Ramanujan-type identities for alternating Hurwitz zeta functions**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Meng Yuan, Su Hu, Min-Soo Kim &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 48 pages
-
-<details><summary>Abstract</summary><p>Around 1910, in an unpublished manuscript, Ramanujan proposed the following identity for $ζ(2n+1)$: $$ \begin{aligned} α^{-n}\,&\left\{\dfrac{1}{2}\,ζ(2n + 1) + \sum_{m = 1}^{\infty}\dfrac{m^{-2n - 1}}{e^{2αm} - 1}\right\} \\ &\quad\quad\quad\quad\quad\quad\quad-(-β)^{-n}\,\left\{\dfrac{1}{2}\,ζ(2n + 1) + \sum_{m = 1}^{\infty}\dfrac{m^{-2n - 1}}{e^{2βm} - 1}\right\}\\ &=2^{2n}\sum_{k = 0}^{n + 1}\dfrac{(-1)^{k-1}B_{2k}\,B_{2n - 2k + 2}}{(2k)!(2n - 2k + 2)!}\,α^{n - k + 1}β^k, \end{aligned} $$ where $α$, $β$ are positive numbers satisfying $αβ=π^2,n\in\mathbb{N},$ $B_n$ denotes the $n$-th Bernoulli number and $ζ(z)$ is the Riemann zeta function. As shown by Berndt in the viewpoint of general transformation of analytic Eisenstein series, it is a natural companion of Euler's famous formula for even zeta values. In this paper, we extend Ramanujan's identity to the alternating Hurwitz zeta function. Then we systematically investigate the properties of the alternating Hurwitz zeta function $ζ_E(z,x)$, as well as the corresponding Ramanujan-type identities, under different modular symmetry conditions. We also establish infinite series expressions for products of the tangent and hyperbolic tangent functions, and express the Dirichlet lambda function $λ(z)$ together with linear combinations of infinite series as convolution sums of special sequences. Furthermore, we define alternating Hurwitz kernels of even and odd orders, and obtain Ramanujan-type identities involving the alternating digamma function $\widetildeψ(x)$ and Euler polynomials $E_n(x)$, as well as transformation formulas between even-order and odd-order alternating Hurwitz kernels.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15063v1'>2608.15063</a>\]&nbsp; **Bounding The Number of Zeros Near the Central Point in Families of Cuspidal Newforms**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Lucas Chen, Christopher Housholder, Joshua Khan, Steven J. Miller, Devayani Pradhan &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>We study low-lying zeros in families of even holomorphic cuspidal newforms of fixed weight and prime level, with particular emphasis on the number of forms having a zero in a prescribed normalized window about the central point and on the distribution of the number of such zeros among the forms. We quantify the number of forms having at least one zero in the window and study the distribution of the number of zeros in that window among the forms. Assuming the Generalized Riemann Hypothesis, we obtain new lower bounds for the number of forms having a low-lying zero. We first prove that, along an infinite sequence of prime levels $N$, the number of such forms is $\gg N^{7/8}\log N$. We then use higher centered moments and an appropriate test function to show that a positive proportion of the family has a zero in a prescribed window. Finally, we obtain polynomial upper-tail bounds for the number of zeros occurring there and show that a positive proportion of forms have a bounded, nonzero number of low-lying zeros.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2408.09050v3'>2408.09050</a>\]&nbsp; **On the Density of Low Lying Zeros of a Large Family of Automorphic $L$-functions**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Timothy Cheek, Pico Gilman, Kareem Jaber, Steven J. Miller, Marie-Hélène Tomé &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 42 pages. This version fixes an error in section 3 that existed in a prior version
-
-<details><summary>Abstract</summary><p>Under the generalized Riemann Hypothesis (GRH), Baluyot, Chandee, and Li nearly doubled the range in which the density of low lying zeros predicted by Katz and Sarnak is known to hold for a large family of automorphic $L$-functions with orthogonal symmetry. We generalize their main techniques to the study of higher centered moments of the one-level density of this family, leading to better results on the behavior near the central point. Numerous technical obstructions emerge that are not present in the one-level density. Averaging over the level of the forms and assuming GRH, we prove the density predicted by Katz and Sarnak holds for the $n$-th centered moments for test functions whose Fourier transform is compactly supported in $(-σ, σ)$ for $σ~=~\min\left\{3/2(n-1), 4/(2n-\mathbf{1}_{2\nmid n})\right\}$. For $n=3$, our results improve the previously best known $σ=2/3$ to $σ=3/4$. We also prove the two-level density agrees with the Katz-Sarnak density conjecture for test functions whose Fourier transform is compactly supported in $σ_1 = 3/2$ and $σ_2 = 5/6$, respectively, extending the previous best known sum of supports $σ_1 + σ_2 = 2$. This work is the first evidence of an interesting new phenomenon: by taking different test functions, we are able to extend the range in which the Katz-Sarnak density predictions hold. The techniques we develop can be applied to understanding quantities related to this family containing sums over multiple primes.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15031v1'>2608.15031</a>\]&nbsp; **Non-standard derived equivalences over arbitrary fields**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jinbi Zhang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>In 1991 Rickard asked whether every derived equivalence between finite-dimensional algebras over a common field is standard. Hu, Xi and Zhang constructed non-standard derived equivalences over the field with two elements and conjectured that Rickard's question has a positive answer in characteristic different from two. We disprove this conjecture by constructing non-standard derived autoequivalences over every field. In fact, each field admits infinitely many finite-dimensional algebras with such autoequivalences. The proof is characteristic-free and is based on a supertrace identity for matrices over truncated polynomial algebras. We also give a second family over finite fields. Consequently, Rickard's question has a negative answer over every field.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.15020v1'>2608.15020</a>\]&nbsp; **Monoidal seeds of the categories $\mathcal{C}_{wv}$ over quiver Hecke algebras**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Masaki Kashiwara, Myungho Kim, Se-ji Oh, Euiyong Park &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 63 pages
-
-<details><summary>Abstract</summary><p>In this paper, when the quiver Hecke algebra R is symmetric, we present a new construction of quantum monoidal seeds $ \mathscr{S}_{w,v}$ for $\mathcal{C}_{wv}$ using the reflection functors $\mathcal{F}_i$ and the newly introduced operators $\mathcal{K}_i$. The monoidal seed $ \mathscr{S}_{w,v}$ is obtained as a subseed of the monoidal seed of $\mathcal{C}_w$ constructed by applying $\mathcal{K}_i$ and $\mathcal{F}_i$ along the special KF sequence determined by a reduced expression of $w$ and $v$. We further prove that the monoidal seed $\mathscr{S}_{w,v}$ coincides with the set of all prime factors of the determinantial modules $M(w_{\le k } Λ_{i_k}, v_{\le k} Λ_{i_k} )$. We prove that the Grothendieck ring $K(\mathcal{C}_{wv}) $ lies between the cluster algebra and the upper cluster algebra.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2507.09655v3'>2507.09655</a>\]&nbsp; **Beyond endoscopy for $\mathsf{GL}_2$ over $\mathbb{Q}$ with ramification 2: bounds towards the Ramanujan conjecture**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Yuhao Cheng &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>We continue generalizing Altuğ's work on $\mathsf{GL}_2$ over $\mathbb{Q}$ in the unramified setting for \emph{Beyond Endoscopy} to the ramified case where ramification occurs at $S=\{\infty,q_1,\dots,q_r\}$ with $2\in S$, after generalizing the first step. We establish a new proof of the $1/4$ bound towards the Ramanujan conjecture for the trace of the cuspidal part in the ramified case, which is also provided by adapting Altuğ's original approach. The proof proceeds in three stages: First, we estimate the contributions from the non-elliptic parts of the trace formula. Then, we apply the main result from our the previous work to isolate the $1$-dimensional representations within the elliptic part. Finally, we employ technical analytic estimates to bound the remainder terms in the elliptic part.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2606.17955v2'>2606.17955</a>\]&nbsp; **An Average-Order Theorem for a Shifted Pairwise-Coprime Extremal Problem**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Eric Li &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 36 pages, no figures. v2 adds an accompanying Lean 4 formalisation, a formalisation section and repository link, and expanded acknowledgements; exposition revised
-
-<details><summary>Abstract</summary><p>For $n\ge 2$, let $M(n)$ be the supremum of $\sum_{a\in A}1/(n-a)$ over pairwise coprime sets $A\subset[1,n)$. Erdős asked whether $M(n)\le \sum_{p<n}1/p+O(1)$ uniformly in $n$. We prove the quantitative average-order formula $\sum_{n\le N}M(n)=e^{-γ}N\log\log N+O(N)$. The proof combines the self-rough lower construction $\{n-d:P^{-}(n-d)>d\}$ with a bounded-cost dual certificate and Buchstab--de Bruijn estimates. We also show $M(n)=(e^{-γ}+o(1))\log\log n$ for almost all $n$, with a quantitative exceptional-set bound, so Erdős's inequality holds for almost all $n$. The argument combines a long-interval two-dimensional beta sieve for two moving forbidden residue classes with an exact finite singular-series cancellation. The remaining obstacles to a full variance estimate are a shifted-prime second moment for $d>\sqrt{2N}$ and finite-$u$ rough correlations in the intermediate tail, yielding a precise conditional criterion. For every $\varepsilon>0$ we also prove the uniform pointwise bound $M(n)\le(2+\varepsilon)\log\log n+O_{\varepsilon}(1)$ and explain the linear-sieve barrier at the constant $2$. The results of this paper have been formally verified in Lean.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.00359v2'>2608.00359</a>\]&nbsp; **Explicit description of certain 3-point K-theoretic Gromov-Witten invariants for flag manifolds**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Satoshi Naito, Daisuke Sagaki &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.QA &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>We give an explicit description, in terms of the quantum Bruhat graph, of the (torus-equivariant) 3-point, genus 0, $K$-theoretic Gromov-Witten invariants $\langle \mathcal{O}(- λ), \mathcal{O}^{w}, \mathcal{O}_{u} \rangle_{d}$ for the (full) flag manifold $X = G/B$, where $\mathcal{O}(- λ)$ denotes the class in the (torus-equivariant) $K$-theory ring $K_{T}(X)$ of $X$ of the line bundle $\mathcal{O}_{X}(- λ) = G \times_{B} \mathbb{C}_λ$ over $X = G/B$ associated to a weight $λ\in W \varpi_i$ lying in the Weyl group orbit of a minuscule fundamental weight $\varpi_i$, and $\mathcal{O}_{u}$, $\mathcal{O}^{w}$ are the Schubert and opposite Schubert classes in $K_{T}(X)$ for $u, w \in W$. This result can be thought of as a partial generalization of the quantum $K$-theoretic divisor axiom, which we obtained in our previous work; our proof utilizes a generalization of the Chevalley formula in the (torus-equivariant) quantum $K$-theory ring $QK_{T}(X)$ of $X$, which computes the quantum product with the line bundle class $\mathcal{O}(- λ)$ associated to the weight $λ$ above.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2512.00787v3'>2512.00787</a>\]&nbsp; **The intrinsic subgroup of an elliptic curve and Mazur's torsion theorem**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-15 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Takao Yamazaki, Yifan Yang, Hwajong Yoo, Myungjun Yu &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 35 pages; proofs of Propositions 5.9 and 5.15 improved; minor errors corrected
-
-<details><summary>Abstract</summary><p>We define and study a biadditive symmetric (not necessarily perfect) pairing on the torsion part $\mathrm{Pic}(X)_{\mathrm{tors}}$ of the Picard group of a smooth projective curve $X$ over a field $k$ with values in $k^\times \otimes \mathbb{Q}/\mathbb{Z}$. We call its kernel the intrinsic subgroup of $X$. It turns out that some information on the reduction type of $X$ can be read off from the intrinsic subgroup. Mazur's torsion theorem says that there are exactly 15 isomorphism classes of abelian groups that appear as the rational torsion points of an elliptic curve $X$ over $\mathbb{Q}$ (identified with $\mathrm{Pic}(X)_{\mathrm{tors}}$). We refine this result by determining which subgroups of those 15 groups appear as the intrinsic subgroups.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.14931v1'>2608.14931</a>\]&nbsp; **Möbius Covariance and Coefficient Duality: From Bernoulli Series to Enumerative Applications**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Max A. Alekseyev &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>A coefficient duality first encountered for formal Bernoulli series is shown to be equivalent to a general Möbius covariance law for formal power series. We obtain a structural characterization, an eigenspace interpretation, and a weighted form of this duality. The Catalan convolution and Chebyshev identities from the motivating Bernoulli setting extend to arbitrary Möbius-covariant families and yield a general Ramanujan-type summation formula encompassing consecutive half-integer powers. The framework also recovers classical Bernoulli and Euler recurrences and produces recurrence families for colored matchings and generalized central trinomial coefficients, with further realizations from reflection-symmetric Appell sequences and Gorenstein Hilbert series.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.14879v1'>2608.14879</a>\]&nbsp; **Symplectic F_2-vector spaces and Dyck words**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** G. Lusztig &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.RT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 6 pages
-
-<details><summary>Abstract</summary><p>Let $V$ be an $F_2$-vector space with a given nondegenerate symplectic form and a circular basis. We define a partition of $V$ into subsets each of which has cardinal equal to a product of Catalan numbers. This can be viewed as a partition of the set of unipotent representations of a finite symplectic group corresponding to a certain two-sided cell.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2405.00756v2'>2405.00756</a>\]&nbsp; **Murnaghan-Type Representations for the Positive Elliptic Hall Algebra**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Milo Bechtloff Weising &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CO &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** This is the complete version of the author's accepted FPSAC24 extended abstract arXiv:2310.10249
-
-<details><summary>Abstract</summary><p>We construct a new family of graded representations $\widetilde{W}_λ$ for the positive elliptic Hall algebra $\mathcal{E}^{+}$ indexed by Young diagrams $λ$ which generalize the standard $\mathcal{E}^{+}$ action on symmetric functions. These representations have homogeneous bases of eigenvectors for the action of the Macdonald element $P_{0,1} \in \mathcal{E}^{+}$ with distinct $\mathbb{Q}(q,t)$-rational spectrum generalizing the symmetric Macdonald functions. The analysis of the structure of these representations exhibits interesting combinatorics arising from the limits of periodic standard Young tableaux. We find an explicit combinatorial rule for the action of the multiplication operators $e_r^{\bullet}$ generalizing the Pieri rule for symmetric Macdonald functions.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2308.16277v4'>2308.16277</a>\]&nbsp; **Spectral Tile Direction in the Group $\mathbb{Z}_{p^2} \times \mathbb{Z}_{q^2} \times \mathbb{Z}_r$**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Thomas Fallon, Gergely Kiss, Azita Mayeli, Gábor Somlai &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.CA &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 18 pages. A gap in one of the main steps has been found and repaired with a new, complete argument
-
-<details><summary>Abstract</summary><p>Let $p$, $q$, and $r$ be distinct primes such that $p^2q^2<r$. We prove that every spectral set in the cyclic group $\mathbb{Z}_{p^2q^2r}$ is a tile. Since the reverse direction is already known, this shows that $\mathbb{Z}_{p^2q^2r}$ is a Fuglede group under this condition. The proof is based on divisibility properties of mask polynomials and on the structure of spectral sets in finite cyclic groups.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.14852v1'>2608.14852</a>\]&nbsp; **Reciprocity for The Short Twisted Second Moment of The Riemann Zeta Function**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Ze Sen Tang &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>We prove a reciprocity formula for a twisted second moment of the Riemann zeta function over a short interval of length $T^δ$, where $δ\in (\frac{1}{2},1)$, centered at height $T$ on the critical line. This result extends Khan's reciprocity formula to the short interval setting and makes explicit the relation between the twisting parameters and the interval length.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2504.02795v4'>2504.02795</a>\]&nbsp; **Greedy Regular Convolutions**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Jan Snellman &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 34 pages, 9 figures. version of 2025-04-27: corrected characterisation of primitive elements (Lemma 14). version of 2025-04-29: typographic improvements, included biblatex files so proper bibliography could be processed. version of 2026-08-14: corrects typos: two strict inequality signs changed to nonstrict, letter p change to letter q, fraction 1/12 changed to 1/6
-
-<details><summary>Abstract</summary><p>We introduce a class of convolutions on arithmetical functions that are regular in the sense of of Narkiewicz, homogeneous in the sense of Burnett et al, and bounded, in the sense that there exists a common finite bound for the rank of primitive numbers. Among these "greedy convolutions" the unitary convolution and the "ternary convolution" are particularly interesting: they are the only regular, homogeneous convolutions where each primitive number have the same finite rank. While the greedy convolution of length 3, also described in detail, has primitive numbers of rank 3 and rank 1, it is still special in that the set of primitives can be generated by a simple recursive procedure that we name selective sifting.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.14545v1'>2608.14545</a>\]&nbsp; **Compressive Domains and a Bound for the Number of Components of the Fixed Locus of a Self-Map of the Berkovich Line**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Xander Faber, Niladri Patra &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.AG &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 24 pages
-
-<details><summary>Abstract</summary><p>We introduce the notion of a "compressive domain" for the action of a rational function on the Berkovich projective line over a complete nontrivially-valued algebraically closed nonarchimedean field. We prove that such a domain always contains a classical fixed point, and we leverage this fact to give a sharp upper bound for the number of connected components of the fixed locus of a rational function. We give a second proof for polynomial functions that uses a previously unpublished mass formula of Rivera-Letelier. Finally, we give an explicit formula for the crucial weight inside a compressive domain as a function of the number of classical fixed points and boundary points.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.14777v1'>2608.14777</a>\]&nbsp; **Exponential sums over primes**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** James Maynard, Mayank Pandey, Maksym Radziwiłł &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 17 pages
-
-<details><summary>Abstract</summary><p>Let $α=a/q+ε$ with $(a,q)=1$, $q\le N^{1/2}$ and $|ε|\le 1/(qN^{1/2})$, and let $B:=\max(q,qN|ε|)$. We show that $$ \Bigl|\sum_{n<N}Λ(n)e(nα)\Bigr|\le N^{o(1)}\Bigl(\frac{N}{B^{1/2}}+N^{19/24}\Bigr). $$ This improves on the classical bound of Vinogradov from 1937, which has $N^{4/5}$ in place of $N^{19/24}$.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.14524v1'>2608.14524</a>\]&nbsp; **The inverse Galois problem of iterated Galois groups and their fixed-point proportion**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Santiago Radi &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-
-> **Comment:** 54 pages, 8 figures
-
-<details><summary>Abstract</summary><p>In 1985, Odoni initiated the study of arboreal representations and the fixed-point proportion, motivated by prime density problems in arithmetic dynamics. Since then, many questions regarding the connection between the dynamics of rational functions and the Galois groups associated to their dynamics (iterated Galois groups) have been posed. In this article, we give several contributions to this connection with the introduction of the concept of virtually mixing groups. This new concept is related to the capability of self-replication of the iterated Galois groups, and when it fails to be completely self-replicated, the failure is always by a finite index normal subgroup. It turns out that the quotient by this subgroup contains valuable information of the properties of the rational function. First, we investigate the inverse Galois problem, showing that iterated Galois groups of rational functions are always virtually mixing and the failure (the quotient by this finite-index subgroup) is related to geometric properties of the rational function. As a consequence, we prove that the rational function is induced by an endomorphism of an algebraic curve (dynamical pullback) if and only if this failure is non-trivial. Finally, we solve the main open problem of the fixed-point proportion of geometric iterated Galois groups of rational functions, by showing that the fixed-point proportion is zero when the map is not a dynamical pullback. This result has direct applications to prime density problems, proportion of periodic points in the reduction of maps and proportion of periodic points over finite fields. The proofs in this article rely on a combination of techniques and results from group theory, ergodic theory, probability, number theory, complex dynamics, energy transport in graphs, arithmetic dynamics and algebraic geometry.</p></details>
-
----
-
-### \[<a href='https://arxiv.org/abs/2608.14495v1'>2608.14495</a>\]&nbsp; **Shimura curves of discriminant 14 and 15 and associated Heun Functions**
-
-
- &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-08-14 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Harshavardhan Reddy, Devendra Tiwari &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-<details><summary>Abstract</summary><p>The Shimura curve of discriminant $D$ for $D=14, 15$ is uniformized by a subgroup of an arithmetic quadrilateral Fuchsian group $(2, 2, 2, q)$, where $q=4, 6$. We relate the generator of the ring of quaternionic modular forms on this Shimura curve to explicit Heun functions for the quadrilateral group. We also discuss how the Picard-Fuchs equation of the associated family of abelian surfaces has solutions that are modular forms on $X^{D}(1) / W_{D}$, where $W_D$ is the full group of Atkin-Lehner involutions. This leads us to completely describe the rational exceptional sets of the associated Heun functions, and the algebraic values attained by the Heun function on these points, for example $${\rm He}\left( 81, \frac{1}{2}; \frac{1}{3}, \frac{1}{6}, \frac{1}{2}, \frac{1}{2};-\frac{729}{112}\right)= \left( \frac{2^2 \cdot 3^3 \cdot 5^3}{7^5} \right)^{\frac{1}{6}}$$.</p></details>
 
