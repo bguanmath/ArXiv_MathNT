@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv.
 
-Last update: 2026-10-24
+Last update: 2026-10-25
 
 Displaying the latest papers from categories: math.NT, math.RT
 
@@ -216,7 +216,7 @@ Displaying the latest papers from categories: math.NT, math.RT
 
 ---
 
-### \[<a href='https://arxiv.org/abs/2501.16916v3'>2501.16916</a>\]&nbsp; **On the Kummer pro-étale cohomology of $\mathbb B_{\mathrm{dR}}$**
+### \[<a href='https://arxiv.org/abs/2501.16916v3'>2501.16916</a>\]&nbsp; **On the pro-Kummer étale cohomology of $\mathbb B_{\mathrm{dR}}$**
 
 
  &nbsp;&nbsp;|&nbsp;&nbsp;**Date:** 2026-10-22 &nbsp;&nbsp;|&nbsp;&nbsp; **Authors:** Xinyu Shao &nbsp;&nbsp;|&nbsp;&nbsp; **Category:** math.NT &nbsp;&nbsp;|&nbsp;&nbsp; 
